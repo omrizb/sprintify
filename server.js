@@ -7,7 +7,7 @@ import cookieParser from 'cookie-parser'
 import { authRoutes } from './api/auth/auth.routes.js'
 import { userRoutes } from './api/user/user.routes.js'
 import { reviewRoutes } from './api/review/review.routes.js'
-import { carRoutes } from './api/car/car.routes.js'
+import { stationRoutes } from './api/station/station.routes.js'
 import { setupSocketAPI } from './services/socket.service.js'
 
 import { setupAsyncLocalStorage } from './middlewares/setupAls.middleware.js'
@@ -23,11 +23,11 @@ if (process.env.NODE_ENV === 'production') {
     app.use(express.static(path.resolve('public')))
 } else {
     const corsOptions = {
-        origin: [   'http://127.0.0.1:3000',
-                    'http://localhost:3000',
-                    'http://127.0.0.1:5173',
-                    'http://localhost:5173'
-                ],
+        origin: ['http://127.0.0.1:3000',
+            'http://localhost:3000',
+            'http://127.0.0.1:5173',
+            'http://localhost:5173'
+        ],
         credentials: true
     }
     app.use(cors(corsOptions))
@@ -37,7 +37,7 @@ app.all('*', setupAsyncLocalStorage)
 app.use('/api/auth', authRoutes)
 app.use('/api/user', userRoutes)
 app.use('/api/review', reviewRoutes)
-app.use('/api/car', carRoutes)
+app.use('/api/station', stationRoutes)
 
 setupSocketAPI(server)
 
