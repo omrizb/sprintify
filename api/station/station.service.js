@@ -59,6 +59,7 @@ async function remove(stationId) {
 		const criteria = {
 			_id: ObjectId.createFromHexString(stationId),
 		}
+
 		if (!isAdmin) criteria['owner._id'] = ownerId
 
 		const collection = await dbService.getCollection('station')
@@ -85,14 +86,29 @@ async function add(station) {
 }
 
 async function update(station) {
-	const stationToSave = { vendor: station.vendor, speed: station.speed }
+	const stationToSave = {
+		name: station.name,
+		type: station.type,
+		isLikedSongs: station.isLikedSongs,
+		tags: station.tags,
+		stationImgUrl: station.stationImgUrl,
+		description: station.description,
+		isOwnedByUser: station.isOwnedByUser,
+		createdBy: station.createdBy,
+		likedByUsers: station.likedByUsers,
+		songs: station.songs,
+		createdAt: station.createdAt,
+		addedAt: station.addedAt,
+		isPinned: station.isPinned,
+		lastIdx: station.lastIdx || ''
+	}
 
 	try {
 		const criteria = { _id: ObjectId.createFromHexString(station._id) }
 
 		const collection = await dbService.getCollection('station')
 		await collection.updateOne(criteria, { $set: stationToSave })
-
+		console.log(station)
 		return station
 	} catch (err) {
 		logger.error(`cannot update station ${station._id}`, err)
@@ -131,8 +147,13 @@ async function removeStationMsg(stationId, msgId) {
 
 function _buildCriteria(filterBy) {
 	const criteria = {
-		vendor: { $regex: filterBy.txt, $options: 'i' },
-		speed: { $gte: filterBy.minSpeed },
+		name: { $regex: filterBy.txt, $options: 'i' },
+		// type: { $regex: filterBy.stationType, $options: 'i' },
+		// owner: { $regex: filterBy.createdBy, $options: 'i' },
+		// userId: { $regex: filterBy.userId, $options: 'i' },
+		// createdAt: { $gte: filterBy.createdAt },
+		// addedAt: { $gte: filterBy.addedAt },
+
 	}
 
 	return criteria
