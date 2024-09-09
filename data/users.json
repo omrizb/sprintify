@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "66de2eb16260c20fa8d47f9f"
+  },
+  "username": "darr",
+  "password": "$2b$10$VgnrT4A/eOHvbqfZo6B9f.5XCh5RrEISAU3AAzqDTxR2Oey31CsmC",
+  "imgUrl": null,
+  "isAdmin": null,
+  "fullName": "darr"
+},
+{
+  "_id": {
+    "$oid": "66de3028b74ed07e77f955c1"
+  },
+  "username": "omri",
+  "password": "$2b$10$PWFOnxltS9TjqthENpIXZ.d67F3KEXzM45odCv9UP0X.akVLgUIPq",
+  "imgUrl": null,
+  "isAdmin": true,
+  "fullName": "omri"
+}]
