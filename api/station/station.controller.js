@@ -16,6 +16,7 @@ export async function getStations(req, res) {
 			// pageIdx: req.query.pageIdx,
 		}
 		const stations = await stationService.query(filterBy)
+
 		res.json(stations)
 	} catch (err) {
 		logger.error('Failed to get stations', err)
@@ -36,11 +37,17 @@ export async function getStationById(req, res) {
 
 export async function addStation(req, res) {
 	const { loggedinUser, body: station } = req
+	const { _id, fullName, imgUrl } = loggedinUser
 
 	try {
-		station.createdBy = loggedinUser
+		station.createdBy = {
+			id: _id,
+			fullName,
+			imgUrl
+		}
 		const addedStation = await stationService.add(station)
 		res.json(addedStation)
+
 	} catch (err) {
 		logger.error('Failed to add station', err)
 		res.status(400).send({ err: 'Failed to add station' })

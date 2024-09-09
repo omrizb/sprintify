@@ -82,7 +82,7 @@ async function update(user) {
         // peek only updatable properties
         const userToSave = {
             _id: ObjectId.createFromHexString(user._id), // needed for the returnd obj
-            fullname: user.fullname,
+            fullName: user.fullName,
             isAdmin: user.isAdmin,
             imgUrl: user.imgUrl,
             likedStationIds: user.likedStationIds,
@@ -104,7 +104,7 @@ async function add(user) {
         const userToAdd = {
             username: user.username,
             password: user.password,
-            fullname: user.fullname,
+            fullName: user.fullName,
             imgUrl: user.imgUrl,
             isAdmin: user.isAdmin,
             likedStationIds: [],
@@ -128,7 +128,7 @@ function _buildCriteria(filterBy) {
                 username: txtCriteria,
             },
             {
-                fullname: txtCriteria,
+                fullName: txtCriteria,
             },
         ]
     }

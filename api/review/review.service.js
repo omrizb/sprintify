@@ -7,11 +7,11 @@ import { dbService } from '../../services/db.service.js'
 export const reviewService = { query, remove, add }
 
 async function query(filterBy = {}) {
-	try {
-		const criteria = _buildCriteria(filterBy)
-		const collection = await dbService.getCollection('review')
-        
-		var reviews = await collection.aggregate([
+    try {
+        const criteria = _buildCriteria(filterBy)
+        const collection = await dbService.getCollection('review')
+
+        var reviews = await collection.aggregate([
             {
                 $match: criteria,
             },
@@ -39,69 +39,69 @@ async function query(filterBy = {}) {
             },
         ]).toArray()
 
-		reviews = reviews.map(review => {
-			review.byUser = { 
-                _id: review.byUser._id, 
-                fullname: review.byUser.fullname 
+        reviews = reviews.map(review => {
+            review.byUser = {
+                _id: review.byUser._id,
+                fullName: review.byUser.fullName
             }
-			review.aboutUser = { 
-                _id: review.aboutUser._id, 
-                fullname: review.aboutUser.fullname 
+            review.aboutUser = {
+                _id: review.aboutUser._id,
+                fullName: review.aboutUser.fullName
             }
-			delete review.byUserId
-			delete review.aboutUserId
-			return review
-		})
+            delete review.byUserId
+            delete review.aboutUserId
+            return review
+        })
 
-		return reviews
-	} catch (err) {
-		logger.error('cannot get reviews', err)
-		throw err
-	}
+        return reviews
+    } catch (err) {
+        logger.error('cannot get reviews', err)
+        throw err
+    }
 }
 
 async function remove(reviewId) {
-	try {
-		const { loggedinUser } = asyncLocalStorage.getStore()
-		const collection = await dbService.getCollection('review')
+    try {
+        const { loggedinUser } = asyncLocalStorage.getStore()
+        const collection = await dbService.getCollection('review')
 
-		const criteria = { _id: ObjectId.createFromHexString(reviewId) }
+        const criteria = { _id: ObjectId.createFromHexString(reviewId) }
 
         // remove only if user is owner/admin
-		if (!loggedinUser.isAdmin) {
+        if (!loggedinUser.isAdmin) {
             criteria.byUserId = ObjectId.createFromHexString(loggedinUser._id)
         }
 
         const { deletedCount } = await collection.deleteOne(criteria)
-		return deletedCount
-	} catch (err) {
-		logger.error(`cannot remove review ${reviewId}`, err)
-		throw err
-	}
+        return deletedCount
+    } catch (err) {
+        logger.error(`cannot remove review ${reviewId}`, err)
+        throw err
+    }
 }
 
 async function add(review) {
     try {
         const reviewToAdd = {
             byUserId: ObjectId.createFromHexString(review.byUserId),
-			aboutUserId: ObjectId.createFromHexString(review.aboutUserId),
-			txt: review.txt,
-		}
-		const collection = await dbService.getCollection('review')
-		await collection.insertOne(reviewToAdd)
-        
-		return reviewToAdd
-	} catch (err) {
-		logger.error('cannot add review', err)
-		throw err
-	}
+            aboutUserId: ObjectId.createFromHexString(review.aboutUserId),
+            txt: review.txt,
+        }
+        const collection = await dbService.getCollection('review')
+        await collection.insertOne(reviewToAdd)
+
+        return reviewToAdd
+    } catch (err) {
+        logger.error('cannot add review', err)
+        throw err
+    }
 }
 
 function _buildCriteria(filterBy) {
-	const criteria = {}
+    const criteria = {}
 
-	if (filterBy.byUserId) {
+    if (filterBy.byUserId) {
         criteria.byUserId = ObjectId.createFromHexString(filterBy.byUserId)
     }
-	return criteria
+    return criteria
 }

@@ -18,6 +18,26 @@ export const stationService = {
 
 async function query(filterBy = { txt: '' }) {
 	try {
+
+		// if (edit) {
+		// 	const collection = await dbService.getCollection('station')
+		// 	var stationCursor = await collection.find({}).toArray()
+
+		// 	stationCursor.forEach(station => {
+		// 		if (station.createdBy.id === 'AAAA') station.createdBy.id = '66de2eb16260c20fa8d47f9f'
+		// 		station.likedByUsers = station.likedByUsers.map(likedId => {
+		// 			if (likedId === 'AAAA') likedId = '66de2eb16260c20fa8d47f9f'
+		// 			return likedId
+		// 		})
+		// 	})
+		// 	for (let i = 0; i < stationCursor.length; i++) {
+		// 		stationCursor[i]._id = stationCursor[i]._id.toString()
+
+		// 		await update(stationCursor[i])
+
+		// 	}
+		// 	return stationCursor
+		// }
 		const criteria = _buildCriteria(filterBy)
 		const sort = _buildSort(filterBy)
 
@@ -60,7 +80,7 @@ async function remove(stationId) {
 			_id: ObjectId.createFromHexString(stationId),
 		}
 
-		if (!isAdmin) criteria['owner._id'] = ownerId
+		if (!isAdmin) criteria['createdBy.id'] = ownerId
 
 		const collection = await dbService.getCollection('station')
 		const res = await collection.deleteOne(criteria)
@@ -77,7 +97,6 @@ async function add(station) {
 	try {
 		const collection = await dbService.getCollection('station')
 		await collection.insertOne(station)
-
 		return station
 	} catch (err) {
 		logger.error('cannot insert station', err)
@@ -108,7 +127,6 @@ async function update(station) {
 
 		const collection = await dbService.getCollection('station')
 		await collection.updateOne(criteria, { $set: stationToSave })
-		console.log(station)
 		return station
 	} catch (err) {
 		logger.error(`cannot update station ${station._id}`, err)
@@ -116,45 +134,32 @@ async function update(station) {
 	}
 }
 
-async function addStationMsg(stationId, msg) {
-	try {
-		const criteria = { _id: ObjectId.createFromHexString(stationId) }
-		msg.id = makeId()
-
-		const collection = await dbService.getCollection('station')
-		await collection.updateOne(criteria, { $push: { msgs: msg } })
-
-		return msg
-	} catch (err) {
-		logger.error(`cannot add station msg ${stationId}`, err)
-		throw err
-	}
-}
-
-async function removeStationMsg(stationId, msgId) {
-	try {
-		const criteria = { _id: ObjectId.createFromHexString(stationId) }
-
-		const collection = await dbService.getCollection('station')
-		await collection.updateOne(criteria, { $pull: { msgs: { id: msgId } } })
-
-		return msgId
-	} catch (err) {
-		logger.error(`cannot add station msg ${stationId}`, err)
-		throw err
-	}
-}
 
 function _buildCriteria(filterBy) {
 	const criteria = {
 		name: { $regex: filterBy.txt, $options: 'i' },
-		// type: { $regex: filterBy.stationType, $options: 'i' },
-		// owner: { $regex: filterBy.createdBy, $options: 'i' },
-		// userId: { $regex: filterBy.userId, $options: 'i' },
-		// createdAt: { $gte: filterBy.createdAt },
-		// addedAt: { $gte: filterBy.addedAt },
-
 	}
+
+	if (filterBy.createdBy) {
+		criteria['createdBy.id'] = filterBy.createdBy
+	}
+
+	if (filterBy.stationType) {
+		criteria.type = filterBy.stationType
+	}
+
+	if (filterBy.spotifyId) {
+		criteria['createdBy.id'] = filterBy.spotifyId
+	}
+
+	if (filterBy.userId) {
+
+		criteria.$or = [
+			{ "createdBy.id": filterBy.userId }, // Condition to match createdBy.id
+			{ likedByUsers: filterBy.userId } // Condition to check if userId is in the likedByUsers array
+		]
+	}
+
 
 	return criteria
 }
