@@ -14,6 +14,6 @@ if (process.env.NODE_ENV === 'production') {
 }
 // config.isGuestMode = true
 
-// config = configProd
+config = configProd
 
 
