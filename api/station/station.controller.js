@@ -2,6 +2,7 @@ import { logger } from '../../services/logger.service.js'
 import { stationService } from './station.service.js'
 
 export async function getStations(req, res) {
+
 	try {
 		const filterBy = {
 			txt: req.query.txt || '',
@@ -15,6 +16,7 @@ export async function getStations(req, res) {
 			sortDir: req.query.sortDir || 1,
 			// pageIdx: req.query.pageIdx,
 		}
+		console.log(filterBy)
 		const stations = await stationService.query(filterBy)
 
 		res.json(stations)
