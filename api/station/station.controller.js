@@ -63,10 +63,12 @@ export async function updateStation(req, res) {
 
 
 
-	if (!isAdmin && station.createdBy.id !== userId) {
-		res.status(403).send('Not your station...')
-		return
-	}
+	// if (!isAdmin && station.createdBy.id !== userId) {
+	// 	res.status(403).send('Not your station...')
+	// 	return
+	// }
+	//When we remove a station from library it means we update the station's key 
+	// likedByUsers and remove the userId, we do it to stations that do not belong to the user
 
 	try {
 		const updatedStation = await stationService.update(station)
