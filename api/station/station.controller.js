@@ -42,11 +42,11 @@ export async function addStation(req, res) {
 	const { _id, fullName, imgUrl } = loggedinUser
 
 	try {
-		station.createdBy = {
-			id: _id,
-			fullName,
-			imgUrl
-		}
+		// station.createdBy = {
+		// 	id: _id,
+		// 	fullName,
+		// 	imgUrl
+		// }
 		const addedStation = await stationService.add(station)
 		res.json(addedStation)
 
