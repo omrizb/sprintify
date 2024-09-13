@@ -61,12 +61,10 @@ export async function updateStation(req, res) {
 
 	const { _id: userId, isAdmin } = loggedinUser
 
-	// if (!isAdmin && station.createdBy.id !== userId) {
-	// 	res.status(403).send('Not your station...')
-	// 	return
-	// }
-	//When we remove a station from library it means we update the station's key 
-	// likedByUsers and remove the userId, we do it to stations that do not belong to the user
+	if (!isAdmin && station.createdBy.id !== userId || station.isPinned) {
+		res.status(403).send('Not your station...')
+		return
+	}
 
 	try {
 		const updatedStation = await stationService.update(station)
@@ -77,6 +75,20 @@ export async function updateStation(req, res) {
 			data: JSON.parse(serializedStation),
 			userId: loggedinUser._id
 		})
+		res.json(updatedStation)
+	} catch (err) {
+		logger.error('Failed to update station', err)
+		res.status(400).send({ err: 'Failed to update station' })
+	}
+}
+
+export async function toggleLikeStation(req, res) {
+	var { loggedinUser, body: station } = req
+
+	const { _id: userId, isAdmin } = loggedinUser
+
+	try {
+		const updatedStation = await stationService.update(station)
 		res.json(updatedStation)
 	} catch (err) {
 		logger.error('Failed to update station', err)
