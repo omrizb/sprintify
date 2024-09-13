@@ -1,4 +1,5 @@
 import { logger } from '../../services/logger.service.js'
+import { socketService } from '../../services/socket.service.js'
 import { stationService } from './station.service.js'
 
 export async function getStations(req, res) {
@@ -16,7 +17,6 @@ export async function getStations(req, res) {
 			sortDir: req.query.sortDir || 1,
 			// pageIdx: req.query.pageIdx,
 		}
-		console.log(filterBy)
 		const stations = await stationService.query(filterBy)
 
 		res.json(stations)
@@ -57,11 +57,9 @@ export async function addStation(req, res) {
 }
 
 export async function updateStation(req, res) {
-	const { loggedinUser, body: station } = req
+	var { loggedinUser, body: station } = req
 
 	const { _id: userId, isAdmin } = loggedinUser
-
-
 
 	// if (!isAdmin && station.createdBy.id !== userId) {
 	// 	res.status(403).send('Not your station...')
@@ -72,6 +70,13 @@ export async function updateStation(req, res) {
 
 	try {
 		const updatedStation = await stationService.update(station)
+		console.log('user for update', userId)
+		const serializedStation = JSON.stringify(updatedStation)
+		socketService.broadcast({
+			type: 'station-updated',
+			data: JSON.parse(serializedStation),
+			userId: loggedinUser._id
+		})
 		res.json(updatedStation)
 	} catch (err) {
 		logger.error('Failed to update station', err)
