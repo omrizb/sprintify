@@ -2,7 +2,7 @@
   "_id": {
     "$oid": "66de4cddd5247c3e20f0de0d"
   },
-  "name": "Liked Songs!",
+  "name": "Liked Songs",
   "type": "playlist",
   "isPinned": true,
   "stationImgUrl": "https://misc.scdn.co/liked-songs/liked-songs-300.png",
