@@ -69,10 +69,11 @@ export async function updateStation(req, res) {
 	try {
 		const updatedStation = await stationService.update(station)
 		console.log('user for update', userId)
-		const serializedStation = JSON.stringify(updatedStation)
+		// const serializedStation = JSON.stringify(updatedStation)
 		socketService.broadcast({
 			type: 'station-updated',
-			data: JSON.parse(serializedStation),
+			// data: structuredClone(updatedStation),
+			data: updatedStation,
 			userId: loggedinUser._id
 		})
 		res.json(updatedStation)
