@@ -14,14 +14,20 @@ export function setupSocketAPI(http) {
         socket.on('disconnect', socket => {
             logger.info(`Socket disconnected [id: ${socket.id}]`)
         })
-        socket.on('chat-set-topic', topic => {
-            if (socket.myTopic === topic) return
-            if (socket.myTopic) {
-                socket.leave(socket.myTopic)
-                logger.info(`Socket is leaving topic ${socket.myTopic} [id: ${socket.id}]`)
+        socket.on('station-set-player', stationId => {
+            const topic = stationId
+            if (socket.topic === topic) return
+            if (socket.topic) {
+                socket.leave(socket.topic)
+                logger.info(`Socket is leaving song ${socket.topic} [id: ${socket.id}]`)
             }
             socket.join(topic)
-            socket.myTopic = topic
+            socket.topic = topic
+        })
+
+        socket.on('player-change', player => {
+            gIo.to(player.stationId).emit('on-player-change', player)
+            console.log(player)
         })
         socket.on('chat-send-msg', msg => {
             logger.info(`New chat msg from socket [id: ${socket.id}], emitting to topic ${socket.myTopic}`)
