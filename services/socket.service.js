@@ -15,6 +15,10 @@ export function setupSocketAPI(http) {
             logger.info(`Socket disconnected [id: ${socket.id}]`)
         })
         socket.on('join-mutual-station', stationId => {
+            if (!stationId && socket.topic) {
+                socket.leave(socket.topic)
+                logger.info(`Socket is leaving song ${socket.topic} [id: ${socket.id}]`)
+            }
             const topic = stationId
             if (socket.topic === topic) return
             if (socket.topic) {
