@@ -14,7 +14,7 @@ export function setupSocketAPI(http) {
         socket.on('disconnect', socket => {
             logger.info(`Socket disconnected [id: ${socket.id}]`)
         })
-        socket.on('station-set-player', stationId => {
+        socket.on('join-mutual-station', stationId => {
             const topic = stationId
             if (socket.topic === topic) return
             if (socket.topic) {
@@ -25,9 +25,8 @@ export function setupSocketAPI(http) {
             socket.topic = topic
         })
 
-        socket.on('player-change', player => {
-            gIo.to(player.stationId).emit('on-player-change', player)
-            console.log(player)
+        socket.on('player-change', state => {
+            gIo.to(state.stationId).emit('on-player-change', state)
         })
         socket.on('chat-send-msg', msg => {
             logger.info(`New chat msg from socket [id: ${socket.id}], emitting to topic ${socket.myTopic}`)
