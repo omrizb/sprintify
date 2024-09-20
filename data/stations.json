@@ -13,26 +13,62 @@
     "imgUrl": "https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"
   },
   "likedByUsers": [],
-  "createdAt": 1725327612081,
+  "createdAt": "2024-09-09T01:18:21.000Z",
   "addedAt": 1725327612081,
   "songs": [
     {
-      "spotifyId": "7tFiyTwD0nx5a1eklYtX2J",
-      "ytId": "fJ9rUzIMcZQ",
-      "songName": "Bohemian Rhapsody - Remastered 2011",
+      "spotifyId": "5ghIJDpPoe3CfHMGu71E6T",
+      "ytId": "hTWKbfoikeg",
+      "songName": "Smells Like Teen Spirit",
       "artist": {
-        "name": "Queen",
-        "spotifyId": "1dfeR4HaWDbWqFHLkxsg1d"
+        "name": "Nirvana",
+        "spotifyId": "6olE6TJLqED3rqDCT0FyPh"
       },
       "album": {
-        "name": "A Night At The Opera (Deluxe Remastered Version)",
-        "spotifyId": "6X9k3hSsvQck2OfKYdBbXr"
+        "name": "Nevermind (Remastered)",
+        "spotifyId": "2guirTSEqLizK7j9i1MTTZ"
       },
       "imgUrl": {
-        "big": "https://i.scdn.co/image/ab67616d0000b273ce4f1737bc8a646c8c4bd25a",
-        "small": "https://i.scdn.co/image/ab67616d00004851ce4f1737bc8a646c8c4bd25a"
+        "big": "https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf",
+        "small": "https://i.scdn.co/image/ab67616d00004851e175a19e530c898d167d39bf"
       },
-      "duration": 354
+      "duration": 301
+    },
+    {
+      "spotifyId": "40riOy7x9W7GXjyGp4pjAv",
+      "ytId": "BciS5krYL80",
+      "songName": "Hotel California - 2013 Remaster",
+      "artist": {
+        "name": "Eagles",
+        "spotifyId": "0ECwFtbIWEVNwjlrfc6xoL"
+      },
+      "album": {
+        "name": "Hotel California (2013 Remaster)",
+        "spotifyId": "2widuo17g5CEC66IbzveRu"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2734637341b9f507521afa9a778",
+        "small": "https://i.scdn.co/image/ab67616d000048514637341b9f507521afa9a778"
+      },
+      "duration": 391
+    },
+    {
+      "spotifyId": "34gCuhDGsG4bRPIf9bb02f",
+      "ytId": "lp-EO5I60KA",
+      "songName": "Thinking out Loud",
+      "artist": {
+        "name": "Ed Sheeran",
+        "spotifyId": "6eUKZXaKkcviH0Ku9w2n3V"
+      },
+      "album": {
+        "name": "x (Deluxe Edition)",
+        "spotifyId": "1xn54DMo2qIqBuMqHtUsFd"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b27313b3e37318a0c247b550bccd",
+        "small": "https://i.scdn.co/image/ab67616d0000485113b3e37318a0c247b550bccd"
+      },
+      "duration": 281
     },
     {
       "spotifyId": "7qiZfU4dY1lWllzX7mPBI3",
@@ -89,40 +125,22 @@
       "duration": 200
     },
     {
-      "spotifyId": "40riOy7x9W7GXjyGp4pjAv",
-      "ytId": "BciS5krYL80",
-      "songName": "Hotel California - 2013 Remaster",
+      "spotifyId": "0aym2LBJBk9DAYuHHutrIl",
+      "ytId": "A_MjCqQoLLA",
+      "songName": "Hey Jude - Remastered 2015",
       "artist": {
-        "name": "Eagles",
-        "spotifyId": "0ECwFtbIWEVNwjlrfc6xoL"
+        "name": "The Beatles",
+        "spotifyId": "3WrFJ7ztbogyGnTHbHJFl2"
       },
       "album": {
-        "name": "Hotel California (2013 Remaster)",
-        "spotifyId": "2widuo17g5CEC66IbzveRu"
+        "name": "1 (Remastered)",
+        "spotifyId": "7vEJAtP3KgKSpOHVgwm3Eh"
       },
       "imgUrl": {
-        "big": "https://i.scdn.co/image/ab67616d0000b2734637341b9f507521afa9a778",
-        "small": "https://i.scdn.co/image/ab67616d000048514637341b9f507521afa9a778"
+        "big": "https://i.scdn.co/image/ab67616d0000b273582d56ce20fe0146ffa0e5cf",
+        "small": "https://i.scdn.co/image/ab67616d00004851582d56ce20fe0146ffa0e5cf"
       },
-      "duration": 391
-    },
-    {
-      "spotifyId": "1c8gk2PeTE04A1pIDH9YMk",
-      "ytId": "rYEDA3JcQqw",
-      "songName": "Rolling in the Deep",
-      "artist": {
-        "name": "Adele",
-        "spotifyId": "4dpARuHxo51G3z768sgnrY"
-      },
-      "album": {
-        "name": "21",
-        "spotifyId": "0Lg1uZvI312TPqxNWShFXL"
-      },
-      "imgUrl": {
-        "big": "https://i.scdn.co/image/ab67616d0000b2732118bf9b198b05a95ded6300",
-        "small": "https://i.scdn.co/image/ab67616d000048512118bf9b198b05a95ded6300"
-      },
-      "duration": 228
+      "duration": 425
     },
     {
       "spotifyId": "1YILIKjno1jrlDhPDmAZtO",
@@ -143,22 +161,42 @@
       "duration": 273
     },
     {
-      "spotifyId": "5ghIJDpPoe3CfHMGu71E6T",
-      "ytId": "hTWKbfoikeg",
-      "songName": "Smells Like Teen Spirit",
+      "spotifyId": "1c8gk2PeTE04A1pIDH9YMk",
+      "ytId": "rYEDA3JcQqw",
+      "songName": "Rolling in the Deep",
       "artist": {
-        "name": "Nirvana",
-        "spotifyId": "6olE6TJLqED3rqDCT0FyPh"
+        "name": "Adele",
+        "spotifyId": "4dpARuHxo51G3z768sgnrY"
       },
       "album": {
-        "name": "Nevermind (Remastered)",
-        "spotifyId": "2guirTSEqLizK7j9i1MTTZ"
+        "name": "21",
+        "spotifyId": "0Lg1uZvI312TPqxNWShFXL"
       },
       "imgUrl": {
-        "big": "https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf",
-        "small": "https://i.scdn.co/image/ab67616d00004851e175a19e530c898d167d39bf"
+        "big": "https://i.scdn.co/image/ab67616d0000b2732118bf9b198b05a95ded6300",
+        "small": "https://i.scdn.co/image/ab67616d000048512118bf9b198b05a95ded6300"
       },
-      "duration": 301
+      "duration": 228
+    },
+    {
+      "spotifyId": "6cx06DFPPHchuUAcTxznu9",
+      "songName": "Head & Heart (feat. MNEK)",
+      "artist": {
+        "name": "Joel Corry",
+        "spotifyId": "6DgP9otnZw5z6daOntINxp"
+      },
+      "album": {
+        "name": "Head & Heart (feat. MNEK)",
+        "spotifyId": "5glfCPECXSHzidU6exW8wO"
+      },
+      "duration": 166,
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b27391e93c59bacfe819db9601eb",
+        "small": "https://i.scdn.co/image/ab67616d0000485191e93c59bacfe819db9601eb"
+      },
+      "releaseDate": "2020-07-03",
+      "ytId": "CRuOOxF-ENQ",
+      "addedAt": 1726366129328
     },
     {
       "spotifyId": "5CQ30WqJwcep0pYcV4AMNc",
@@ -177,42 +215,6 @@
         "small": "https://i.scdn.co/image/ab67616d00004851c8a11e48c91a982d086afc69"
       },
       "duration": 482
-    },
-    {
-      "spotifyId": "34gCuhDGsG4bRPIf9bb02f",
-      "ytId": "lp-EO5I60KA",
-      "songName": "Thinking out Loud",
-      "artist": {
-        "name": "Ed Sheeran",
-        "spotifyId": "6eUKZXaKkcviH0Ku9w2n3V"
-      },
-      "album": {
-        "name": "x (Deluxe Edition)",
-        "spotifyId": "1xn54DMo2qIqBuMqHtUsFd"
-      },
-      "imgUrl": {
-        "big": "https://i.scdn.co/image/ab67616d0000b27313b3e37318a0c247b550bccd",
-        "small": "https://i.scdn.co/image/ab67616d0000485113b3e37318a0c247b550bccd"
-      },
-      "duration": 281
-    },
-    {
-      "spotifyId": "0aym2LBJBk9DAYuHHutrIl",
-      "ytId": "A_MjCqQoLLA",
-      "songName": "Hey Jude - Remastered 2015",
-      "artist": {
-        "name": "The Beatles",
-        "spotifyId": "3WrFJ7ztbogyGnTHbHJFl2"
-      },
-      "album": {
-        "name": "1 (Remastered)",
-        "spotifyId": "7vEJAtP3KgKSpOHVgwm3Eh"
-      },
-      "imgUrl": {
-        "big": "https://i.scdn.co/image/ab67616d0000b273582d56ce20fe0146ffa0e5cf",
-        "small": "https://i.scdn.co/image/ab67616d00004851582d56ce20fe0146ffa0e5cf"
-      },
-      "duration": 425
     },
     {
       "spotifyId": "2VxeLyX666F8uXCJ0dZF8B",
@@ -249,6 +251,189 @@
         "small": "https://i.scdn.co/image/ab67616d000048517baaa8cb53b689654262a52d"
       },
       "duration": 228
+    },
+    {
+      "spotifyId": "3sl4dcqSwxHVnLfqwF2jly",
+      "songName": "Hello (feat. Dragonette)",
+      "artist": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl"
+        },
+        "href": "https://api.spotify.com/v1/artists/1bj5GrcLom5gZFF5t949Xl",
+        "id": "1bj5GrcLom5gZFF5t949Xl",
+        "name": "Martin Solveig",
+        "type": "artist",
+        "uri": "spotify:artist:1bj5GrcLom5gZFF5t949Xl"
+      },
+      "album": {
+        "name": "Hello",
+        "spotifyId": "1Jbwq1BswM8apm7pjRZKq8"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2732ab64fd86c12f2ba7df9c446",
+        "small": "https://i.scdn.co/image/ab67616d000048512ab64fd86c12f2ba7df9c446"
+      },
+      "duration": 191,
+      "ytId": "LnET4RKXx5k",
+      "addedAt": 1726708694249
+    },
+    {
+      "spotifyId": "0rVJ6v23RQozOIvr1YotJP",
+      "songName": "Hell N Back",
+      "artist": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        },
+        "href": "https://api.spotify.com/v1/artists/3K2Srho6NCF3o9MswGR76H",
+        "id": "3K2Srho6NCF3o9MswGR76H",
+        "name": "Bakar",
+        "type": "artist",
+        "uri": "spotify:artist:3K2Srho6NCF3o9MswGR76H"
+      },
+      "album": {
+        "name": "Hell N Back (Sped Up)",
+        "spotifyId": "39qJcvWj03Pcm9HJdb1NR8"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2733ee73eb16af247a0ea057542",
+        "small": "https://i.scdn.co/image/ab67616d000048513ee73eb16af247a0ea057542"
+      },
+      "duration": 213,
+      "ytId": "BdrNvQ4YCng",
+      "addedAt": 1726708830370
+    },
+    {
+      "spotifyId": "3NRql0A1Ef4RCvT473iqgD",
+      "songName": "Hell N Back",
+      "artist": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        },
+        "href": "https://api.spotify.com/v1/artists/3K2Srho6NCF3o9MswGR76H",
+        "id": "3K2Srho6NCF3o9MswGR76H",
+        "name": "Bakar",
+        "type": "artist",
+        "uri": "spotify:artist:3K2Srho6NCF3o9MswGR76H"
+      },
+      "album": {
+        "name": "Hell N Back",
+        "spotifyId": "3aEdbaJGWXbBxn79DgjamF"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273b6aa65ea45fef5e36dfe1a45",
+        "small": "https://i.scdn.co/image/ab67616d00004851b6aa65ea45fef5e36dfe1a45"
+      },
+      "duration": 213,
+      "ytId": "BdrNvQ4YCng",
+      "addedAt": 1726708847211
+    },
+    {
+      "spotifyId": "0RiRZpuVRbi7oqRdSMwhQY",
+      "songName": "Sunflower - Spider-Man: Into the Spider-Verse",
+      "artist": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        "href": "https://api.spotify.com/v1/artists/246dkjvS1zLTtiykXe5h60",
+        "id": "246dkjvS1zLTtiykXe5h60",
+        "name": "Post Malone",
+        "type": "artist",
+        "uri": "spotify:artist:246dkjvS1zLTtiykXe5h60"
+      },
+      "album": {
+        "name": "Hollywood's Bleeding",
+        "spotifyId": "4g1ZRSobMefqF6nelkgibi"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2739478c87599550dd73bfa7e02",
+        "small": "https://i.scdn.co/image/ab67616d000048519478c87599550dd73bfa7e02"
+      },
+      "duration": 157,
+      "ytId": "ApXoWvfEYVU",
+      "addedAt": 1726708888848
+    },
+    {
+      "spotifyId": "698ItKASDavgwZ3WjaWjtz",
+      "ytId": "60ItHLz5WEA",
+      "songName": "Faded",
+      "artist": {
+        "name": "Alan Walker",
+        "spotifyId": "7vk5e3vY1uw9plTHJAMwjN"
+      },
+      "album": {
+        "name": "Different World",
+        "spotifyId": "3nzuGtN3nXARvvecier4K0"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273a108e07c661f9fc54de9c43a",
+        "small": "https://i.scdn.co/image/ab67616d00004851a108e07c661f9fc54de9c43a"
+      },
+      "duration": 212,
+      "addedAt": 1726710790094
+    },
+    {
+      "spotifyId": "5pGuUCGpycumIFUa0vJQyC",
+      "songName": "Tembo",
+      "artist": {
+        "name": "Pablo Fierro",
+        "spotifyId": "5N7gp2n04e1TJ6MaKyvrbI"
+      },
+      "album": {
+        "name": "Humanidad",
+        "spotifyId": "0qtCZwkShRkYRjIbOLjvu6"
+      },
+      "duration": 521,
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273cc36ef42e6358f446077023b",
+        "small": "https://i.scdn.co/image/ab67616d00004851cc36ef42e6358f446077023b"
+      },
+      "releaseDate": "2022-06-24",
+      "ytId": "v1YimZV2GJg",
+      "addedAt": 1726711699912
+    },
+    {
+      "spotifyId": "480F1NHaaFyFH0nBntjVDa",
+      "ytId": "0zGcUoRlhmw",
+      "songName": "Closer (Originally Performed by The Chainsmokers ft. Halsey) - Instrumental Version",
+      "artist": {
+        "name": "KaraokePro",
+        "spotifyId": "2QQVBYuFqkbV1je2L9aV1Z"
+      },
+      "album": {
+        "name": "Closer (Originally Performed by The Chainsmokers ft. Halsey) [Instrumental Version]",
+        "spotifyId": "1GhalUIb3JtS5KuHL8qw1U"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b27360007848929c55d6356e8d8c",
+        "small": "https://i.scdn.co/image/ab67616d0000485160007848929c55d6356e8d8c"
+      },
+      "duration": 245,
+      "addedAt": 1726712573577
+    },
+    {
+      "spotifyId": "2ctvdKmETyOzPb2GiJJT53",
+      "songName": "Breathe (In the Air)",
+      "artist": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        },
+        "href": "https://api.spotify.com/v1/artists/0k17h0D3J5VfsdmQ1iZtE9",
+        "id": "0k17h0D3J5VfsdmQ1iZtE9",
+        "name": "Pink Floyd",
+        "type": "artist",
+        "uri": "spotify:artist:0k17h0D3J5VfsdmQ1iZtE9"
+      },
+      "album": {
+        "name": "The Dark Side of the Moon",
+        "spotifyId": "4LH4d3cOWNNsVw41Gqt2kv"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273ea7caaff71dea1051d49b2fe",
+        "small": "https://i.scdn.co/image/ab67616d00004851ea7caaff71dea1051d49b2fe"
+      },
+      "duration": 169,
+      "addedAt": 1726757048824,
+      "ytId": "jcz0YxYl6Ac"
     }
   ],
   "description": null,
@@ -275,30 +460,12 @@
     "imgUrl": "https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"
   },
   "likedByUsers": [
-    "66de2eb16260c20fa8d47f9f",
-    "A1b2C3d4E5"
+    "A1b2C3d4E5",
+    "66de2eb16260c20fa8d47f9f"
   ],
-  "createdAt": 1536351131722,
-  "addedAt": 1672042571160,
+  "createdAt": "2024-09-09T01:18:21.000Z",
+  "addedAt": 1726699629789,
   "songs": [
-    {
-      "spotifyId": "2WfaOiMkCvy7F5fcp2zZ8L",
-      "ytId": "djV11Xbc914",
-      "songName": "Take on Me",
-      "artist": {
-        "name": "a-ha",
-        "spotifyId": "2jzc5TC5TVFLXQlBNiIUzE"
-      },
-      "album": {
-        "name": "Hunting High and Low",
-        "spotifyId": "1ER3B6zev5JEAaqhnyyfbf"
-      },
-      "imgUrl": {
-        "big": "https://i.scdn.co/image/ab67616d0000b273e8dd4db47e7177c63b0b7d53",
-        "small": "https://i.scdn.co/image/ab67616d00004851e8dd4db47e7177c63b0b7d53"
-      },
-      "duration": 225
-    },
     {
       "spotifyId": "480F1NHaaFyFH0nBntjVDa",
       "ytId": "0zGcUoRlhmw",
@@ -318,22 +485,22 @@
       "duration": 245
     },
     {
-      "spotifyId": "2374M0fQpWi3dLnB54qaLX",
-      "ytId": "FTQbiNvZqaY",
-      "songName": "Africa",
+      "spotifyId": "2WfaOiMkCvy7F5fcp2zZ8L",
+      "ytId": "djV11Xbc914",
+      "songName": "Take on Me",
       "artist": {
-        "name": "TOTO",
-        "spotifyId": "0PFtn5NtBbbUNbU9EAmIWF"
+        "name": "a-ha",
+        "spotifyId": "2jzc5TC5TVFLXQlBNiIUzE"
       },
       "album": {
-        "name": "Toto IV",
-        "spotifyId": "62U7xIHcID94o20Of5ea4D"
+        "name": "Hunting High and Low",
+        "spotifyId": "1ER3B6zev5JEAaqhnyyfbf"
       },
       "imgUrl": {
-        "big": "https://i.scdn.co/image/ab67616d0000b2734a052b99c042dc15f933145b",
-        "small": "https://i.scdn.co/image/ab67616d000048514a052b99c042dc15f933145b"
+        "big": "https://i.scdn.co/image/ab67616d0000b273e8dd4db47e7177c63b0b7d53",
+        "small": "https://i.scdn.co/image/ab67616d00004851e8dd4db47e7177c63b0b7d53"
       },
-      "duration": 295
+      "duration": 225
     },
     {
       "spotifyId": "1zwMYTA5nlNjZxYrvBB2pV",
@@ -354,22 +521,22 @@
       "duration": 285
     },
     {
-      "spotifyId": "7ygpwy2qP3NbrxVkHvUhXY",
-      "ytId": "bx1Bh8ZvH84",
-      "songName": "Wonderwall - Remastered",
+      "spotifyId": "2374M0fQpWi3dLnB54qaLX",
+      "ytId": "FTQbiNvZqaY",
+      "songName": "Africa",
       "artist": {
-        "name": "Oasis",
-        "spotifyId": "2DaxqgrOhkeH0fpeiQq2f4"
+        "name": "TOTO",
+        "spotifyId": "0PFtn5NtBbbUNbU9EAmIWF"
       },
       "album": {
-        "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
-        "spotifyId": "6tOe4eAF8xNhEkl9WyvsE4"
+        "name": "Toto IV",
+        "spotifyId": "62U7xIHcID94o20Of5ea4D"
       },
       "imgUrl": {
-        "big": "https://i.scdn.co/image/ab67616d0000b2737a4c8c59851c88f6794c3cbf",
-        "small": "https://i.scdn.co/image/ab67616d000048517a4c8c59851c88f6794c3cbf"
+        "big": "https://i.scdn.co/image/ab67616d0000b2734a052b99c042dc15f933145b",
+        "small": "https://i.scdn.co/image/ab67616d000048514a052b99c042dc15f933145b"
       },
-      "duration": 258
+      "duration": 295
     },
     {
       "spotifyId": "2xHxKGGGQjudyLpAQrHRHU",
@@ -390,24 +557,6 @@
       "duration": 157
     },
     {
-      "spotifyId": "3BovdzfaX4jb5KFQwoPfAw",
-      "ytId": "oRdxUFDoQe0",
-      "songName": "Beat It",
-      "artist": {
-        "name": "Michael Jackson",
-        "spotifyId": "3fMbdgg4jU18AjLCKBhRSm"
-      },
-      "album": {
-        "name": "Thriller",
-        "spotifyId": "2ANVost0y2y52ema1E9xAZ"
-      },
-      "imgUrl": {
-        "big": "https://i.scdn.co/image/ab67616d0000b273de437d960dda1ac0a3586d97",
-        "small": "https://i.scdn.co/image/ab67616d00004851de437d960dda1ac0a3586d97"
-      },
-      "duration": 258
-    },
-    {
       "spotifyId": "64DnH7p7396lzw98TDVrNO",
       "ytId": "BQ0mxQXmLsk",
       "songName": "Havana (Made Popular By Camila Cabello ft. Young Thug) [Vocal Version]",
@@ -424,6 +573,42 @@
         "small": "https://i.scdn.co/image/ab67616d00004851365475af64303767990e0978"
       },
       "duration": 214
+    },
+    {
+      "spotifyId": "7ygpwy2qP3NbrxVkHvUhXY",
+      "ytId": "bx1Bh8ZvH84",
+      "songName": "Wonderwall - Remastered",
+      "artist": {
+        "name": "Oasis",
+        "spotifyId": "2DaxqgrOhkeH0fpeiQq2f4"
+      },
+      "album": {
+        "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
+        "spotifyId": "6tOe4eAF8xNhEkl9WyvsE4"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2737a4c8c59851c88f6794c3cbf",
+        "small": "https://i.scdn.co/image/ab67616d000048517a4c8c59851c88f6794c3cbf"
+      },
+      "duration": 258
+    },
+    {
+      "spotifyId": "3BovdzfaX4jb5KFQwoPfAw",
+      "ytId": "oRdxUFDoQe0",
+      "songName": "Beat It",
+      "artist": {
+        "name": "Michael Jackson",
+        "spotifyId": "3fMbdgg4jU18AjLCKBhRSm"
+      },
+      "album": {
+        "name": "Thriller",
+        "spotifyId": "2ANVost0y2y52ema1E9xAZ"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273de437d960dda1ac0a3586d97",
+        "small": "https://i.scdn.co/image/ab67616d00004851de437d960dda1ac0a3586d97"
+      },
+      "duration": 258
     },
     {
       "spotifyId": "7iQ8xhTsdMLV8u64ZLDqY8",
@@ -443,7 +628,11 @@
       },
       "duration": 288
     }
-  ]
+  ],
+  "description": null,
+  "isLikedSongs": null,
+  "isOwnedByUser": null,
+  "lastIdx": 2
 },
 {
   "_id": {
@@ -464,13 +653,31 @@
     "imgUrl": "https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"
   },
   "likedByUsers": [
-    "66de2eb16260c20fa8d47f9f",
     "A1b2C3d4E5",
-    "K1L2M3N4O5"
+    "K1L2M3N4O5",
+    "66de2eb16260c20fa8d47f9f"
   ],
-  "createdAt": 1589509512211,
-  "addedAt": 1660260425775,
+  "createdAt": "2024-09-09T01:18:21.000Z",
+  "addedAt": 1726682816477,
   "songs": [
+    {
+      "spotifyId": "663UJBmPsgBc1yYg7McfAr",
+      "ytId": "TUVcZfQe-Kw",
+      "songName": "Levitating (made popular by Dua Lipa ft. DaBaby) [vocal version]",
+      "artist": {
+        "name": "Party Tyme",
+        "spotifyId": "18BHcaFxDHqgfehv4g6vjC"
+      },
+      "album": {
+        "name": "Super Hits 37 - Party Tyme (Vocal Versions)",
+        "spotifyId": "6ctHQdlc7wVDKQLHAPgQnf"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2731f714a71df8e364d8e35d6fa",
+        "small": "https://i.scdn.co/image/ab67616d000048511f714a71df8e364d8e35d6fa"
+      },
+      "duration": 213
+    },
     {
       "spotifyId": "5Z01UMMf7V1o0MzF86s6WJ",
       "ytId": "xFYQQPAOz7Y",
@@ -526,24 +733,6 @@
       "duration": 230
     },
     {
-      "spotifyId": "663UJBmPsgBc1yYg7McfAr",
-      "ytId": "TUVcZfQe-Kw",
-      "songName": "Levitating (made popular by Dua Lipa ft. DaBaby) [vocal version]",
-      "artist": {
-        "name": "Party Tyme",
-        "spotifyId": "18BHcaFxDHqgfehv4g6vjC"
-      },
-      "album": {
-        "name": "Super Hits 37 - Party Tyme (Vocal Versions)",
-        "spotifyId": "6ctHQdlc7wVDKQLHAPgQnf"
-      },
-      "imgUrl": {
-        "big": "https://i.scdn.co/image/ab67616d0000b2731f714a71df8e364d8e35d6fa",
-        "small": "https://i.scdn.co/image/ab67616d000048511f714a71df8e364d8e35d6fa"
-      },
-      "duration": 213
-    },
-    {
       "spotifyId": "2LlQb7Uoj1kKyGhlkBf9aC",
       "ytId": "sOnqjkJTMaA",
       "songName": "Thriller",
@@ -561,7 +750,11 @@
       },
       "duration": 357
     }
-  ]
+  ],
+  "description": null,
+  "isLikedSongs": null,
+  "isOwnedByUser": null,
+  "lastIdx": 2
 },
 {
   "_id": {
@@ -582,104 +775,16 @@
     "imgUrl": "https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"
   },
   "likedByUsers": [
-    "66de2eb16260c20fa8d47f9f",
     "F6g7H8i9J0",
     "P6Q7R8S9T0"
   ],
-  "createdAt": 1595198626770,
-  "addedAt": 1650599371425,
-  "songs": [
-    {
-      "spotifyId": "3Um9toULmYFGCpvaIPFw7l",
-      "ytId": "H-kA3UtBj4M",
-      "songName": "What's Going On",
-      "artist": {
-        "name": "Marvin Gaye",
-        "spotifyId": "3koiLjNrgRTNbOwViDipeA"
-      },
-      "album": {
-        "name": "What's Going On",
-        "spotifyId": "2v6ANhWhZBUKkg6pJJBs3B"
-      },
-      "imgUrl": {
-        "big": "https://i.scdn.co/image/ab67616d0000b273b36949bee43217351961ffbc",
-        "small": "https://i.scdn.co/image/ab67616d00004851b36949bee43217351961ffbc"
-      },
-      "duration": 233
-    },
-    {
-      "spotifyId": "5YwYmrpCULmbHcFDALupzO",
-      "ytId": "aJOTlE1K90k",
-      "songName": "Girls Like You (made popular by Maroon 5 ft. Cardi B) [vocal version]",
-      "artist": {
-        "name": "Party Tyme",
-        "spotifyId": "18BHcaFxDHqgfehv4g6vjC"
-      },
-      "album": {
-        "name": "Pop Party Pack 8 - Party Tyme - Vocal Versions",
-        "spotifyId": "5zY0NJegRsc1DzLMSgOGQQ"
-      },
-      "imgUrl": {
-        "big": "https://i.scdn.co/image/ab67616d0000b2737baaa8cb53b689654262a52d",
-        "small": "https://i.scdn.co/image/ab67616d000048517baaa8cb53b689654262a52d"
-      },
-      "duration": 235
-    },
-    {
-      "spotifyId": "3APHT3KjbHi9OllkVQsuXF",
-      "ytId": "CU3mc0yvRNk",
-      "songName": "Bohemian Like You",
-      "artist": {
-        "name": "The Dandy Warhols",
-        "spotifyId": "7siPLyFwRFYQkKgWKJ5Sod"
-      },
-      "album": {
-        "name": "Thirteen Tales From Urban Bohemia",
-        "spotifyId": "3RFenjlpdmIfkYATMdkbak"
-      },
-      "imgUrl": {
-        "big": "https://i.scdn.co/image/ab67616d0000b2735f13db82827b6abb7e31a488",
-        "small": "https://i.scdn.co/image/ab67616d000048515f13db82827b6abb7e31a488"
-      },
-      "duration": 211
-    },
-    {
-      "spotifyId": "0tgVpDi06FyKpA1z0VMD4v",
-      "ytId": "2Vv-BfVoq4g",
-      "songName": "Perfect",
-      "artist": {
-        "name": "Ed Sheeran",
-        "spotifyId": "6eUKZXaKkcviH0Ku9w2n3V"
-      },
-      "album": {
-        "name": "÷ (Deluxe)",
-        "spotifyId": "3T4tUhGYeRNVUGevb0wThu"
-      },
-      "imgUrl": {
-        "big": "https://i.scdn.co/image/ab67616d0000b273ba5db46f4b838ef6027e6f96",
-        "small": "https://i.scdn.co/image/ab67616d00004851ba5db46f4b838ef6027e6f96"
-      },
-      "duration": 263
-    },
-    {
-      "spotifyId": "5Qe7NHxeLAn8KoLTNLSdwe",
-      "ytId": "v1HDt1tknTc",
-      "songName": "I Want To Hold Your Hand - Remastered 2009",
-      "artist": {
-        "name": "The Beatles",
-        "spotifyId": "3WrFJ7ztbogyGnTHbHJFl2"
-      },
-      "album": {
-        "name": "The Beatles 1962 - 1966 (Remastered)",
-        "spotifyId": "6126O4XLYAfzU3961ziahP"
-      },
-      "imgUrl": {
-        "big": "https://i.scdn.co/image/ab67616d0000b2735ef4660298ae29ee18799fc2",
-        "small": "https://i.scdn.co/image/ab67616d000048515ef4660298ae29ee18799fc2"
-      },
-      "duration": 146
-    }
-  ]
+  "createdAt": "2024-09-09T01:18:21.000Z",
+  "addedAt": 1726498094599,
+  "songs": [],
+  "description": null,
+  "isLikedSongs": null,
+  "isOwnedByUser": null,
+  "lastIdx": 3
 },
 {
   "_id": {
@@ -699,13 +804,31 @@
     "imgUrl": "https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png"
   },
   "likedByUsers": [
-    "66de2eb16260c20fa8d47f9f",
     "A1b2C3d4E5",
-    "F6g7H8i9J0"
+    "F6g7H8i9J0",
+    "66de2eb16260c20fa8d47f9f"
   ],
-  "createdAt": 1577358440904,
-  "addedAt": 1669613834324,
+  "createdAt": "2024-09-09T01:18:21.000Z",
+  "addedAt": 1726699639906,
   "songs": [
+    {
+      "spotifyId": "3EYOJ48Et32uATr9ZmLnAo",
+      "ytId": "3T1c7GkzRQQ",
+      "songName": "Roxanne",
+      "artist": {
+        "name": "The Police",
+        "spotifyId": "5NGO30tJxFlKixkPSgXcFE"
+      },
+      "album": {
+        "name": "Outlandos D'Amour - Remastered 2003",
+        "spotifyId": "1H9g6j4Wwj6wh6p8YHVtkf"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2732043dd3544a339547d04b436",
+        "small": "https://i.scdn.co/image/ab67616d000048512043dd3544a339547d04b436"
+      },
+      "duration": 191
+    },
     {
       "spotifyId": "0SiywuOBRcynK0uKGWdCnn",
       "ytId": "qrO4YZeyl0I",
@@ -759,26 +882,12 @@
         "small": "https://i.scdn.co/image/ab67616d000048515d48e2f56d691f9a4e4b0bdf"
       },
       "duration": 238
-    },
-    {
-      "spotifyId": "3EYOJ48Et32uATr9ZmLnAo",
-      "ytId": "3T1c7GkzRQQ",
-      "songName": "Roxanne",
-      "artist": {
-        "name": "The Police",
-        "spotifyId": "5NGO30tJxFlKixkPSgXcFE"
-      },
-      "album": {
-        "name": "Outlandos D'Amour - Remastered 2003",
-        "spotifyId": "1H9g6j4Wwj6wh6p8YHVtkf"
-      },
-      "imgUrl": {
-        "big": "https://i.scdn.co/image/ab67616d0000b2732043dd3544a339547d04b436",
-        "small": "https://i.scdn.co/image/ab67616d000048512043dd3544a339547d04b436"
-      },
-      "duration": 191
     }
-  ]
+  ],
+  "description": null,
+  "isLikedSongs": null,
+  "isOwnedByUser": null,
+  "lastIdx": 4
 },
 {
   "_id": {
@@ -803,26 +912,44 @@
     "P6Q7R8S9T0",
     "K1L2M3N4O5"
   ],
-  "createdAt": 1597770432182,
+  "createdAt": "2024-09-09T01:18:21.000Z",
   "addedAt": 1652134109479,
   "songs": [
     {
-      "spotifyId": "2H1047e0oMSj10dgp7p2VG",
-      "ytId": "uSD4vsh1zDA",
-      "songName": "I Gotta Feeling",
+      "spotifyId": "698ItKASDavgwZ3WjaWjtz",
+      "ytId": "60ItHLz5WEA",
+      "songName": "Faded",
       "artist": {
-        "name": "Black Eyed Peas",
-        "spotifyId": "1yxSLGMDHlW21z4YXirZDS"
+        "name": "Alan Walker",
+        "spotifyId": "7vk5e3vY1uw9plTHJAMwjN"
       },
       "album": {
-        "name": "THE E.N.D. (THE ENERGY NEVER DIES)",
-        "spotifyId": "3lng6RAtdksQ2q02Fk5jaB"
+        "name": "Different World",
+        "spotifyId": "3nzuGtN3nXARvvecier4K0"
       },
       "imgUrl": {
-        "big": "https://i.scdn.co/image/ab67616d0000b273382514f0114ba8f4a16d5db4",
-        "small": "https://i.scdn.co/image/ab67616d00004851382514f0114ba8f4a16d5db4"
+        "big": "https://i.scdn.co/image/ab67616d0000b273a108e07c661f9fc54de9c43a",
+        "small": "https://i.scdn.co/image/ab67616d00004851a108e07c661f9fc54de9c43a"
       },
-      "duration": 289
+      "duration": 212
+    },
+    {
+      "spotifyId": "0nrRP2bk19rLc0orkWPQk2",
+      "ytId": "IcrbM1l_BoI",
+      "songName": "Wake Me Up",
+      "artist": {
+        "name": "Avicii",
+        "spotifyId": "1vCWHaC5f2uS3yhpwWbIA6"
+      },
+      "album": {
+        "name": "True",
+        "spotifyId": "2H6i2CrWgXE1HookLu8Au0"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273e14f11f796cef9f9a82691a7",
+        "small": "https://i.scdn.co/image/ab67616d00004851e14f11f796cef9f9a82691a7"
+      },
+      "duration": 247
     },
     {
       "spotifyId": "18GiV1BaXzPVYpp9rmOg0E",
@@ -843,22 +970,22 @@
       "duration": 165
     },
     {
-      "spotifyId": "698ItKASDavgwZ3WjaWjtz",
-      "ytId": "60ItHLz5WEA",
-      "songName": "Faded",
+      "spotifyId": "2H1047e0oMSj10dgp7p2VG",
+      "ytId": "uSD4vsh1zDA",
+      "songName": "I Gotta Feeling",
       "artist": {
-        "name": "Alan Walker",
-        "spotifyId": "7vk5e3vY1uw9plTHJAMwjN"
+        "name": "Black Eyed Peas",
+        "spotifyId": "1yxSLGMDHlW21z4YXirZDS"
       },
       "album": {
-        "name": "Different World",
-        "spotifyId": "3nzuGtN3nXARvvecier4K0"
+        "name": "THE E.N.D. (THE ENERGY NEVER DIES)",
+        "spotifyId": "3lng6RAtdksQ2q02Fk5jaB"
       },
       "imgUrl": {
-        "big": "https://i.scdn.co/image/ab67616d0000b273a108e07c661f9fc54de9c43a",
-        "small": "https://i.scdn.co/image/ab67616d00004851a108e07c661f9fc54de9c43a"
+        "big": "https://i.scdn.co/image/ab67616d0000b273382514f0114ba8f4a16d5db4",
+        "small": "https://i.scdn.co/image/ab67616d00004851382514f0114ba8f4a16d5db4"
       },
-      "duration": 212
+      "duration": 289
     },
     {
       "spotifyId": "2ZBNclC5wm4GtiWaeh0DMx",
@@ -877,26 +1004,12 @@
         "small": "https://i.scdn.co/image/ab67616d00004851e13de7b8662b085b0885ffef"
       },
       "duration": 193
-    },
-    {
-      "spotifyId": "0nrRP2bk19rLc0orkWPQk2",
-      "ytId": "IcrbM1l_BoI",
-      "songName": "Wake Me Up",
-      "artist": {
-        "name": "Avicii",
-        "spotifyId": "1vCWHaC5f2uS3yhpwWbIA6"
-      },
-      "album": {
-        "name": "True",
-        "spotifyId": "2H6i2CrWgXE1HookLu8Au0"
-      },
-      "imgUrl": {
-        "big": "https://i.scdn.co/image/ab67616d0000b273e14f11f796cef9f9a82691a7",
-        "small": "https://i.scdn.co/image/ab67616d00004851e14f11f796cef9f9a82691a7"
-      },
-      "duration": 247
     }
-  ]
+  ],
+  "description": null,
+  "isLikedSongs": null,
+  "isOwnedByUser": null,
+  "lastIdx": ""
 },
 {
   "_id": {
@@ -919,8 +1032,12 @@
   "likedByUsers": [
     "F6g7H8i9J0"
   ],
-  "createdAt": 1660877122924,
-  "addedAt": 1651289543848,
+  "createdAt": {
+    "$numberLong": "1660877122924"
+  },
+  "addedAt": {
+    "$numberLong": "1651289543848"
+  },
   "songs": [
     {
       "spotifyId": "7vggqxNKwd6xdRoYS0pQtM",
@@ -1054,58 +1171,4828 @@
 },
 {
   "_id": {
-    "$oid": "66df3ec6b52c550c4cc31f2b"
+    "$oid": "66e6417191bf0b67a1c08131"
   },
-  "name": "OMRI'S STATION",
-  "type": "album",
-  "isPinned": false,
+  "name": "Daily Mix 1",
+  "type": "daily-mix",
   "tags": [],
-  "stationImgUrl": "",
+  "stationImgUrl": "https://dailymix-images.scdn.co/v2/img/ab6761610000e5eb7c774b7b4da216c33782c193/1/en/default",
   "description": "",
-  "isOwnedByUser": true,
+  "isOwnedByUser": false,
   "createdBy": {
-    "id": "66de3028b74ed07e77f955c1",
-    "fullName": "omri",
-    "imgUrl": null
+    "id": "BBBB",
+    "fullName": "Sprintify",
+    "imgUrl": ""
   },
-  "likedByUsers": [],
-  "songs": []
+  "likedByUsers": [
+    "66e83b4efcd44b62bc98d5d7",
+    "66eb26d4840ffc186c6373cd"
+  ],
+  "songs": [
+    {
+      "spotifyId": "7tFiyTwD0nx5a1eklYtX2J",
+      "ytId": "fJ9rUzIMcZQ",
+      "songName": "Bohemian Rhapsody - Remastered 2011",
+      "artist": {
+        "name": "Queen",
+        "spotifyId": "1dfeR4HaWDbWqFHLkxsg1d"
+      },
+      "album": {
+        "name": "A Night At The Opera (Deluxe Remastered Version)",
+        "spotifyId": "6X9k3hSsvQck2OfKYdBbXr"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273ce4f1737bc8a646c8c4bd25a",
+        "small": "https://i.scdn.co/image/ab67616d00004851ce4f1737bc8a646c8c4bd25a"
+      },
+      "duration": 354
+    },
+    {
+      "spotifyId": "1YILIKjno1jrlDhPDmAZtO",
+      "ytId": "OPf0YbXqDm0",
+      "songName": "Uptown Funk (made popular by Mark Ronson ft. Bruno Mars) [vocal version]",
+      "artist": {
+        "name": "Party Tyme",
+        "spotifyId": "18BHcaFxDHqgfehv4g6vjC"
+      },
+      "album": {
+        "name": "Pop Party Pack 6 - Party Tyme - Vocal Versions",
+        "spotifyId": "0ttqBuDOfQr0m68xo0KRQA"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273c792eeb3ea7615b548287172",
+        "small": "https://i.scdn.co/image/ab67616d00004851c792eeb3ea7615b548287172"
+      },
+      "duration": 273
+    },
+    {
+      "spotifyId": "4SSzBIcyIq7rRItmEsT74P",
+      "ytId": "kJQP7kiw5Fk",
+      "songName": "Despacito (Remix) [made popular by Luis Fonsi & Daddy Yankee ft. Justin Bieber] [vocal version]",
+      "artist": {
+        "name": "Party Tyme",
+        "spotifyId": "18BHcaFxDHqgfehv4g6vjC"
+      },
+      "album": {
+        "name": "Pop Party Pack 8 - Party Tyme - Vocal Versions",
+        "spotifyId": "5zY0NJegRsc1DzLMSgOGQQ"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2737baaa8cb53b689654262a52d",
+        "small": "https://i.scdn.co/image/ab67616d000048517baaa8cb53b689654262a52d"
+      },
+      "duration": 228
+    },
+    {
+      "spotifyId": "480F1NHaaFyFH0nBntjVDa",
+      "ytId": "0zGcUoRlhmw",
+      "songName": "Closer (Originally Performed by The Chainsmokers ft. Halsey) - Instrumental Version",
+      "artist": {
+        "name": "KaraokePro",
+        "spotifyId": "2QQVBYuFqkbV1je2L9aV1Z"
+      },
+      "album": {
+        "name": "Closer (Originally Performed by The Chainsmokers ft. Halsey) [Instrumental Version]",
+        "spotifyId": "1GhalUIb3JtS5KuHL8qw1U"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b27360007848929c55d6356e8d8c",
+        "small": "https://i.scdn.co/image/ab67616d0000485160007848929c55d6356e8d8c"
+      },
+      "duration": 245
+    },
+    {
+      "spotifyId": "7iQ8xhTsdMLV8u64ZLDqY8",
+      "ytId": "RIMtfYQNSmg",
+      "songName": "My Heart Will Go On",
+      "artist": {
+        "name": "Celine Dion",
+        "spotifyId": "2VJ72LInHc76ycw7VfTLO5"
+      },
+      "album": {
+        "name": "Let's Talk About Love",
+        "spotifyId": "5fDgklLOIr0Tal2RCml3Wg"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273f9aec66c810d833b704e147e",
+        "small": "https://i.scdn.co/image/ab67616d00004851f9aec66c810d833b704e147e"
+      },
+      "duration": 288
+    },
+    {
+      "spotifyId": "1zwMYTA5nlNjZxYrvBB2pV",
+      "ytId": "hLQl3WQQoQ0",
+      "songName": "Someone Like You",
+      "artist": {
+        "name": "Adele",
+        "spotifyId": "4dpARuHxo51G3z768sgnrY"
+      },
+      "album": {
+        "name": "21",
+        "spotifyId": "0Lg1uZvI312TPqxNWShFXL"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2732118bf9b198b05a95ded6300",
+        "small": "https://i.scdn.co/image/ab67616d000048512118bf9b198b05a95ded6300"
+      },
+      "duration": 285
+    },
+    {
+      "spotifyId": "0GjEhVFGZW8afUYGChu3Rr",
+      "ytId": "xFrGuyw1V8s",
+      "songName": "Dancing Queen",
+      "artist": {
+        "name": "ABBA",
+        "spotifyId": "0LcJLqbBmaGUft1e9Mm8HV"
+      },
+      "album": {
+        "name": "Arrival",
+        "spotifyId": "1V6a99EbTTIegOhWoPxYI9"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b27370f7a1b35d5165c85b95a0e0",
+        "small": "https://i.scdn.co/image/ab67616d0000485170f7a1b35d5165c85b95a0e0"
+      },
+      "duration": 230
+    },
+    {
+      "spotifyId": "663UJBmPsgBc1yYg7McfAr",
+      "ytId": "TUVcZfQe-Kw",
+      "songName": "Levitating (made popular by Dua Lipa ft. DaBaby) [vocal version]",
+      "artist": {
+        "name": "Party Tyme",
+        "spotifyId": "18BHcaFxDHqgfehv4g6vjC"
+      },
+      "album": {
+        "name": "Super Hits 37 - Party Tyme (Vocal Versions)",
+        "spotifyId": "6ctHQdlc7wVDKQLHAPgQnf"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2731f714a71df8e364d8e35d6fa",
+        "small": "https://i.scdn.co/image/ab67616d000048511f714a71df8e364d8e35d6fa"
+      },
+      "duration": 213
+    },
+    {
+      "spotifyId": "2LlQb7Uoj1kKyGhlkBf9aC",
+      "ytId": "sOnqjkJTMaA",
+      "songName": "Thriller",
+      "artist": {
+        "name": "Michael Jackson",
+        "spotifyId": "3fMbdgg4jU18AjLCKBhRSm"
+      },
+      "album": {
+        "name": "Thriller",
+        "spotifyId": "2ANVost0y2y52ema1E9xAZ"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273de437d960dda1ac0a3586d97",
+        "small": "https://i.scdn.co/image/ab67616d00004851de437d960dda1ac0a3586d97"
+      },
+      "duration": 357
+    },
+    {
+      "spotifyId": "5YwYmrpCULmbHcFDALupzO",
+      "ytId": "aJOTlE1K90k",
+      "songName": "Girls Like You (made popular by Maroon 5 ft. Cardi B) [vocal version]",
+      "artist": {
+        "name": "Party Tyme",
+        "spotifyId": "18BHcaFxDHqgfehv4g6vjC"
+      },
+      "album": {
+        "name": "Pop Party Pack 8 - Party Tyme - Vocal Versions",
+        "spotifyId": "5zY0NJegRsc1DzLMSgOGQQ"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2737baaa8cb53b689654262a52d",
+        "small": "https://i.scdn.co/image/ab67616d000048517baaa8cb53b689654262a52d"
+      },
+      "duration": 235
+    },
+    {
+      "spotifyId": "3APHT3KjbHi9OllkVQsuXF",
+      "ytId": "CU3mc0yvRNk",
+      "songName": "Bohemian Like You",
+      "artist": {
+        "name": "The Dandy Warhols",
+        "spotifyId": "7siPLyFwRFYQkKgWKJ5Sod"
+      },
+      "album": {
+        "name": "Thirteen Tales From Urban Bohemia",
+        "spotifyId": "3RFenjlpdmIfkYATMdkbak"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2735f13db82827b6abb7e31a488",
+        "small": "https://i.scdn.co/image/ab67616d000048515f13db82827b6abb7e31a488"
+      },
+      "duration": 211
+    },
+    {
+      "spotifyId": "5Qe7NHxeLAn8KoLTNLSdwe",
+      "ytId": "v1HDt1tknTc",
+      "songName": "I Want To Hold Your Hand - Remastered 2009",
+      "artist": {
+        "name": "The Beatles",
+        "spotifyId": "3WrFJ7ztbogyGnTHbHJFl2"
+      },
+      "album": {
+        "name": "The Beatles 1962 - 1966 (Remastered)",
+        "spotifyId": "6126O4XLYAfzU3961ziahP"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2735ef4660298ae29ee18799fc2",
+        "small": "https://i.scdn.co/image/ab67616d000048515ef4660298ae29ee18799fc2"
+      },
+      "duration": 146
+    },
+    {
+      "spotifyId": "1YokYILrMXhJPhr3isGpYr",
+      "ytId": "8UVNT4wvIGY",
+      "songName": "Somebody That I Used To Know (made popular by Gotye ft. Kimbra) [vocal version]",
+      "artist": {
+        "name": "Party Tyme",
+        "spotifyId": "18BHcaFxDHqgfehv4g6vjC"
+      },
+      "album": {
+        "name": "Pop Male Hits 7 - Party Tyme - Vocal Versions",
+        "spotifyId": "1AI7dhqDt6Es9usPhMVFSM"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273a7bdabf3285a11927a30b188",
+        "small": "https://i.scdn.co/image/ab67616d00004851a7bdabf3285a11927a30b188"
+      },
+      "duration": 246
+    },
+    {
+      "spotifyId": "4gMgiXfqyzZLMhsksGmbQV",
+      "ytId": "5IpYOF4Hi6Q",
+      "songName": "Another Brick in the Wall, Pt. 2",
+      "artist": {
+        "name": "Pink Floyd",
+        "spotifyId": "0k17h0D3J5VfsdmQ1iZtE9"
+      },
+      "album": {
+        "name": "The Wall",
+        "spotifyId": "5Dbax7G8SWrP9xyzkOvy2F"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2735d48e2f56d691f9a4e4b0bdf",
+        "small": "https://i.scdn.co/image/ab67616d000048515d48e2f56d691f9a4e4b0bdf"
+      },
+      "duration": 238
+    },
+    {
+      "spotifyId": "0SiywuOBRcynK0uKGWdCnn",
+      "ytId": "qrO4YZeyl0I",
+      "songName": "Bad Romance",
+      "artist": {
+        "name": "Lady Gaga",
+        "spotifyId": "1HY2Jd0NmPuamShAr6KMms"
+      },
+      "album": {
+        "name": "The Fame Monster (Deluxe Edition)",
+        "spotifyId": "6rePArBMb5nLWEaY9aQqL4"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2735c9890c0456a3719eeecd8aa",
+        "small": "https://i.scdn.co/image/ab67616d000048515c9890c0456a3719eeecd8aa"
+      },
+      "duration": 294
+    },
+    {
+      "spotifyId": "18GiV1BaXzPVYpp9rmOg0E",
+      "ytId": "MMFj8uDubsE",
+      "songName": "Blowin' in the Wind",
+      "artist": {
+        "name": "Bob Dylan",
+        "spotifyId": "74ASZWbe4lXaubB36ztrGX"
+      },
+      "album": {
+        "name": "The Freewheelin' Bob Dylan",
+        "spotifyId": "0o1uFxZ1VTviqvNaYkTJek"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2737d214af8499aa95ad220f573",
+        "small": "https://i.scdn.co/image/ab67616d000048517d214af8499aa95ad220f573"
+      },
+      "duration": 165
+    },
+    {
+      "spotifyId": "0nrRP2bk19rLc0orkWPQk2",
+      "ytId": "IcrbM1l_BoI",
+      "songName": "Wake Me Up",
+      "artist": {
+        "name": "Avicii",
+        "spotifyId": "1vCWHaC5f2uS3yhpwWbIA6"
+      },
+      "album": {
+        "name": "True",
+        "spotifyId": "2H6i2CrWgXE1HookLu8Au0"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273e14f11f796cef9f9a82691a7",
+        "small": "https://i.scdn.co/image/ab67616d00004851e14f11f796cef9f9a82691a7"
+      },
+      "duration": 247
+    },
+    {
+      "spotifyId": "2ZBNclC5wm4GtiWaeh0DMx",
+      "ytId": "4m1EFMoRFvY",
+      "songName": "Single Ladies (Put a Ring on It)",
+      "artist": {
+        "name": "Beyoncé",
+        "spotifyId": "6vWDO969PvNqNYHIOW5v0m"
+      },
+      "album": {
+        "name": "I AM...SASHA FIERCE",
+        "spotifyId": "23Y5wdyP5byMFktZf8AcWU"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273e13de7b8662b085b0885ffef",
+        "small": "https://i.scdn.co/image/ab67616d00004851e13de7b8662b085b0885ffef"
+      },
+      "duration": 193
+    },
+    {
+      "spotifyId": "1h2xVEoJORqrg71HocgqXd",
+      "ytId": "0CFuCYNx-1g",
+      "songName": "Superstition - Single Version",
+      "artist": {
+        "name": "Stevie Wonder",
+        "spotifyId": "7guDJrEfX3qb6FEbdPA5qi"
+      },
+      "album": {
+        "name": "The Definitive Collection",
+        "spotifyId": "4E1itnJOhTMRSATNaxh0Sq"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2739e447b59bd3e2cbefaa31d91",
+        "small": "https://i.scdn.co/image/ab67616d000048519e447b59bd3e2cbefaa31d91"
+      },
+      "duration": 245
+    },
+    {
+      "spotifyId": "62PaSfnXSMyLshYJrlTuL3",
+      "ytId": "YQHsXMglC9A",
+      "songName": "Hello",
+      "artist": {
+        "name": "Adele",
+        "spotifyId": "4dpARuHxo51G3z768sgnrY"
+      },
+      "album": {
+        "name": "25",
+        "spotifyId": "3AvPX1B1HiFROvYjLb5Qwi"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b27347ce408fb4926d69da6713c2",
+        "small": "https://i.scdn.co/image/ab67616d0000485147ce408fb4926d69da6713c2"
+      },
+      "duration": 295
+    },
+    {
+      "spotifyId": "60a0Rd6pjrkxjPbaKzXjfq",
+      "ytId": "eVTXPUF4Oz4",
+      "songName": "In the End",
+      "artist": {
+        "name": "Linkin Park",
+        "spotifyId": "6XyY86QOPPrYVGvF9ch6wz"
+      },
+      "album": {
+        "name": "Hybrid Theory (Bonus Edition)",
+        "spotifyId": "6hPkbAV3ZXpGZBGUvL6jVM"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a",
+        "small": "https://i.scdn.co/image/ab67616d00004851e2f039481babe23658fc719a"
+      },
+      "duration": 216
+    }
+  ],
+  "createdAt": "2024-09-15T02:07:45.000Z",
+  "addedAt": 1726756865740,
+  "isPinned": false,
+  "lastIdx": 5,
+  "isLikedSongs": null
 },
 {
   "_id": {
-    "$oid": "66df3ff24a2f5d60c5e5fe62"
+    "$oid": "66e6417191bf0b67a1c08132"
   },
-  "name": "another new station",
-  "type": "album",
-  "isPinned": false,
+  "name": "Daily Mix 2",
+  "type": "daily-mix",
   "tags": [],
-  "stationImgUrl": "",
+  "stationImgUrl": "https://dailymix-images.scdn.co/v2/img/ab6761610000e5ebee0bf92f5269431b705722b2/2/en/default",
   "description": "",
-  "isOwnedByUser": true,
+  "isOwnedByUser": false,
   "createdBy": {
-    "id": "66de3028b74ed07e77f955c1",
-    "fullName": "omri",
-    "imgUrl": null
+    "id": "BBBB",
+    "fullName": "Sprintify",
+    "imgUrl": ""
   },
-  "likedByUsers": [],
-  "songs": []
+  "likedByUsers": [
+    "66eb2bb2840ffc186c6373cf",
+    "66de2eb16260c20fa8d47f9f"
+  ],
+  "songs": [
+    {
+      "spotifyId": "4SSzBIcyIq7rRItmEsT74P",
+      "ytId": "kJQP7kiw5Fk",
+      "songName": "Despacito (Remix) [made popular by Luis Fonsi & Daddy Yankee ft. Justin Bieber] [vocal version]",
+      "artist": {
+        "name": "Party Tyme",
+        "spotifyId": "18BHcaFxDHqgfehv4g6vjC"
+      },
+      "album": {
+        "name": "Pop Party Pack 8 - Party Tyme - Vocal Versions",
+        "spotifyId": "5zY0NJegRsc1DzLMSgOGQQ"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2737baaa8cb53b689654262a52d",
+        "small": "https://i.scdn.co/image/ab67616d000048517baaa8cb53b689654262a52d"
+      },
+      "duration": 228
+    },
+    {
+      "spotifyId": "1YILIKjno1jrlDhPDmAZtO",
+      "ytId": "OPf0YbXqDm0",
+      "songName": "Uptown Funk (made popular by Mark Ronson ft. Bruno Mars) [vocal version]",
+      "artist": {
+        "name": "Party Tyme",
+        "spotifyId": "18BHcaFxDHqgfehv4g6vjC"
+      },
+      "album": {
+        "name": "Pop Party Pack 6 - Party Tyme - Vocal Versions",
+        "spotifyId": "0ttqBuDOfQr0m68xo0KRQA"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273c792eeb3ea7615b548287172",
+        "small": "https://i.scdn.co/image/ab67616d00004851c792eeb3ea7615b548287172"
+      },
+      "duration": 273
+    },
+    {
+      "spotifyId": "7J1uxwnxfQLu4APicE5Rnj",
+      "ytId": "Zi_XLOBDo_Y",
+      "songName": "Billie Jean",
+      "artist": {
+        "name": "Michael Jackson",
+        "spotifyId": "3fMbdgg4jU18AjLCKBhRSm"
+      },
+      "album": {
+        "name": "Thriller",
+        "spotifyId": "2ANVost0y2y52ema1E9xAZ"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273de437d960dda1ac0a3586d97",
+        "small": "https://i.scdn.co/image/ab67616d00004851de437d960dda1ac0a3586d97"
+      },
+      "duration": 294
+    },
+    {
+      "spotifyId": "7ygpwy2qP3NbrxVkHvUhXY",
+      "ytId": "bx1Bh8ZvH84",
+      "songName": "Wonderwall - Remastered",
+      "artist": {
+        "name": "Oasis",
+        "spotifyId": "2DaxqgrOhkeH0fpeiQq2f4"
+      },
+      "album": {
+        "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
+        "spotifyId": "6tOe4eAF8xNhEkl9WyvsE4"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2737a4c8c59851c88f6794c3cbf",
+        "small": "https://i.scdn.co/image/ab67616d000048517a4c8c59851c88f6794c3cbf"
+      },
+      "duration": 258
+    },
+    {
+      "spotifyId": "2xHxKGGGQjudyLpAQrHRHU",
+      "ytId": "r7qovpFAGrQ",
+      "songName": "Old Town Road (Remix) [made popular by Lil Nas X ft. Billy Ray Cyrus] [vocal version]",
+      "artist": {
+        "name": "Party Tyme",
+        "spotifyId": "18BHcaFxDHqgfehv4g6vjC"
+      },
+      "album": {
+        "name": "Pop Party Pack 9 - Party Tyme (Vocal Versions)",
+        "spotifyId": "0UFjrTvhneQA4wzpTCniE7"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273a89ef85d131c98d076a47673",
+        "small": "https://i.scdn.co/image/ab67616d00004851a89ef85d131c98d076a47673"
+      },
+      "duration": 157
+    },
+    {
+      "spotifyId": "480F1NHaaFyFH0nBntjVDa",
+      "ytId": "0zGcUoRlhmw",
+      "songName": "Closer (Originally Performed by The Chainsmokers ft. Halsey) - Instrumental Version",
+      "artist": {
+        "name": "KaraokePro",
+        "spotifyId": "2QQVBYuFqkbV1je2L9aV1Z"
+      },
+      "album": {
+        "name": "Closer (Originally Performed by The Chainsmokers ft. Halsey) [Instrumental Version]",
+        "spotifyId": "1GhalUIb3JtS5KuHL8qw1U"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b27360007848929c55d6356e8d8c",
+        "small": "https://i.scdn.co/image/ab67616d0000485160007848929c55d6356e8d8c"
+      },
+      "duration": 245
+    },
+    {
+      "spotifyId": "663UJBmPsgBc1yYg7McfAr",
+      "ytId": "TUVcZfQe-Kw",
+      "songName": "Levitating (made popular by Dua Lipa ft. DaBaby) [vocal version]",
+      "artist": {
+        "name": "Party Tyme",
+        "spotifyId": "18BHcaFxDHqgfehv4g6vjC"
+      },
+      "album": {
+        "name": "Super Hits 37 - Party Tyme (Vocal Versions)",
+        "spotifyId": "6ctHQdlc7wVDKQLHAPgQnf"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2731f714a71df8e364d8e35d6fa",
+        "small": "https://i.scdn.co/image/ab67616d000048511f714a71df8e364d8e35d6fa"
+      },
+      "duration": 213
+    },
+    {
+      "spotifyId": "5xTtaWoae3wi06K5WfVUUH",
+      "ytId": "nfWlot6h_JM",
+      "songName": "Shake It Off",
+      "artist": {
+        "name": "Taylor Swift",
+        "spotifyId": "06HL4z0CvFAxyc27GXpf02"
+      },
+      "album": {
+        "name": "1989",
+        "spotifyId": "2QJmrSgbdM35R67eoGQo4j"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148",
+        "small": "https://i.scdn.co/image/ab67616d000048519abdf14e6058bd3903686148"
+      },
+      "duration": 219
+    },
+    {
+      "spotifyId": "2LlQb7Uoj1kKyGhlkBf9aC",
+      "ytId": "sOnqjkJTMaA",
+      "songName": "Thriller",
+      "artist": {
+        "name": "Michael Jackson",
+        "spotifyId": "3fMbdgg4jU18AjLCKBhRSm"
+      },
+      "album": {
+        "name": "Thriller",
+        "spotifyId": "2ANVost0y2y52ema1E9xAZ"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273de437d960dda1ac0a3586d97",
+        "small": "https://i.scdn.co/image/ab67616d00004851de437d960dda1ac0a3586d97"
+      },
+      "duration": 357
+    },
+    {
+      "spotifyId": "5Qe7NHxeLAn8KoLTNLSdwe",
+      "ytId": "v1HDt1tknTc",
+      "songName": "I Want To Hold Your Hand - Remastered 2009",
+      "artist": {
+        "name": "The Beatles",
+        "spotifyId": "3WrFJ7ztbogyGnTHbHJFl2"
+      },
+      "album": {
+        "name": "The Beatles 1962 - 1966 (Remastered)",
+        "spotifyId": "6126O4XLYAfzU3961ziahP"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2735ef4660298ae29ee18799fc2",
+        "small": "https://i.scdn.co/image/ab67616d000048515ef4660298ae29ee18799fc2"
+      },
+      "duration": 146
+    },
+    {
+      "spotifyId": "3APHT3KjbHi9OllkVQsuXF",
+      "ytId": "CU3mc0yvRNk",
+      "songName": "Bohemian Like You",
+      "artist": {
+        "name": "The Dandy Warhols",
+        "spotifyId": "7siPLyFwRFYQkKgWKJ5Sod"
+      },
+      "album": {
+        "name": "Thirteen Tales From Urban Bohemia",
+        "spotifyId": "3RFenjlpdmIfkYATMdkbak"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2735f13db82827b6abb7e31a488",
+        "small": "https://i.scdn.co/image/ab67616d000048515f13db82827b6abb7e31a488"
+      },
+      "duration": 211
+    },
+    {
+      "spotifyId": "3Um9toULmYFGCpvaIPFw7l",
+      "ytId": "H-kA3UtBj4M",
+      "songName": "What's Going On",
+      "artist": {
+        "name": "Marvin Gaye",
+        "spotifyId": "3koiLjNrgRTNbOwViDipeA"
+      },
+      "album": {
+        "name": "What's Going On",
+        "spotifyId": "2v6ANhWhZBUKkg6pJJBs3B"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273b36949bee43217351961ffbc",
+        "small": "https://i.scdn.co/image/ab67616d00004851b36949bee43217351961ffbc"
+      },
+      "duration": 233
+    },
+    {
+      "spotifyId": "0SiywuOBRcynK0uKGWdCnn",
+      "ytId": "qrO4YZeyl0I",
+      "songName": "Bad Romance",
+      "artist": {
+        "name": "Lady Gaga",
+        "spotifyId": "1HY2Jd0NmPuamShAr6KMms"
+      },
+      "album": {
+        "name": "The Fame Monster (Deluxe Edition)",
+        "spotifyId": "6rePArBMb5nLWEaY9aQqL4"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2735c9890c0456a3719eeecd8aa",
+        "small": "https://i.scdn.co/image/ab67616d000048515c9890c0456a3719eeecd8aa"
+      },
+      "duration": 294
+    },
+    {
+      "spotifyId": "4gMgiXfqyzZLMhsksGmbQV",
+      "ytId": "5IpYOF4Hi6Q",
+      "songName": "Another Brick in the Wall, Pt. 2",
+      "artist": {
+        "name": "Pink Floyd",
+        "spotifyId": "0k17h0D3J5VfsdmQ1iZtE9"
+      },
+      "album": {
+        "name": "The Wall",
+        "spotifyId": "5Dbax7G8SWrP9xyzkOvy2F"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2735d48e2f56d691f9a4e4b0bdf",
+        "small": "https://i.scdn.co/image/ab67616d000048515d48e2f56d691f9a4e4b0bdf"
+      },
+      "duration": 238
+    },
+    {
+      "spotifyId": "1YokYILrMXhJPhr3isGpYr",
+      "ytId": "8UVNT4wvIGY",
+      "songName": "Somebody That I Used To Know (made popular by Gotye ft. Kimbra) [vocal version]",
+      "artist": {
+        "name": "Party Tyme",
+        "spotifyId": "18BHcaFxDHqgfehv4g6vjC"
+      },
+      "album": {
+        "name": "Pop Male Hits 7 - Party Tyme - Vocal Versions",
+        "spotifyId": "1AI7dhqDt6Es9usPhMVFSM"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273a7bdabf3285a11927a30b188",
+        "small": "https://i.scdn.co/image/ab67616d00004851a7bdabf3285a11927a30b188"
+      },
+      "duration": 246
+    },
+    {
+      "spotifyId": "2ZBNclC5wm4GtiWaeh0DMx",
+      "ytId": "4m1EFMoRFvY",
+      "songName": "Single Ladies (Put a Ring on It)",
+      "artist": {
+        "name": "Beyoncé",
+        "spotifyId": "6vWDO969PvNqNYHIOW5v0m"
+      },
+      "album": {
+        "name": "I AM...SASHA FIERCE",
+        "spotifyId": "23Y5wdyP5byMFktZf8AcWU"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273e13de7b8662b085b0885ffef",
+        "small": "https://i.scdn.co/image/ab67616d00004851e13de7b8662b085b0885ffef"
+      },
+      "duration": 193
+    },
+    {
+      "spotifyId": "18GiV1BaXzPVYpp9rmOg0E",
+      "ytId": "MMFj8uDubsE",
+      "songName": "Blowin' in the Wind",
+      "artist": {
+        "name": "Bob Dylan",
+        "spotifyId": "74ASZWbe4lXaubB36ztrGX"
+      },
+      "album": {
+        "name": "The Freewheelin' Bob Dylan",
+        "spotifyId": "0o1uFxZ1VTviqvNaYkTJek"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2737d214af8499aa95ad220f573",
+        "small": "https://i.scdn.co/image/ab67616d000048517d214af8499aa95ad220f573"
+      },
+      "duration": 165
+    },
+    {
+      "spotifyId": "0nrRP2bk19rLc0orkWPQk2",
+      "ytId": "IcrbM1l_BoI",
+      "songName": "Wake Me Up",
+      "artist": {
+        "name": "Avicii",
+        "spotifyId": "1vCWHaC5f2uS3yhpwWbIA6"
+      },
+      "album": {
+        "name": "True",
+        "spotifyId": "2H6i2CrWgXE1HookLu8Au0"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273e14f11f796cef9f9a82691a7",
+        "small": "https://i.scdn.co/image/ab67616d00004851e14f11f796cef9f9a82691a7"
+      },
+      "duration": 247
+    },
+    {
+      "spotifyId": "54flyrjcdnQdco7300avMJ",
+      "ytId": "-tJYN-eG1zk",
+      "songName": "We Will Rock You - Remastered 2011",
+      "artist": {
+        "name": "Queen",
+        "spotifyId": "1dfeR4HaWDbWqFHLkxsg1d"
+      },
+      "album": {
+        "name": "News Of The World (Deluxe Remastered Version)",
+        "spotifyId": "6Di4m5k1BtMJ0R44bWNutu"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b27393c65b02f4a72cd6eccf446d",
+        "small": "https://i.scdn.co/image/ab67616d0000485193c65b02f4a72cd6eccf446d"
+      },
+      "duration": 122
+    },
+    {
+      "spotifyId": "60a0Rd6pjrkxjPbaKzXjfq",
+      "ytId": "eVTXPUF4Oz4",
+      "songName": "In the End",
+      "artist": {
+        "name": "Linkin Park",
+        "spotifyId": "6XyY86QOPPrYVGvF9ch6wz"
+      },
+      "album": {
+        "name": "Hybrid Theory (Bonus Edition)",
+        "spotifyId": "6hPkbAV3ZXpGZBGUvL6jVM"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a",
+        "small": "https://i.scdn.co/image/ab67616d00004851e2f039481babe23658fc719a"
+      },
+      "duration": 216
+    },
+    {
+      "spotifyId": "1h2xVEoJORqrg71HocgqXd",
+      "ytId": "0CFuCYNx-1g",
+      "songName": "Superstition - Single Version",
+      "artist": {
+        "name": "Stevie Wonder",
+        "spotifyId": "7guDJrEfX3qb6FEbdPA5qi"
+      },
+      "album": {
+        "name": "The Definitive Collection",
+        "spotifyId": "4E1itnJOhTMRSATNaxh0Sq"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2739e447b59bd3e2cbefaa31d91",
+        "small": "https://i.scdn.co/image/ab67616d000048519e447b59bd3e2cbefaa31d91"
+      },
+      "duration": 245
+    }
+  ],
+  "createdAt": "2024-09-15T02:07:45.000Z",
+  "addedAt": 1726691851450,
+  "isPinned": false,
+  "lastIdx": 8,
+  "isLikedSongs": null
 },
 {
   "_id": {
-    "$oid": "66df4a35275b5f3eb45a64d6"
+    "$oid": "66e6417191bf0b67a1c08133"
   },
-  "name": "Omri' sstation",
-  "type": "album",
-  "isPinned": false,
+  "name": "Daily Mix 3",
+  "type": "daily-mix",
   "tags": [],
-  "stationImgUrl": "",
+  "stationImgUrl": "https://dailymix-images.scdn.co/v2/img/ab6761610000e5eb7bff9168ecfa90aca537adee/3/en/default",
+  "description": "",
+  "isOwnedByUser": false,
+  "createdBy": {
+    "id": "BBBB",
+    "fullName": "Sprintify",
+    "imgUrl": ""
+  },
+  "likedByUsers": [],
+  "songs": [
+    {
+      "spotifyId": "1c8gk2PeTE04A1pIDH9YMk",
+      "ytId": "rYEDA3JcQqw",
+      "songName": "Rolling in the Deep",
+      "artist": {
+        "name": "Adele",
+        "spotifyId": "4dpARuHxo51G3z768sgnrY"
+      },
+      "album": {
+        "name": "21",
+        "spotifyId": "0Lg1uZvI312TPqxNWShFXL"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2732118bf9b198b05a95ded6300",
+        "small": "https://i.scdn.co/image/ab67616d000048512118bf9b198b05a95ded6300"
+      },
+      "duration": 228
+    },
+    {
+      "spotifyId": "5ghIJDpPoe3CfHMGu71E6T",
+      "ytId": "hTWKbfoikeg",
+      "songName": "Smells Like Teen Spirit",
+      "artist": {
+        "name": "Nirvana",
+        "spotifyId": "6olE6TJLqED3rqDCT0FyPh"
+      },
+      "album": {
+        "name": "Nevermind (Remastered)",
+        "spotifyId": "2guirTSEqLizK7j9i1MTTZ"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273e175a19e530c898d167d39bf",
+        "small": "https://i.scdn.co/image/ab67616d00004851e175a19e530c898d167d39bf"
+      },
+      "duration": 301
+    },
+    {
+      "spotifyId": "7tFiyTwD0nx5a1eklYtX2J",
+      "ytId": "fJ9rUzIMcZQ",
+      "songName": "Bohemian Rhapsody - Remastered 2011",
+      "artist": {
+        "name": "Queen",
+        "spotifyId": "1dfeR4HaWDbWqFHLkxsg1d"
+      },
+      "album": {
+        "name": "A Night At The Opera (Deluxe Remastered Version)",
+        "spotifyId": "6X9k3hSsvQck2OfKYdBbXr"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273ce4f1737bc8a646c8c4bd25a",
+        "small": "https://i.scdn.co/image/ab67616d00004851ce4f1737bc8a646c8c4bd25a"
+      },
+      "duration": 354
+    },
+    {
+      "spotifyId": "2xHxKGGGQjudyLpAQrHRHU",
+      "ytId": "r7qovpFAGrQ",
+      "songName": "Old Town Road (Remix) [made popular by Lil Nas X ft. Billy Ray Cyrus] [vocal version]",
+      "artist": {
+        "name": "Party Tyme",
+        "spotifyId": "18BHcaFxDHqgfehv4g6vjC"
+      },
+      "album": {
+        "name": "Pop Party Pack 9 - Party Tyme (Vocal Versions)",
+        "spotifyId": "0UFjrTvhneQA4wzpTCniE7"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273a89ef85d131c98d076a47673",
+        "small": "https://i.scdn.co/image/ab67616d00004851a89ef85d131c98d076a47673"
+      },
+      "duration": 157
+    },
+    {
+      "spotifyId": "3BovdzfaX4jb5KFQwoPfAw",
+      "ytId": "oRdxUFDoQe0",
+      "songName": "Beat It",
+      "artist": {
+        "name": "Michael Jackson",
+        "spotifyId": "3fMbdgg4jU18AjLCKBhRSm"
+      },
+      "album": {
+        "name": "Thriller",
+        "spotifyId": "2ANVost0y2y52ema1E9xAZ"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273de437d960dda1ac0a3586d97",
+        "small": "https://i.scdn.co/image/ab67616d00004851de437d960dda1ac0a3586d97"
+      },
+      "duration": 258
+    },
+    {
+      "spotifyId": "2374M0fQpWi3dLnB54qaLX",
+      "ytId": "FTQbiNvZqaY",
+      "songName": "Africa",
+      "artist": {
+        "name": "TOTO",
+        "spotifyId": "0PFtn5NtBbbUNbU9EAmIWF"
+      },
+      "album": {
+        "name": "Toto IV",
+        "spotifyId": "62U7xIHcID94o20Of5ea4D"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2734a052b99c042dc15f933145b",
+        "small": "https://i.scdn.co/image/ab67616d000048514a052b99c042dc15f933145b"
+      },
+      "duration": 295
+    },
+    {
+      "spotifyId": "5xTtaWoae3wi06K5WfVUUH",
+      "ytId": "nfWlot6h_JM",
+      "songName": "Shake It Off",
+      "artist": {
+        "name": "Taylor Swift",
+        "spotifyId": "06HL4z0CvFAxyc27GXpf02"
+      },
+      "album": {
+        "name": "1989",
+        "spotifyId": "2QJmrSgbdM35R67eoGQo4j"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148",
+        "small": "https://i.scdn.co/image/ab67616d000048519abdf14e6058bd3903686148"
+      },
+      "duration": 219
+    },
+    {
+      "spotifyId": "5Z01UMMf7V1o0MzF86s6WJ",
+      "ytId": "xFYQQPAOz7Y",
+      "songName": "Lose Yourself",
+      "artist": {
+        "name": "Eminem",
+        "spotifyId": "7dGJo4pcD2V6oG8kP0tJRR"
+      },
+      "album": {
+        "name": "Curtain Call: The Hits (Deluxe Edition)",
+        "spotifyId": "5qENHeCSlwWpEzb25peRmQ"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273eab40fc794b88b9d1e012578",
+        "small": "https://i.scdn.co/image/ab67616d00004851eab40fc794b88b9d1e012578"
+      },
+      "duration": 326
+    },
+    {
+      "spotifyId": "0GjEhVFGZW8afUYGChu3Rr",
+      "ytId": "xFrGuyw1V8s",
+      "songName": "Dancing Queen",
+      "artist": {
+        "name": "ABBA",
+        "spotifyId": "0LcJLqbBmaGUft1e9Mm8HV"
+      },
+      "album": {
+        "name": "Arrival",
+        "spotifyId": "1V6a99EbTTIegOhWoPxYI9"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b27370f7a1b35d5165c85b95a0e0",
+        "small": "https://i.scdn.co/image/ab67616d0000485170f7a1b35d5165c85b95a0e0"
+      },
+      "duration": 230
+    },
+    {
+      "spotifyId": "5YwYmrpCULmbHcFDALupzO",
+      "ytId": "aJOTlE1K90k",
+      "songName": "Girls Like You (made popular by Maroon 5 ft. Cardi B) [vocal version]",
+      "artist": {
+        "name": "Party Tyme",
+        "spotifyId": "18BHcaFxDHqgfehv4g6vjC"
+      },
+      "album": {
+        "name": "Pop Party Pack 8 - Party Tyme - Vocal Versions",
+        "spotifyId": "5zY0NJegRsc1DzLMSgOGQQ"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2737baaa8cb53b689654262a52d",
+        "small": "https://i.scdn.co/image/ab67616d000048517baaa8cb53b689654262a52d"
+      },
+      "duration": 235
+    },
+    {
+      "spotifyId": "3Um9toULmYFGCpvaIPFw7l",
+      "ytId": "H-kA3UtBj4M",
+      "songName": "What's Going On",
+      "artist": {
+        "name": "Marvin Gaye",
+        "spotifyId": "3koiLjNrgRTNbOwViDipeA"
+      },
+      "album": {
+        "name": "What's Going On",
+        "spotifyId": "2v6ANhWhZBUKkg6pJJBs3B"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273b36949bee43217351961ffbc",
+        "small": "https://i.scdn.co/image/ab67616d00004851b36949bee43217351961ffbc"
+      },
+      "duration": 233
+    },
+    {
+      "spotifyId": "3APHT3KjbHi9OllkVQsuXF",
+      "ytId": "CU3mc0yvRNk",
+      "songName": "Bohemian Like You",
+      "artist": {
+        "name": "The Dandy Warhols",
+        "spotifyId": "7siPLyFwRFYQkKgWKJ5Sod"
+      },
+      "album": {
+        "name": "Thirteen Tales From Urban Bohemia",
+        "spotifyId": "3RFenjlpdmIfkYATMdkbak"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2735f13db82827b6abb7e31a488",
+        "small": "https://i.scdn.co/image/ab67616d000048515f13db82827b6abb7e31a488"
+      },
+      "duration": 211
+    },
+    {
+      "spotifyId": "3EYOJ48Et32uATr9ZmLnAo",
+      "ytId": "3T1c7GkzRQQ",
+      "songName": "Roxanne",
+      "artist": {
+        "name": "The Police",
+        "spotifyId": "5NGO30tJxFlKixkPSgXcFE"
+      },
+      "album": {
+        "name": "Outlandos D'Amour - Remastered 2003",
+        "spotifyId": "1H9g6j4Wwj6wh6p8YHVtkf"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2732043dd3544a339547d04b436",
+        "small": "https://i.scdn.co/image/ab67616d000048512043dd3544a339547d04b436"
+      },
+      "duration": 191
+    },
+    {
+      "spotifyId": "4gMgiXfqyzZLMhsksGmbQV",
+      "ytId": "5IpYOF4Hi6Q",
+      "songName": "Another Brick in the Wall, Pt. 2",
+      "artist": {
+        "name": "Pink Floyd",
+        "spotifyId": "0k17h0D3J5VfsdmQ1iZtE9"
+      },
+      "album": {
+        "name": "The Wall",
+        "spotifyId": "5Dbax7G8SWrP9xyzkOvy2F"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2735d48e2f56d691f9a4e4b0bdf",
+        "small": "https://i.scdn.co/image/ab67616d000048515d48e2f56d691f9a4e4b0bdf"
+      },
+      "duration": 238
+    },
+    {
+      "spotifyId": "1YokYILrMXhJPhr3isGpYr",
+      "ytId": "8UVNT4wvIGY",
+      "songName": "Somebody That I Used To Know (made popular by Gotye ft. Kimbra) [vocal version]",
+      "artist": {
+        "name": "Party Tyme",
+        "spotifyId": "18BHcaFxDHqgfehv4g6vjC"
+      },
+      "album": {
+        "name": "Pop Male Hits 7 - Party Tyme - Vocal Versions",
+        "spotifyId": "1AI7dhqDt6Es9usPhMVFSM"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273a7bdabf3285a11927a30b188",
+        "small": "https://i.scdn.co/image/ab67616d00004851a7bdabf3285a11927a30b188"
+      },
+      "duration": 246
+    },
+    {
+      "spotifyId": "2ZBNclC5wm4GtiWaeh0DMx",
+      "ytId": "4m1EFMoRFvY",
+      "songName": "Single Ladies (Put a Ring on It)",
+      "artist": {
+        "name": "Beyoncé",
+        "spotifyId": "6vWDO969PvNqNYHIOW5v0m"
+      },
+      "album": {
+        "name": "I AM...SASHA FIERCE",
+        "spotifyId": "23Y5wdyP5byMFktZf8AcWU"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273e13de7b8662b085b0885ffef",
+        "small": "https://i.scdn.co/image/ab67616d00004851e13de7b8662b085b0885ffef"
+      },
+      "duration": 193
+    },
+    {
+      "spotifyId": "698ItKASDavgwZ3WjaWjtz",
+      "ytId": "60ItHLz5WEA",
+      "songName": "Faded",
+      "artist": {
+        "name": "Alan Walker",
+        "spotifyId": "7vk5e3vY1uw9plTHJAMwjN"
+      },
+      "album": {
+        "name": "Different World",
+        "spotifyId": "3nzuGtN3nXARvvecier4K0"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273a108e07c661f9fc54de9c43a",
+        "small": "https://i.scdn.co/image/ab67616d00004851a108e07c661f9fc54de9c43a"
+      },
+      "duration": 212
+    },
+    {
+      "spotifyId": "18GiV1BaXzPVYpp9rmOg0E",
+      "ytId": "MMFj8uDubsE",
+      "songName": "Blowin' in the Wind",
+      "artist": {
+        "name": "Bob Dylan",
+        "spotifyId": "74ASZWbe4lXaubB36ztrGX"
+      },
+      "album": {
+        "name": "The Freewheelin' Bob Dylan",
+        "spotifyId": "0o1uFxZ1VTviqvNaYkTJek"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2737d214af8499aa95ad220f573",
+        "small": "https://i.scdn.co/image/ab67616d000048517d214af8499aa95ad220f573"
+      },
+      "duration": 165
+    },
+    {
+      "spotifyId": "54flyrjcdnQdco7300avMJ",
+      "ytId": "-tJYN-eG1zk",
+      "songName": "We Will Rock You - Remastered 2011",
+      "artist": {
+        "name": "Queen",
+        "spotifyId": "1dfeR4HaWDbWqFHLkxsg1d"
+      },
+      "album": {
+        "name": "News Of The World (Deluxe Remastered Version)",
+        "spotifyId": "6Di4m5k1BtMJ0R44bWNutu"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b27393c65b02f4a72cd6eccf446d",
+        "small": "https://i.scdn.co/image/ab67616d0000485193c65b02f4a72cd6eccf446d"
+      },
+      "duration": 122
+    },
+    {
+      "spotifyId": "2E5RQ54P4GP9AI9p5vtZuz",
+      "ytId": "CvBfHwUxHIk",
+      "songName": "Umbrella - Made famous by Rihanna Ft. Jay Z",
+      "artist": {
+        "name": "PMC All-Stars",
+        "spotifyId": "0yHtl7OPYS3CaDLsOzFFw0"
+      },
+      "album": {
+        "name": "2007 Hot Hits vol 4",
+        "spotifyId": "0L574XKcyv8Qnu6OXP0km2"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273094a46633310c4d2e05bc72b",
+        "small": "https://i.scdn.co/image/ab67616d00004851094a46633310c4d2e05bc72b"
+      },
+      "duration": 260
+    },
+    {
+      "spotifyId": "62PaSfnXSMyLshYJrlTuL3",
+      "ytId": "YQHsXMglC9A",
+      "songName": "Hello",
+      "artist": {
+        "name": "Adele",
+        "spotifyId": "4dpARuHxo51G3z768sgnrY"
+      },
+      "album": {
+        "name": "25",
+        "spotifyId": "3AvPX1B1HiFROvYjLb5Qwi"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b27347ce408fb4926d69da6713c2",
+        "small": "https://i.scdn.co/image/ab67616d0000485147ce408fb4926d69da6713c2"
+      },
+      "duration": 295
+    }
+  ],
+  "createdAt": 1726366065749,
+  "addedAt": 1726366065749,
+  "isPinned": false,
+  "lastIdx": ""
+},
+{
+  "_id": {
+    "$oid": "66e6417191bf0b67a1c08134"
+  },
+  "name": "Daily Mix 4",
+  "type": "daily-mix",
+  "tags": [],
+  "stationImgUrl": "https://dailymix-images.scdn.co/v2/img/ab6761610000e5ebb59c9bdf20c6eb811f9aa894/4/en/default",
+  "description": "",
+  "isOwnedByUser": false,
+  "createdBy": {
+    "id": "BBBB",
+    "fullName": "Sprintify",
+    "imgUrl": ""
+  },
+  "likedByUsers": [],
+  "songs": [
+    {
+      "spotifyId": "5CQ30WqJwcep0pYcV4AMNc",
+      "ytId": "QkF3oxziUI4",
+      "songName": "Stairway to Heaven - Remaster",
+      "artist": {
+        "name": "Led Zeppelin",
+        "spotifyId": "36QJpDe2go2KgaRleHCDTp"
+      },
+      "album": {
+        "name": "Led Zeppelin IV (Deluxe Edition)",
+        "spotifyId": "44Ig8dzqOkvkGDzaUof9lK"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273c8a11e48c91a982d086afc69",
+        "small": "https://i.scdn.co/image/ab67616d00004851c8a11e48c91a982d086afc69"
+      },
+      "duration": 482
+    },
+    {
+      "spotifyId": "7qiZfU4dY1lWllzX7mPBI3",
+      "ytId": "JGwWNGJdvx8",
+      "songName": "Shape of You",
+      "artist": {
+        "name": "Ed Sheeran",
+        "spotifyId": "6eUKZXaKkcviH0Ku9w2n3V"
+      },
+      "album": {
+        "name": "÷ (Deluxe)",
+        "spotifyId": "3T4tUhGYeRNVUGevb0wThu"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273ba5db46f4b838ef6027e6f96",
+        "small": "https://i.scdn.co/image/ab67616d00004851ba5db46f4b838ef6027e6f96"
+      },
+      "duration": 233
+    },
+    {
+      "spotifyId": "4SSzBIcyIq7rRItmEsT74P",
+      "ytId": "kJQP7kiw5Fk",
+      "songName": "Despacito (Remix) [made popular by Luis Fonsi & Daddy Yankee ft. Justin Bieber] [vocal version]",
+      "artist": {
+        "name": "Party Tyme",
+        "spotifyId": "18BHcaFxDHqgfehv4g6vjC"
+      },
+      "album": {
+        "name": "Pop Party Pack 8 - Party Tyme - Vocal Versions",
+        "spotifyId": "5zY0NJegRsc1DzLMSgOGQQ"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2737baaa8cb53b689654262a52d",
+        "small": "https://i.scdn.co/image/ab67616d000048517baaa8cb53b689654262a52d"
+      },
+      "duration": 228
+    },
+    {
+      "spotifyId": "2WfaOiMkCvy7F5fcp2zZ8L",
+      "ytId": "djV11Xbc914",
+      "songName": "Take on Me",
+      "artist": {
+        "name": "a-ha",
+        "spotifyId": "2jzc5TC5TVFLXQlBNiIUzE"
+      },
+      "album": {
+        "name": "Hunting High and Low",
+        "spotifyId": "1ER3B6zev5JEAaqhnyyfbf"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273e8dd4db47e7177c63b0b7d53",
+        "small": "https://i.scdn.co/image/ab67616d00004851e8dd4db47e7177c63b0b7d53"
+      },
+      "duration": 225
+    },
+    {
+      "spotifyId": "480F1NHaaFyFH0nBntjVDa",
+      "ytId": "0zGcUoRlhmw",
+      "songName": "Closer (Originally Performed by The Chainsmokers ft. Halsey) - Instrumental Version",
+      "artist": {
+        "name": "KaraokePro",
+        "spotifyId": "2QQVBYuFqkbV1je2L9aV1Z"
+      },
+      "album": {
+        "name": "Closer (Originally Performed by The Chainsmokers ft. Halsey) [Instrumental Version]",
+        "spotifyId": "1GhalUIb3JtS5KuHL8qw1U"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b27360007848929c55d6356e8d8c",
+        "small": "https://i.scdn.co/image/ab67616d0000485160007848929c55d6356e8d8c"
+      },
+      "duration": 245
+    },
+    {
+      "spotifyId": "2374M0fQpWi3dLnB54qaLX",
+      "ytId": "FTQbiNvZqaY",
+      "songName": "Africa",
+      "artist": {
+        "name": "TOTO",
+        "spotifyId": "0PFtn5NtBbbUNbU9EAmIWF"
+      },
+      "album": {
+        "name": "Toto IV",
+        "spotifyId": "62U7xIHcID94o20Of5ea4D"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2734a052b99c042dc15f933145b",
+        "small": "https://i.scdn.co/image/ab67616d000048514a052b99c042dc15f933145b"
+      },
+      "duration": 295
+    },
+    {
+      "spotifyId": "2LlQb7Uoj1kKyGhlkBf9aC",
+      "ytId": "sOnqjkJTMaA",
+      "songName": "Thriller",
+      "artist": {
+        "name": "Michael Jackson",
+        "spotifyId": "3fMbdgg4jU18AjLCKBhRSm"
+      },
+      "album": {
+        "name": "Thriller",
+        "spotifyId": "2ANVost0y2y52ema1E9xAZ"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273de437d960dda1ac0a3586d97",
+        "small": "https://i.scdn.co/image/ab67616d00004851de437d960dda1ac0a3586d97"
+      },
+      "duration": 357
+    },
+    {
+      "spotifyId": "5xTtaWoae3wi06K5WfVUUH",
+      "ytId": "nfWlot6h_JM",
+      "songName": "Shake It Off",
+      "artist": {
+        "name": "Taylor Swift",
+        "spotifyId": "06HL4z0CvFAxyc27GXpf02"
+      },
+      "album": {
+        "name": "1989",
+        "spotifyId": "2QJmrSgbdM35R67eoGQo4j"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148",
+        "small": "https://i.scdn.co/image/ab67616d000048519abdf14e6058bd3903686148"
+      },
+      "duration": 219
+    },
+    {
+      "spotifyId": "0GjEhVFGZW8afUYGChu3Rr",
+      "ytId": "xFrGuyw1V8s",
+      "songName": "Dancing Queen",
+      "artist": {
+        "name": "ABBA",
+        "spotifyId": "0LcJLqbBmaGUft1e9Mm8HV"
+      },
+      "album": {
+        "name": "Arrival",
+        "spotifyId": "1V6a99EbTTIegOhWoPxYI9"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b27370f7a1b35d5165c85b95a0e0",
+        "small": "https://i.scdn.co/image/ab67616d0000485170f7a1b35d5165c85b95a0e0"
+      },
+      "duration": 230
+    },
+    {
+      "spotifyId": "5YwYmrpCULmbHcFDALupzO",
+      "ytId": "aJOTlE1K90k",
+      "songName": "Girls Like You (made popular by Maroon 5 ft. Cardi B) [vocal version]",
+      "artist": {
+        "name": "Party Tyme",
+        "spotifyId": "18BHcaFxDHqgfehv4g6vjC"
+      },
+      "album": {
+        "name": "Pop Party Pack 8 - Party Tyme - Vocal Versions",
+        "spotifyId": "5zY0NJegRsc1DzLMSgOGQQ"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2737baaa8cb53b689654262a52d",
+        "small": "https://i.scdn.co/image/ab67616d000048517baaa8cb53b689654262a52d"
+      },
+      "duration": 235
+    },
+    {
+      "spotifyId": "3APHT3KjbHi9OllkVQsuXF",
+      "ytId": "CU3mc0yvRNk",
+      "songName": "Bohemian Like You",
+      "artist": {
+        "name": "The Dandy Warhols",
+        "spotifyId": "7siPLyFwRFYQkKgWKJ5Sod"
+      },
+      "album": {
+        "name": "Thirteen Tales From Urban Bohemia",
+        "spotifyId": "3RFenjlpdmIfkYATMdkbak"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2735f13db82827b6abb7e31a488",
+        "small": "https://i.scdn.co/image/ab67616d000048515f13db82827b6abb7e31a488"
+      },
+      "duration": 211
+    },
+    {
+      "spotifyId": "5Qe7NHxeLAn8KoLTNLSdwe",
+      "ytId": "v1HDt1tknTc",
+      "songName": "I Want To Hold Your Hand - Remastered 2009",
+      "artist": {
+        "name": "The Beatles",
+        "spotifyId": "3WrFJ7ztbogyGnTHbHJFl2"
+      },
+      "album": {
+        "name": "The Beatles 1962 - 1966 (Remastered)",
+        "spotifyId": "6126O4XLYAfzU3961ziahP"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2735ef4660298ae29ee18799fc2",
+        "small": "https://i.scdn.co/image/ab67616d000048515ef4660298ae29ee18799fc2"
+      },
+      "duration": 146
+    },
+    {
+      "spotifyId": "0SiywuOBRcynK0uKGWdCnn",
+      "ytId": "qrO4YZeyl0I",
+      "songName": "Bad Romance",
+      "artist": {
+        "name": "Lady Gaga",
+        "spotifyId": "1HY2Jd0NmPuamShAr6KMms"
+      },
+      "album": {
+        "name": "The Fame Monster (Deluxe Edition)",
+        "spotifyId": "6rePArBMb5nLWEaY9aQqL4"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2735c9890c0456a3719eeecd8aa",
+        "small": "https://i.scdn.co/image/ab67616d000048515c9890c0456a3719eeecd8aa"
+      },
+      "duration": 294
+    },
+    {
+      "spotifyId": "4gMgiXfqyzZLMhsksGmbQV",
+      "ytId": "5IpYOF4Hi6Q",
+      "songName": "Another Brick in the Wall, Pt. 2",
+      "artist": {
+        "name": "Pink Floyd",
+        "spotifyId": "0k17h0D3J5VfsdmQ1iZtE9"
+      },
+      "album": {
+        "name": "The Wall",
+        "spotifyId": "5Dbax7G8SWrP9xyzkOvy2F"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2735d48e2f56d691f9a4e4b0bdf",
+        "small": "https://i.scdn.co/image/ab67616d000048515d48e2f56d691f9a4e4b0bdf"
+      },
+      "duration": 238
+    },
+    {
+      "spotifyId": "3EYOJ48Et32uATr9ZmLnAo",
+      "ytId": "3T1c7GkzRQQ",
+      "songName": "Roxanne",
+      "artist": {
+        "name": "The Police",
+        "spotifyId": "5NGO30tJxFlKixkPSgXcFE"
+      },
+      "album": {
+        "name": "Outlandos D'Amour - Remastered 2003",
+        "spotifyId": "1H9g6j4Wwj6wh6p8YHVtkf"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2732043dd3544a339547d04b436",
+        "small": "https://i.scdn.co/image/ab67616d000048512043dd3544a339547d04b436"
+      },
+      "duration": 191
+    },
+    {
+      "spotifyId": "2H1047e0oMSj10dgp7p2VG",
+      "ytId": "uSD4vsh1zDA",
+      "songName": "I Gotta Feeling",
+      "artist": {
+        "name": "Black Eyed Peas",
+        "spotifyId": "1yxSLGMDHlW21z4YXirZDS"
+      },
+      "album": {
+        "name": "THE E.N.D. (THE ENERGY NEVER DIES)",
+        "spotifyId": "3lng6RAtdksQ2q02Fk5jaB"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273382514f0114ba8f4a16d5db4",
+        "small": "https://i.scdn.co/image/ab67616d00004851382514f0114ba8f4a16d5db4"
+      },
+      "duration": 289
+    },
+    {
+      "spotifyId": "18GiV1BaXzPVYpp9rmOg0E",
+      "ytId": "MMFj8uDubsE",
+      "songName": "Blowin' in the Wind",
+      "artist": {
+        "name": "Bob Dylan",
+        "spotifyId": "74ASZWbe4lXaubB36ztrGX"
+      },
+      "album": {
+        "name": "The Freewheelin' Bob Dylan",
+        "spotifyId": "0o1uFxZ1VTviqvNaYkTJek"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2737d214af8499aa95ad220f573",
+        "small": "https://i.scdn.co/image/ab67616d000048517d214af8499aa95ad220f573"
+      },
+      "duration": 165
+    },
+    {
+      "spotifyId": "0nrRP2bk19rLc0orkWPQk2",
+      "ytId": "IcrbM1l_BoI",
+      "songName": "Wake Me Up",
+      "artist": {
+        "name": "Avicii",
+        "spotifyId": "1vCWHaC5f2uS3yhpwWbIA6"
+      },
+      "album": {
+        "name": "True",
+        "spotifyId": "2H6i2CrWgXE1HookLu8Au0"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273e14f11f796cef9f9a82691a7",
+        "small": "https://i.scdn.co/image/ab67616d00004851e14f11f796cef9f9a82691a7"
+      },
+      "duration": 247
+    },
+    {
+      "spotifyId": "1h2xVEoJORqrg71HocgqXd",
+      "ytId": "0CFuCYNx-1g",
+      "songName": "Superstition - Single Version",
+      "artist": {
+        "name": "Stevie Wonder",
+        "spotifyId": "7guDJrEfX3qb6FEbdPA5qi"
+      },
+      "album": {
+        "name": "The Definitive Collection",
+        "spotifyId": "4E1itnJOhTMRSATNaxh0Sq"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2739e447b59bd3e2cbefaa31d91",
+        "small": "https://i.scdn.co/image/ab67616d000048519e447b59bd3e2cbefaa31d91"
+      },
+      "duration": 245
+    },
+    {
+      "spotifyId": "60a0Rd6pjrkxjPbaKzXjfq",
+      "ytId": "eVTXPUF4Oz4",
+      "songName": "In the End",
+      "artist": {
+        "name": "Linkin Park",
+        "spotifyId": "6XyY86QOPPrYVGvF9ch6wz"
+      },
+      "album": {
+        "name": "Hybrid Theory (Bonus Edition)",
+        "spotifyId": "6hPkbAV3ZXpGZBGUvL6jVM"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273e2f039481babe23658fc719a",
+        "small": "https://i.scdn.co/image/ab67616d00004851e2f039481babe23658fc719a"
+      },
+      "duration": 216
+    },
+    {
+      "spotifyId": "54flyrjcdnQdco7300avMJ",
+      "ytId": "-tJYN-eG1zk",
+      "songName": "We Will Rock You - Remastered 2011",
+      "artist": {
+        "name": "Queen",
+        "spotifyId": "1dfeR4HaWDbWqFHLkxsg1d"
+      },
+      "album": {
+        "name": "News Of The World (Deluxe Remastered Version)",
+        "spotifyId": "6Di4m5k1BtMJ0R44bWNutu"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b27393c65b02f4a72cd6eccf446d",
+        "small": "https://i.scdn.co/image/ab67616d0000485193c65b02f4a72cd6eccf446d"
+      },
+      "duration": 122
+    }
+  ],
+  "createdAt": 1726366065867,
+  "addedAt": 1726366065867,
+  "isPinned": false,
+  "lastIdx": ""
+},
+{
+  "_id": {
+    "$oid": "66e6417291bf0b67a1c08135"
+  },
+  "name": "Daily Mix 5",
+  "type": "daily-mix",
+  "tags": [],
+  "stationImgUrl": "https://dailymix-images.scdn.co/v2/img/ab6761610000e5ebed7d082db2925fe99a9b9487/5/en/default",
+  "description": "",
+  "isOwnedByUser": false,
+  "createdBy": {
+    "id": "BBBB",
+    "fullName": "Sprintify",
+    "imgUrl": ""
+  },
+  "likedByUsers": [],
+  "songs": [
+    {
+      "spotifyId": "7J1uxwnxfQLu4APicE5Rnj",
+      "ytId": "Zi_XLOBDo_Y",
+      "songName": "Billie Jean",
+      "artist": {
+        "name": "Michael Jackson",
+        "spotifyId": "3fMbdgg4jU18AjLCKBhRSm"
+      },
+      "album": {
+        "name": "Thriller",
+        "spotifyId": "2ANVost0y2y52ema1E9xAZ"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273de437d960dda1ac0a3586d97",
+        "small": "https://i.scdn.co/image/ab67616d00004851de437d960dda1ac0a3586d97"
+      },
+      "duration": 294
+    },
+    {
+      "spotifyId": "7tFiyTwD0nx5a1eklYtX2J",
+      "ytId": "fJ9rUzIMcZQ",
+      "songName": "Bohemian Rhapsody - Remastered 2011",
+      "artist": {
+        "name": "Queen",
+        "spotifyId": "1dfeR4HaWDbWqFHLkxsg1d"
+      },
+      "album": {
+        "name": "A Night At The Opera (Deluxe Remastered Version)",
+        "spotifyId": "6X9k3hSsvQck2OfKYdBbXr"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273ce4f1737bc8a646c8c4bd25a",
+        "small": "https://i.scdn.co/image/ab67616d00004851ce4f1737bc8a646c8c4bd25a"
+      },
+      "duration": 354
+    },
+    {
+      "spotifyId": "2VxeLyX666F8uXCJ0dZF8B",
+      "ytId": "bo_efYhYU2A",
+      "songName": "Shallow",
+      "artist": {
+        "name": "Lady Gaga",
+        "spotifyId": "1HY2Jd0NmPuamShAr6KMms"
+      },
+      "album": {
+        "name": "A Star Is Born Soundtrack",
+        "spotifyId": "4sLtOBOzn4s3GDUv3c5oJD"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273e2d156fdc691f57900134342",
+        "small": "https://i.scdn.co/image/ab67616d00004851e2d156fdc691f57900134342"
+      },
+      "duration": 215
+    },
+    {
+      "spotifyId": "2xHxKGGGQjudyLpAQrHRHU",
+      "ytId": "r7qovpFAGrQ",
+      "songName": "Old Town Road (Remix) [made popular by Lil Nas X ft. Billy Ray Cyrus] [vocal version]",
+      "artist": {
+        "name": "Party Tyme",
+        "spotifyId": "18BHcaFxDHqgfehv4g6vjC"
+      },
+      "album": {
+        "name": "Pop Party Pack 9 - Party Tyme (Vocal Versions)",
+        "spotifyId": "0UFjrTvhneQA4wzpTCniE7"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273a89ef85d131c98d076a47673",
+        "small": "https://i.scdn.co/image/ab67616d00004851a89ef85d131c98d076a47673"
+      },
+      "duration": 157
+    },
+    {
+      "spotifyId": "3BovdzfaX4jb5KFQwoPfAw",
+      "ytId": "oRdxUFDoQe0",
+      "songName": "Beat It",
+      "artist": {
+        "name": "Michael Jackson",
+        "spotifyId": "3fMbdgg4jU18AjLCKBhRSm"
+      },
+      "album": {
+        "name": "Thriller",
+        "spotifyId": "2ANVost0y2y52ema1E9xAZ"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273de437d960dda1ac0a3586d97",
+        "small": "https://i.scdn.co/image/ab67616d00004851de437d960dda1ac0a3586d97"
+      },
+      "duration": 258
+    },
+    {
+      "spotifyId": "7iQ8xhTsdMLV8u64ZLDqY8",
+      "ytId": "RIMtfYQNSmg",
+      "songName": "My Heart Will Go On",
+      "artist": {
+        "name": "Celine Dion",
+        "spotifyId": "2VJ72LInHc76ycw7VfTLO5"
+      },
+      "album": {
+        "name": "Let's Talk About Love",
+        "spotifyId": "5fDgklLOIr0Tal2RCml3Wg"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273f9aec66c810d833b704e147e",
+        "small": "https://i.scdn.co/image/ab67616d00004851f9aec66c810d833b704e147e"
+      },
+      "duration": 288
+    },
+    {
+      "spotifyId": "2LlQb7Uoj1kKyGhlkBf9aC",
+      "ytId": "sOnqjkJTMaA",
+      "songName": "Thriller",
+      "artist": {
+        "name": "Michael Jackson",
+        "spotifyId": "3fMbdgg4jU18AjLCKBhRSm"
+      },
+      "album": {
+        "name": "Thriller",
+        "spotifyId": "2ANVost0y2y52ema1E9xAZ"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273de437d960dda1ac0a3586d97",
+        "small": "https://i.scdn.co/image/ab67616d00004851de437d960dda1ac0a3586d97"
+      },
+      "duration": 357
+    },
+    {
+      "spotifyId": "5xTtaWoae3wi06K5WfVUUH",
+      "ytId": "nfWlot6h_JM",
+      "songName": "Shake It Off",
+      "artist": {
+        "name": "Taylor Swift",
+        "spotifyId": "06HL4z0CvFAxyc27GXpf02"
+      },
+      "album": {
+        "name": "1989",
+        "spotifyId": "2QJmrSgbdM35R67eoGQo4j"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148",
+        "small": "https://i.scdn.co/image/ab67616d000048519abdf14e6058bd3903686148"
+      },
+      "duration": 219
+    },
+    {
+      "spotifyId": "663UJBmPsgBc1yYg7McfAr",
+      "ytId": "TUVcZfQe-Kw",
+      "songName": "Levitating (made popular by Dua Lipa ft. DaBaby) [vocal version]",
+      "artist": {
+        "name": "Party Tyme",
+        "spotifyId": "18BHcaFxDHqgfehv4g6vjC"
+      },
+      "album": {
+        "name": "Super Hits 37 - Party Tyme (Vocal Versions)",
+        "spotifyId": "6ctHQdlc7wVDKQLHAPgQnf"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2731f714a71df8e364d8e35d6fa",
+        "small": "https://i.scdn.co/image/ab67616d000048511f714a71df8e364d8e35d6fa"
+      },
+      "duration": 213
+    },
+    {
+      "spotifyId": "5Qe7NHxeLAn8KoLTNLSdwe",
+      "ytId": "v1HDt1tknTc",
+      "songName": "I Want To Hold Your Hand - Remastered 2009",
+      "artist": {
+        "name": "The Beatles",
+        "spotifyId": "3WrFJ7ztbogyGnTHbHJFl2"
+      },
+      "album": {
+        "name": "The Beatles 1962 - 1966 (Remastered)",
+        "spotifyId": "6126O4XLYAfzU3961ziahP"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2735ef4660298ae29ee18799fc2",
+        "small": "https://i.scdn.co/image/ab67616d000048515ef4660298ae29ee18799fc2"
+      },
+      "duration": 146
+    },
+    {
+      "spotifyId": "3APHT3KjbHi9OllkVQsuXF",
+      "ytId": "CU3mc0yvRNk",
+      "songName": "Bohemian Like You",
+      "artist": {
+        "name": "The Dandy Warhols",
+        "spotifyId": "7siPLyFwRFYQkKgWKJ5Sod"
+      },
+      "album": {
+        "name": "Thirteen Tales From Urban Bohemia",
+        "spotifyId": "3RFenjlpdmIfkYATMdkbak"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2735f13db82827b6abb7e31a488",
+        "small": "https://i.scdn.co/image/ab67616d000048515f13db82827b6abb7e31a488"
+      },
+      "duration": 211
+    },
+    {
+      "spotifyId": "3Um9toULmYFGCpvaIPFw7l",
+      "ytId": "H-kA3UtBj4M",
+      "songName": "What's Going On",
+      "artist": {
+        "name": "Marvin Gaye",
+        "spotifyId": "3koiLjNrgRTNbOwViDipeA"
+      },
+      "album": {
+        "name": "What's Going On",
+        "spotifyId": "2v6ANhWhZBUKkg6pJJBs3B"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273b36949bee43217351961ffbc",
+        "small": "https://i.scdn.co/image/ab67616d00004851b36949bee43217351961ffbc"
+      },
+      "duration": 233
+    },
+    {
+      "spotifyId": "3EYOJ48Et32uATr9ZmLnAo",
+      "ytId": "3T1c7GkzRQQ",
+      "songName": "Roxanne",
+      "artist": {
+        "name": "The Police",
+        "spotifyId": "5NGO30tJxFlKixkPSgXcFE"
+      },
+      "album": {
+        "name": "Outlandos D'Amour - Remastered 2003",
+        "spotifyId": "1H9g6j4Wwj6wh6p8YHVtkf"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2732043dd3544a339547d04b436",
+        "small": "https://i.scdn.co/image/ab67616d000048512043dd3544a339547d04b436"
+      },
+      "duration": 191
+    },
+    {
+      "spotifyId": "1YokYILrMXhJPhr3isGpYr",
+      "ytId": "8UVNT4wvIGY",
+      "songName": "Somebody That I Used To Know (made popular by Gotye ft. Kimbra) [vocal version]",
+      "artist": {
+        "name": "Party Tyme",
+        "spotifyId": "18BHcaFxDHqgfehv4g6vjC"
+      },
+      "album": {
+        "name": "Pop Male Hits 7 - Party Tyme - Vocal Versions",
+        "spotifyId": "1AI7dhqDt6Es9usPhMVFSM"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273a7bdabf3285a11927a30b188",
+        "small": "https://i.scdn.co/image/ab67616d00004851a7bdabf3285a11927a30b188"
+      },
+      "duration": 246
+    },
+    {
+      "spotifyId": "0SiywuOBRcynK0uKGWdCnn",
+      "ytId": "qrO4YZeyl0I",
+      "songName": "Bad Romance",
+      "artist": {
+        "name": "Lady Gaga",
+        "spotifyId": "1HY2Jd0NmPuamShAr6KMms"
+      },
+      "album": {
+        "name": "The Fame Monster (Deluxe Edition)",
+        "spotifyId": "6rePArBMb5nLWEaY9aQqL4"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2735c9890c0456a3719eeecd8aa",
+        "small": "https://i.scdn.co/image/ab67616d000048515c9890c0456a3719eeecd8aa"
+      },
+      "duration": 294
+    },
+    {
+      "spotifyId": "18GiV1BaXzPVYpp9rmOg0E",
+      "ytId": "MMFj8uDubsE",
+      "songName": "Blowin' in the Wind",
+      "artist": {
+        "name": "Bob Dylan",
+        "spotifyId": "74ASZWbe4lXaubB36ztrGX"
+      },
+      "album": {
+        "name": "The Freewheelin' Bob Dylan",
+        "spotifyId": "0o1uFxZ1VTviqvNaYkTJek"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2737d214af8499aa95ad220f573",
+        "small": "https://i.scdn.co/image/ab67616d000048517d214af8499aa95ad220f573"
+      },
+      "duration": 165
+    },
+    {
+      "spotifyId": "2ZBNclC5wm4GtiWaeh0DMx",
+      "ytId": "4m1EFMoRFvY",
+      "songName": "Single Ladies (Put a Ring on It)",
+      "artist": {
+        "name": "Beyoncé",
+        "spotifyId": "6vWDO969PvNqNYHIOW5v0m"
+      },
+      "album": {
+        "name": "I AM...SASHA FIERCE",
+        "spotifyId": "23Y5wdyP5byMFktZf8AcWU"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273e13de7b8662b085b0885ffef",
+        "small": "https://i.scdn.co/image/ab67616d00004851e13de7b8662b085b0885ffef"
+      },
+      "duration": 193
+    },
+    {
+      "spotifyId": "698ItKASDavgwZ3WjaWjtz",
+      "ytId": "60ItHLz5WEA",
+      "songName": "Faded",
+      "artist": {
+        "name": "Alan Walker",
+        "spotifyId": "7vk5e3vY1uw9plTHJAMwjN"
+      },
+      "album": {
+        "name": "Different World",
+        "spotifyId": "3nzuGtN3nXARvvecier4K0"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273a108e07c661f9fc54de9c43a",
+        "small": "https://i.scdn.co/image/ab67616d00004851a108e07c661f9fc54de9c43a"
+      },
+      "duration": 212
+    },
+    {
+      "spotifyId": "54flyrjcdnQdco7300avMJ",
+      "ytId": "-tJYN-eG1zk",
+      "songName": "We Will Rock You - Remastered 2011",
+      "artist": {
+        "name": "Queen",
+        "spotifyId": "1dfeR4HaWDbWqFHLkxsg1d"
+      },
+      "album": {
+        "name": "News Of The World (Deluxe Remastered Version)",
+        "spotifyId": "6Di4m5k1BtMJ0R44bWNutu"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b27393c65b02f4a72cd6eccf446d",
+        "small": "https://i.scdn.co/image/ab67616d0000485193c65b02f4a72cd6eccf446d"
+      },
+      "duration": 122
+    },
+    {
+      "spotifyId": "2E5RQ54P4GP9AI9p5vtZuz",
+      "ytId": "CvBfHwUxHIk",
+      "songName": "Umbrella - Made famous by Rihanna Ft. Jay Z",
+      "artist": {
+        "name": "PMC All-Stars",
+        "spotifyId": "0yHtl7OPYS3CaDLsOzFFw0"
+      },
+      "album": {
+        "name": "2007 Hot Hits vol 4",
+        "spotifyId": "0L574XKcyv8Qnu6OXP0km2"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273094a46633310c4d2e05bc72b",
+        "small": "https://i.scdn.co/image/ab67616d00004851094a46633310c4d2e05bc72b"
+      },
+      "duration": 260
+    },
+    {
+      "spotifyId": "62PaSfnXSMyLshYJrlTuL3",
+      "ytId": "YQHsXMglC9A",
+      "songName": "Hello",
+      "artist": {
+        "name": "Adele",
+        "spotifyId": "4dpARuHxo51G3z768sgnrY"
+      },
+      "album": {
+        "name": "25",
+        "spotifyId": "3AvPX1B1HiFROvYjLb5Qwi"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b27347ce408fb4926d69da6713c2",
+        "small": "https://i.scdn.co/image/ab67616d0000485147ce408fb4926d69da6713c2"
+      },
+      "duration": 295
+    }
+  ],
+  "createdAt": 1726366065999,
+  "addedAt": 1726366065999,
+  "isPinned": false,
+  "lastIdx": ""
+},
+{
+  "_id": {
+    "$oid": "66e641a291bf0b67a1c08136"
+  },
+  "name": "Good mood playlist",
+  "type": "playlist",
+  "tags": [],
+  "stationImgUrl": "https://i.scdn.co/image/ab67616d0000b273ce4f1737bc8a646c8c4bd25a",
   "description": "",
   "isOwnedByUser": true,
   "createdBy": {
-    "id": "66de3028b74ed07e77f955c1",
-    "fullName": "omri",
+    "id": "66de2eb16260c20fa8d47f9f",
+    "fullName": "darr",
     "imgUrl": null
   },
   "likedByUsers": [],
-  "songs": []
+  "songs": [
+    {
+      "spotifyId": "7tFiyTwD0nx5a1eklYtX2J",
+      "ytId": "fJ9rUzIMcZQ",
+      "songName": "Bohemian Rhapsody - Remastered 2011",
+      "artist": {
+        "name": "Queen",
+        "spotifyId": "1dfeR4HaWDbWqFHLkxsg1d"
+      },
+      "album": {
+        "name": "A Night At The Opera (Deluxe Remastered Version)",
+        "spotifyId": "6X9k3hSsvQck2OfKYdBbXr"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273ce4f1737bc8a646c8c4bd25a",
+        "small": "https://i.scdn.co/image/ab67616d00004851ce4f1737bc8a646c8c4bd25a"
+      },
+      "duration": 354,
+      "addedAt": 1726366114429
+    },
+    {
+      "spotifyId": "5Q0Nhxo0l2bP3pNjpGJwV1",
+      "songName": "Party In The U.S.A.",
+      "artist": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        },
+        "href": "https://api.spotify.com/v1/artists/5YGY8feqx7naU7z4HrwZM6",
+        "id": "5YGY8feqx7naU7z4HrwZM6",
+        "name": "Miley Cyrus",
+        "type": "artist",
+        "uri": "spotify:artist:5YGY8feqx7naU7z4HrwZM6"
+      },
+      "album": {
+        "name": "The Time Of Our Lives",
+        "spotifyId": "64aKkqxc3Ur2LYIKeS5osS"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273d6c3ad6a2a27471e1d5e8103",
+        "small": "https://i.scdn.co/image/ab67616d00004851d6c3ad6a2a27471e1d5e8103"
+      },
+      "duration": 202,
+      "ytId": "M11SvDtPBhA",
+      "addedAt": 1726681276010
+    },
+    {
+      "spotifyId": "6IDHh3FcwLVcG5NsmpQgg2",
+      "songName": "It's a Sin - 2001 Remaster",
+      "artist": {
+        "name": "Pet Shop Boys",
+        "spotifyId": "2ycnb8Er79LoH2AsR5ldjh"
+      },
+      "album": {
+        "name": "Actually",
+        "spotifyId": "7hkIf8sKiJKRjADB2xan74"
+      },
+      "duration": 299,
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b27385bce6c7b5664da3fbc90f1c",
+        "small": "https://i.scdn.co/image/ab67616d0000485185bce6c7b5664da3fbc90f1c"
+      },
+      "releaseDate": "1987-09-07",
+      "ytId": "jxjCpgoiJRs",
+      "addedAt": 1726492259483
+    },
+    {
+      "spotifyId": "4SSzBIcyIq7rRItmEsT74P",
+      "ytId": "kJQP7kiw5Fk",
+      "songName": "Despacito (Remix) [made popular by Luis Fonsi & Daddy Yankee ft. Justin Bieber] [vocal version]",
+      "artist": {
+        "name": "Party Tyme",
+        "spotifyId": "18BHcaFxDHqgfehv4g6vjC"
+      },
+      "album": {
+        "name": "Pop Party Pack 8 - Party Tyme - Vocal Versions",
+        "spotifyId": "5zY0NJegRsc1DzLMSgOGQQ"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2737baaa8cb53b689654262a52d",
+        "small": "https://i.scdn.co/image/ab67616d000048517baaa8cb53b689654262a52d"
+      },
+      "duration": 228,
+      "addedAt": 1726674456872
+    },
+    {
+      "spotifyId": "2Scja9e00PVGBUrKwXJXHv",
+      "songName": "Making Love (Out of Nothing at All)",
+      "artist": {
+        "name": "Bonnie Tyler",
+        "spotifyId": "0SD4eZCN4Kr0wQk56hCdh2"
+      },
+      "album": {
+        "name": "Free Spirit",
+        "spotifyId": "3PdMuuwO7sj7ckg3FmQ6jl"
+      },
+      "duration": 470,
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b27364ba6b515bb7a9c2a0de8f90",
+        "small": "https://i.scdn.co/image/ab67616d0000485164ba6b515bb7a9c2a0de8f90"
+      },
+      "releaseDate": "1995-10-16",
+      "ytId": "vaI4Vdk6OXY",
+      "addedAt": 1726522220906
+    },
+    {
+      "spotifyId": "4t1fWWJQs5V9YErfsrDslC",
+      "songName": "Cryin'",
+      "artist": {
+        "name": "Aerosmith",
+        "spotifyId": "7Ey4PD4MYsKc5I2dolUwbH"
+      },
+      "album": {
+        "name": "Get A Grip",
+        "spotifyId": "180jTzor4W2MQ9HW5h5Fh4"
+      },
+      "duration": 308,
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b27391b246743456e285a20a46ed",
+        "small": "https://i.scdn.co/image/ab67616d0000485191b246743456e285a20a46ed"
+      },
+      "releaseDate": "1993-01-01",
+      "ytId": "qfNmyxV2Ncw",
+      "addedAt": 1726491768678
+    },
+    {
+      "spotifyId": "698ItKASDavgwZ3WjaWjtz",
+      "ytId": "60ItHLz5WEA",
+      "songName": "Faded",
+      "artist": {
+        "name": "Alan Walker",
+        "spotifyId": "7vk5e3vY1uw9plTHJAMwjN"
+      },
+      "album": {
+        "name": "Different World",
+        "spotifyId": "3nzuGtN3nXARvvecier4K0"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273a108e07c661f9fc54de9c43a",
+        "small": "https://i.scdn.co/image/ab67616d00004851a108e07c661f9fc54de9c43a"
+      },
+      "duration": 212
+    },
+    {
+      "spotifyId": "6WHSNH8PhDHbpYxg4I181o",
+      "songName": "Sunroof",
+      "artist": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
+        },
+        "href": "https://api.spotify.com/v1/artists/7qmpXeNz2ojlMl2EEfkeLs",
+        "id": "7qmpXeNz2ojlMl2EEfkeLs",
+        "name": "Nicky Youre",
+        "type": "artist",
+        "uri": "spotify:artist:7qmpXeNz2ojlMl2EEfkeLs"
+      },
+      "album": {
+        "name": "Sunroof (Remixes)",
+        "spotifyId": "2Lm0F5MpahWZ4vb0k4MiHj"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273a438a2e6c1a5c7005d667a56",
+        "small": "https://i.scdn.co/image/ab67616d00004851a438a2e6c1a5c7005d667a56"
+      },
+      "duration": 163,
+      "ytId": "G5xSLbYMr-I",
+      "addedAt": 1726674913220
+    },
+    {
+      "spotifyId": "663UJBmPsgBc1yYg7McfAr",
+      "ytId": "TUVcZfQe-Kw",
+      "songName": "Levitating (made popular by Dua Lipa ft. DaBaby) [vocal version]",
+      "artist": {
+        "name": "Party Tyme",
+        "spotifyId": "18BHcaFxDHqgfehv4g6vjC"
+      },
+      "album": {
+        "name": "Super Hits 37 - Party Tyme (Vocal Versions)",
+        "spotifyId": "6ctHQdlc7wVDKQLHAPgQnf"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2731f714a71df8e364d8e35d6fa",
+        "small": "https://i.scdn.co/image/ab67616d000048511f714a71df8e364d8e35d6fa"
+      },
+      "duration": 213,
+      "addedAt": 1726680565361
+    },
+    {
+      "spotifyId": "42OHsHjpe7bn6S0ILv1RLo",
+      "songName": "You Sexy Thing",
+      "artist": {
+        "name": "Marquis Expressions",
+        "spotifyId": "6KfBRWdD4ZjB3Nh5iPnx7V"
+      },
+      "album": {
+        "name": "Ladies Night At The Movies, Vol. 1",
+        "spotifyId": "1sEubnrmCDCZOmbdgWkFDU"
+      },
+      "duration": 220,
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b27328837cf8928c174903a7d522",
+        "small": "https://i.scdn.co/image/ab67616d0000485128837cf8928c174903a7d522"
+      },
+      "releaseDate": "2010-10-05",
+      "ytId": "0G9aSO9Dvxc",
+      "addedAt": 1726680779351
+    },
+    {
+      "spotifyId": "2QfiRTz5Yc8DdShCxG1tB2",
+      "songName": "Johnny B. Goode",
+      "artist": {
+        "name": "Chuck Berry",
+        "spotifyId": "293zczrfYafIItmnmM3coR"
+      },
+      "album": {
+        "name": "Berry Is On Top",
+        "spotifyId": "6eedtCtCjibu80yOhylSGL"
+      },
+      "duration": 161,
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273a496dc8c33ca6d10668b3157",
+        "small": "https://i.scdn.co/image/ab67616d00004851a496dc8c33ca6d10668b3157"
+      },
+      "releaseDate": "1959-07-01",
+      "ytId": "Uf4rxCB4lys",
+      "addedAt": 1726689520541
+    },
+    {
+      "spotifyId": "3VYrW02CQhbkYAe4rpG297",
+      "songName": "The Show Must Go On - Remastered 2011",
+      "artist": {
+        "name": "Queen",
+        "spotifyId": "1dfeR4HaWDbWqFHLkxsg1d"
+      },
+      "album": {
+        "name": "Innuendo",
+        "spotifyId": "3jYy7yGNCysTHE8MKrIF1k"
+      },
+      "duration": 277,
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273d1ab23495138ff8444c24b34",
+        "small": "https://i.scdn.co/image/ab67616d00004851d1ab23495138ff8444c24b34"
+      },
+      "releaseDate": "1991-02-04",
+      "ytId": "huc7IL7b8S8",
+      "addedAt": 1726683375230
+    },
+    {
+      "spotifyId": "1YokYILrMXhJPhr3isGpYr",
+      "ytId": "8UVNT4wvIGY",
+      "songName": "Somebody That I Used To Know (made popular by Gotye ft. Kimbra) [vocal version]",
+      "artist": {
+        "name": "Party Tyme",
+        "spotifyId": "18BHcaFxDHqgfehv4g6vjC"
+      },
+      "album": {
+        "name": "Pop Male Hits 7 - Party Tyme - Vocal Versions",
+        "spotifyId": "1AI7dhqDt6Es9usPhMVFSM"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273a7bdabf3285a11927a30b188",
+        "small": "https://i.scdn.co/image/ab67616d00004851a7bdabf3285a11927a30b188"
+      },
+      "duration": 246,
+      "addedAt": 1726686886399
+    },
+    {
+      "spotifyId": "5kM6yIgHVIfvBvaa1JuZBY",
+      "songName": "Mi Chicho Latino",
+      "artist": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5orH1OWgjAYUX8sZ5gihTv"
+        },
+        "href": "https://api.spotify.com/v1/artists/5orH1OWgjAYUX8sZ5gihTv",
+        "id": "5orH1OWgjAYUX8sZ5gihTv",
+        "name": "Geri Halliwell",
+        "type": "artist",
+        "uri": "spotify:artist:5orH1OWgjAYUX8sZ5gihTv"
+      },
+      "album": {
+        "name": "SUPRA HITS '99",
+        "spotifyId": "1rX76NHbSs6r571MkeNcMP"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2736d5f80ab3ce4d9e38400c656",
+        "small": "https://i.scdn.co/image/ab67616d000048516d5f80ab3ce4d9e38400c656"
+      },
+      "duration": 193,
+      "ytId": "XgoKfHg1JsU",
+      "addedAt": 1726691046671
+    },
+    {
+      "spotifyId": "3Qu88IYwuDpUQNi6UwJsDz",
+      "songName": "Mi chico latino",
+      "artist": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5orH1OWgjAYUX8sZ5gihTv"
+        },
+        "href": "https://api.spotify.com/v1/artists/5orH1OWgjAYUX8sZ5gihTv",
+        "id": "5orH1OWgjAYUX8sZ5gihTv",
+        "name": "Geri Halliwell",
+        "type": "artist",
+        "uri": "spotify:artist:5orH1OWgjAYUX8sZ5gihTv"
+      },
+      "album": {
+        "name": "Schizophonic",
+        "spotifyId": "7r14xPWDHH2ao9gLrDxHMd"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b27314af5b7185324564d027b742",
+        "small": "https://i.scdn.co/image/ab67616d0000485114af5b7185324564d027b742"
+      },
+      "duration": 193,
+      "ytId": "XgoKfHg1JsU",
+      "addedAt": 1726689531012
+    },
+    {
+      "spotifyId": "4QlzkaRHtU8gAdwqjWmO8n",
+      "songName": "Friday I'm In Love",
+      "artist": {
+        "name": "The Cure",
+        "spotifyId": "7bu3H8JO7d0UbMoVzbo70s"
+      },
+      "album": {
+        "name": "Wish",
+        "spotifyId": "0aEL0zQ4XLuxQP0j7sLlS1"
+      },
+      "duration": 215,
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2739c72b249fcaa04d074c1dfcd",
+        "small": "https://i.scdn.co/image/ab67616d000048519c72b249fcaa04d074c1dfcd"
+      },
+      "releaseDate": "1992-01-01",
+      "ytId": "mGgMZpGYiy8",
+      "addedAt": 1726689624513
+    },
+    {
+      "spotifyId": "6urCAbunOQI4bLhmGpX7iS",
+      "songName": "Don't Speak",
+      "artist": {
+        "name": "No Doubt",
+        "spotifyId": "0cQbJU1aAzvbEmTuljWLlF"
+      },
+      "album": {
+        "name": "Tragic Kingdom",
+        "spotifyId": "3VekjWskUut57hx6W9wqL8"
+      },
+      "duration": 263,
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2736ebd5e789646a833b8f7d4ba",
+        "small": "https://i.scdn.co/image/ab67616d000048516ebd5e789646a833b8f7d4ba"
+      },
+      "releaseDate": "1995-10-10",
+      "ytId": "TR3Vdo5etCQ",
+      "addedAt": 1726689687000
+    },
+    {
+      "spotifyId": "2GxnvFpGrjfhkdTSdsIuQ7",
+      "songName": "Envidia",
+      "artist": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7s02NaYKlhBogAMJ94W8CW"
+        },
+        "href": "https://api.spotify.com/v1/artists/7s02NaYKlhBogAMJ94W8CW",
+        "id": "7s02NaYKlhBogAMJ94W8CW",
+        "name": "DCS",
+        "type": "artist",
+        "uri": "spotify:artist:7s02NaYKlhBogAMJ94W8CW"
+      },
+      "album": {
+        "name": "The King Is Back (#LatinIBIZAte)",
+        "spotifyId": "19hfZem3HWzQsPEUlQSKdC"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b27302a9f2b0140d891d4efaa277",
+        "small": "https://i.scdn.co/image/ab67616d0000485102a9f2b0140d891d4efaa277"
+      },
+      "duration": 186,
+      "ytId": "LxeGbxYLWE8",
+      "addedAt": 1726689768775
+    },
+    {
+      "spotifyId": "4XMZ9WDGxCeJLpBK7uzQAc",
+      "songName": "Mi chico latino",
+      "artist": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5orH1OWgjAYUX8sZ5gihTv"
+        },
+        "href": "https://api.spotify.com/v1/artists/5orH1OWgjAYUX8sZ5gihTv",
+        "id": "5orH1OWgjAYUX8sZ5gihTv",
+        "name": "Geri Halliwell",
+        "type": "artist",
+        "uri": "spotify:artist:5orH1OWgjAYUX8sZ5gihTv"
+      },
+      "album": {
+        "name": "Mi Chico Latino",
+        "spotifyId": "7smOECcqcGDUizOyIATD4l"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b27313cb312c45a8cfb5d005d42b",
+        "small": "https://i.scdn.co/image/ab67616d0000485113cb312c45a8cfb5d005d42b"
+      },
+      "duration": 193,
+      "ytId": "XgoKfHg1JsU",
+      "addedAt": 1726689772810
+    },
+    {
+      "spotifyId": "4VRJAdc1iahH6rMCzL1tDN",
+      "songName": "Party Rock Anthem - Radio Edit",
+      "artist": {
+        "name": "LMFAO",
+        "spotifyId": "3sgFRtyBnxXD5ESfmbK4dl"
+      },
+      "album": {
+        "name": "The Workout Mix 2012 (Spotify)",
+        "spotifyId": "5a1qp5F8xwfblOmfAxMjYY"
+      },
+      "duration": 231,
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b27307ed32de0fba273daf69abb9",
+        "small": "https://i.scdn.co/image/ab67616d0000485107ed32de0fba273daf69abb9"
+      },
+      "releaseDate": "2011-01-01",
+      "ytId": "KQ6zr6kCPj8",
+      "addedAt": 1726689776936
+    },
+    {
+      "spotifyId": "2WfaOiMkCvy7F5fcp2zZ8L",
+      "ytId": "djV11Xbc914",
+      "songName": "Take on Me",
+      "artist": {
+        "name": "a-ha",
+        "spotifyId": "2jzc5TC5TVFLXQlBNiIUzE"
+      },
+      "album": {
+        "name": "Hunting High and Low",
+        "spotifyId": "1ER3B6zev5JEAaqhnyyfbf"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273e8dd4db47e7177c63b0b7d53",
+        "small": "https://i.scdn.co/image/ab67616d00004851e8dd4db47e7177c63b0b7d53"
+      },
+      "duration": 225
+    },
+    {
+      "spotifyId": "3igX3CiJptwoKXlNjPHii3",
+      "songName": "Did You See Me Coming? - 2018 Remaster",
+      "artist": {
+        "name": "Pet Shop Boys",
+        "spotifyId": "2ycnb8Er79LoH2AsR5ldjh"
+      },
+      "album": {
+        "name": "Yes: Further Listening 2008 - 2010 (2018 Remaster)",
+        "spotifyId": "4ZUAaV0vna3hVTsWeLYk8K"
+      },
+      "duration": 221,
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273c2343a5a7c6635e674e3ac18",
+        "small": "https://i.scdn.co/image/ab67616d00004851c2343a5a7c6635e674e3ac18"
+      },
+      "releaseDate": "2009-03-18",
+      "ytId": "2Hy4bT0ESfc",
+      "addedAt": 1726690898957
+    },
+    {
+      "spotifyId": "5xTtaWoae3wi06K5WfVUUH",
+      "ytId": "nfWlot6h_JM",
+      "songName": "Shake It Off",
+      "artist": {
+        "name": "Taylor Swift",
+        "spotifyId": "06HL4z0CvFAxyc27GXpf02"
+      },
+      "album": {
+        "name": "1989",
+        "spotifyId": "2QJmrSgbdM35R67eoGQo4j"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148",
+        "small": "https://i.scdn.co/image/ab67616d000048519abdf14e6058bd3903686148"
+      },
+      "duration": 219,
+      "addedAt": 1726698336423
+    },
+    {
+      "spotifyId": "0SiywuOBRcynK0uKGWdCnn",
+      "ytId": "qrO4YZeyl0I",
+      "songName": "Bad Romance",
+      "artist": {
+        "name": "Lady Gaga",
+        "spotifyId": "1HY2Jd0NmPuamShAr6KMms"
+      },
+      "album": {
+        "name": "The Fame Monster (Deluxe Edition)",
+        "spotifyId": "6rePArBMb5nLWEaY9aQqL4"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2735c9890c0456a3719eeecd8aa",
+        "small": "https://i.scdn.co/image/ab67616d000048515c9890c0456a3719eeecd8aa"
+      },
+      "duration": 294,
+      "addedAt": 1726700639737,
+      "addAt": 1726700639737
+    },
+    {
+      "spotifyId": "73KAidtqbDftZjy8AD0H04",
+      "songName": "High Road (feat. Jessie Murph)",
+      "artist": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        },
+        "href": "https://api.spotify.com/v1/artists/1Tie3AZgLQZqYEp8Fv4zOZ",
+        "id": "1Tie3AZgLQZqYEp8Fv4zOZ",
+        "name": "Koe Wetzel",
+        "type": "artist",
+        "uri": "spotify:artist:1Tie3AZgLQZqYEp8Fv4zOZ"
+      },
+      "album": {
+        "name": "High Road (feat. Jessie Murph)",
+        "spotifyId": "62NSHNGNQC2hXZKNuvF6pi"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2732c44d76ea64d1b5876b44eb3",
+        "small": "https://i.scdn.co/image/ab67616d000048512c44d76ea64d1b5876b44eb3"
+      },
+      "duration": 179,
+      "ytId": "UyAKpowkUDA",
+      "addedAt": 1726701057878
+    },
+    {
+      "spotifyId": "480F1NHaaFyFH0nBntjVDa",
+      "ytId": "0zGcUoRlhmw",
+      "songName": "Closer (Originally Performed by The Chainsmokers ft. Halsey) - Instrumental Version",
+      "artist": {
+        "name": "KaraokePro",
+        "spotifyId": "2QQVBYuFqkbV1je2L9aV1Z"
+      },
+      "album": {
+        "name": "Closer (Originally Performed by The Chainsmokers ft. Halsey) [Instrumental Version]",
+        "spotifyId": "1GhalUIb3JtS5KuHL8qw1U"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b27360007848929c55d6356e8d8c",
+        "small": "https://i.scdn.co/image/ab67616d0000485160007848929c55d6356e8d8c"
+      },
+      "duration": 245,
+      "addedAt": 1726712578571
+    },
+    {
+      "spotifyId": "3EYOJ48Et32uATr9ZmLnAo",
+      "ytId": "3T1c7GkzRQQ",
+      "songName": "Roxanne",
+      "artist": {
+        "name": "The Police",
+        "spotifyId": "5NGO30tJxFlKixkPSgXcFE"
+      },
+      "album": {
+        "name": "Outlandos D'Amour - Remastered 2003",
+        "spotifyId": "1H9g6j4Wwj6wh6p8YHVtkf"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2732043dd3544a339547d04b436",
+        "small": "https://i.scdn.co/image/ab67616d000048512043dd3544a339547d04b436"
+      },
+      "duration": 191,
+      "addedAt": 1726713777177
+    },
+    {
+      "spotifyId": "1YILIKjno1jrlDhPDmAZtO",
+      "ytId": "OPf0YbXqDm0",
+      "songName": "Uptown Funk (made popular by Mark Ronson ft. Bruno Mars) [vocal version]",
+      "artist": {
+        "name": "Party Tyme",
+        "spotifyId": "18BHcaFxDHqgfehv4g6vjC"
+      },
+      "album": {
+        "name": "Pop Party Pack 6 - Party Tyme - Vocal Versions",
+        "spotifyId": "0ttqBuDOfQr0m68xo0KRQA"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273c792eeb3ea7615b548287172",
+        "small": "https://i.scdn.co/image/ab67616d00004851c792eeb3ea7615b548287172"
+      },
+      "duration": 273,
+      "addedAt": 1726714831378
+    },
+    {
+      "spotifyId": "40riOy7x9W7GXjyGp4pjAv",
+      "ytId": "BciS5krYL80",
+      "songName": "Hotel California - 2013 Remaster",
+      "artist": {
+        "name": "Eagles",
+        "spotifyId": "0ECwFtbIWEVNwjlrfc6xoL"
+      },
+      "album": {
+        "name": "Hotel California (2013 Remaster)",
+        "spotifyId": "2widuo17g5CEC66IbzveRu"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2734637341b9f507521afa9a778",
+        "small": "https://i.scdn.co/image/ab67616d000048514637341b9f507521afa9a778"
+      },
+      "duration": 391,
+      "addedAt": 1726714847737
+    },
+    {
+      "spotifyId": "2ctvdKmETyOzPb2GiJJT53",
+      "songName": "Breathe (In the Air)",
+      "artist": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        },
+        "href": "https://api.spotify.com/v1/artists/0k17h0D3J5VfsdmQ1iZtE9",
+        "id": "0k17h0D3J5VfsdmQ1iZtE9",
+        "name": "Pink Floyd",
+        "type": "artist",
+        "uri": "spotify:artist:0k17h0D3J5VfsdmQ1iZtE9"
+      },
+      "album": {
+        "name": "The Dark Side of the Moon",
+        "spotifyId": "4LH4d3cOWNNsVw41Gqt2kv"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273ea7caaff71dea1051d49b2fe",
+        "small": "https://i.scdn.co/image/ab67616d00004851ea7caaff71dea1051d49b2fe"
+      },
+      "duration": 169,
+      "addedAt": 1726756817061,
+      "ytId": "jcz0YxYl6Ac"
+    }
+  ],
+  "createdAt": "2024-09-15T02:08:34.000Z",
+  "addedAt": 1726366114430,
+  "isPinned": false,
+  "lastIdx": "",
+  "isLikedSongs": null
+},
+{
+  "_id": {
+    "$oid": "66e641d591bf0b67a1c08138"
+  },
+  "name": "Scary sundays",
+  "type": "playlist",
+  "tags": [],
+  "stationImgUrl": "https://i.scdn.co/image/ab67616d0000b273e2e352d89826aef6dbd5ff8f",
+  "description": "",
+  "isOwnedByUser": true,
+  "createdBy": {
+    "id": "66de2eb16260c20fa8d47f9f",
+    "fullName": "darr",
+    "imgUrl": null
+  },
+  "likedByUsers": [],
+  "songs": [
+    {
+      "spotifyId": "3KkXRkHbMCARz0aVfEt68P",
+      "songName": "Sunflower - Spider-Man: Into the Spider-Verse",
+      "artist": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        "href": "https://api.spotify.com/v1/artists/246dkjvS1zLTtiykXe5h60",
+        "id": "246dkjvS1zLTtiykXe5h60",
+        "name": "Post Malone",
+        "type": "artist",
+        "uri": "spotify:artist:246dkjvS1zLTtiykXe5h60"
+      },
+      "album": {
+        "name": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
+        "spotifyId": "35s58BRTGAEWztPo9WqCIs"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273e2e352d89826aef6dbd5ff8f",
+        "small": "https://i.scdn.co/image/ab67616d00004851e2e352d89826aef6dbd5ff8f"
+      },
+      "duration": 158,
+      "ytId": "ApXoWvfEYVU",
+      "addedAt": 1726366173402
+    },
+    {
+      "spotifyId": "1SjsVdSXpwm1kTdYEHoPIT",
+      "songName": "Sun to Me",
+      "artist": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        "href": "https://api.spotify.com/v1/artists/40ZNYROS4zLfyyBSs2PGe2",
+        "id": "40ZNYROS4zLfyyBSs2PGe2",
+        "name": "Zach Bryan",
+        "type": "artist",
+        "uri": "spotify:artist:40ZNYROS4zLfyyBSs2PGe2"
+      },
+      "album": {
+        "name": "American Heartbreak",
+        "spotifyId": "7IouDrXPdAZwT1NzVV3vef"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273ba30859a1ca79c5a372d177a",
+        "small": "https://i.scdn.co/image/ab67616d00004851ba30859a1ca79c5a372d177a"
+      },
+      "duration": 163,
+      "ytId": "-s5-VXG7Qio",
+      "addedAt": 1726366175724
+    },
+    {
+      "spotifyId": "6WHSNH8PhDHbpYxg4I181o",
+      "songName": "Sunroof",
+      "artist": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
+        },
+        "href": "https://api.spotify.com/v1/artists/7qmpXeNz2ojlMl2EEfkeLs",
+        "id": "7qmpXeNz2ojlMl2EEfkeLs",
+        "name": "Nicky Youre",
+        "type": "artist",
+        "uri": "spotify:artist:7qmpXeNz2ojlMl2EEfkeLs"
+      },
+      "album": {
+        "name": "Sunroof (Remixes)",
+        "spotifyId": "2Lm0F5MpahWZ4vb0k4MiHj"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273a438a2e6c1a5c7005d667a56",
+        "small": "https://i.scdn.co/image/ab67616d00004851a438a2e6c1a5c7005d667a56"
+      },
+      "duration": 163,
+      "ytId": "G5xSLbYMr-I",
+      "addedAt": 1726366177926
+    },
+    {
+      "spotifyId": "5qII2n90lVdPDcgXEEVHNy",
+      "songName": "Sunday Morning",
+      "artist": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        },
+        "href": "https://api.spotify.com/v1/artists/04gDigrS5kc9YWfZHwBETP",
+        "id": "04gDigrS5kc9YWfZHwBETP",
+        "name": "Maroon 5",
+        "type": "artist",
+        "uri": "spotify:artist:04gDigrS5kc9YWfZHwBETP"
+      },
+      "album": {
+        "name": "Songs About Jane: 10th Anniversary Edition",
+        "spotifyId": "5zClcGCSWj926AMjvBNSLc"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b27392f2d790c6a97b195f66d51e",
+        "small": "https://i.scdn.co/image/ab67616d0000485192f2d790c6a97b195f66d51e"
+      },
+      "duration": 244,
+      "ytId": "to5Sg2KeEnU",
+      "addedAt": 1726366181837
+    },
+    {
+      "spotifyId": "0SiywuOBRcynK0uKGWdCnn",
+      "ytId": "qrO4YZeyl0I",
+      "songName": "Bad Romance",
+      "artist": {
+        "name": "Lady Gaga",
+        "spotifyId": "1HY2Jd0NmPuamShAr6KMms"
+      },
+      "album": {
+        "name": "The Fame Monster (Deluxe Edition)",
+        "spotifyId": "6rePArBMb5nLWEaY9aQqL4"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2735c9890c0456a3719eeecd8aa",
+        "small": "https://i.scdn.co/image/ab67616d000048515c9890c0456a3719eeecd8aa"
+      },
+      "duration": 294,
+      "addedAt": 1726366254260
+    },
+    {
+      "spotifyId": "0unNLQbn2xlm2nPcB1pdjS",
+      "songName": "Whiskey On You",
+      "artist": {
+        "name": "Nate Smith",
+        "spotifyId": "4NYMUsIcUUsBHbV9DICa5x"
+      },
+      "album": {
+        "name": "NATE SMITH (DELUXE)",
+        "spotifyId": "2WSeZEFsZKPJQ09abZCIaz"
+      },
+      "duration": 183,
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b27349c8e3c7cfd43b5458b9b79d",
+        "small": "https://i.scdn.co/image/ab67616d0000485149c8e3c7cfd43b5458b9b79d"
+      },
+      "releaseDate": "2023-04-28",
+      "ytId": "_6Np5NhF1QE",
+      "addedAt": 1726371108917
+    },
+    {
+      "spotifyId": "09CtPGIpYB4BrO8qb1RGsF",
+      "songName": "Sorry",
+      "artist": {
+        "name": "Justin Bieber",
+        "spotifyId": "1uNFoZAHBGtllmzznpCI3s"
+      },
+      "album": {
+        "name": "Purpose (Deluxe)",
+        "spotifyId": "6Fr2rQkZ383FcMqFyT7yPr"
+      },
+      "duration": 200,
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273f46b9d202509a8f7384b90de",
+        "small": "https://i.scdn.co/image/ab67616d00004851f46b9d202509a8f7384b90de"
+      },
+      "releaseDate": "2015-11-13",
+      "ytId": "BerNfXSuvJ0",
+      "addedAt": 1726490866086
+    },
+    {
+      "spotifyId": "6QFCMUUq1T2Vf5sFUXcuQ7",
+      "songName": "Beauty And A Beat",
+      "artist": {
+        "name": "Justin Bieber",
+        "spotifyId": "1uNFoZAHBGtllmzznpCI3s"
+      },
+      "album": {
+        "name": "Believe",
+        "spotifyId": "5cxMa6oLINJzmZ8lF7wWQN"
+      },
+      "duration": 227,
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273f1d02a6cec967f8b6b78f76e",
+        "small": "https://i.scdn.co/image/ab67616d00004851f1d02a6cec967f8b6b78f76e"
+      },
+      "releaseDate": "2012-01-01",
+      "ytId": "Ys7-6_t7OEQ",
+      "addedAt": 1726491397880
+    },
+    {
+      "spotifyId": "5PbdVk09VHHcvGa0pX86RP",
+      "songName": "Flowers In Your Hair",
+      "artist": {
+        "name": "The Lumineers",
+        "spotifyId": "16oZKvXb6WkQlVAjwo2Wbg"
+      },
+      "album": {
+        "name": "The Lumineers",
+        "spotifyId": "2MTEiVNgRgIvVIrJAqHNBu"
+      },
+      "duration": 109,
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273f350c13195ce048876b5fea4",
+        "small": "https://i.scdn.co/image/ab67616d00004851f350c13195ce048876b5fea4"
+      },
+      "releaseDate": "2012-04-03",
+      "ytId": "aHa0DhMXPL4",
+      "addedAt": 1726491480281
+    },
+    {
+      "spotifyId": "698ItKASDavgwZ3WjaWjtz",
+      "ytId": "60ItHLz5WEA",
+      "songName": "Faded",
+      "artist": {
+        "name": "Alan Walker",
+        "spotifyId": "7vk5e3vY1uw9plTHJAMwjN"
+      },
+      "album": {
+        "name": "Different World",
+        "spotifyId": "3nzuGtN3nXARvvecier4K0"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273a108e07c661f9fc54de9c43a",
+        "small": "https://i.scdn.co/image/ab67616d00004851a108e07c661f9fc54de9c43a"
+      },
+      "duration": 212
+    },
+    {
+      "spotifyId": "0aym2LBJBk9DAYuHHutrIl",
+      "ytId": "A_MjCqQoLLA",
+      "songName": "Hey Jude - Remastered 2015",
+      "artist": {
+        "name": "The Beatles",
+        "spotifyId": "3WrFJ7ztbogyGnTHbHJFl2"
+      },
+      "album": {
+        "name": "1 (Remastered)",
+        "spotifyId": "7vEJAtP3KgKSpOHVgwm3Eh"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273582d56ce20fe0146ffa0e5cf",
+        "small": "https://i.scdn.co/image/ab67616d00004851582d56ce20fe0146ffa0e5cf"
+      },
+      "duration": 425,
+      "addedAt": 1726681461091
+    },
+    {
+      "spotifyId": "0ExtPzAWi4arQz6kaabm02",
+      "songName": "What Lovers Do",
+      "artist": {
+        "name": "Maroon 5",
+        "spotifyId": "04gDigrS5kc9YWfZHwBETP"
+      },
+      "album": {
+        "name": "Red Pill Blues (Deluxe)",
+        "spotifyId": "4TzpYBYJA7Jz0k6WYRbnCe"
+      },
+      "duration": 199,
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2733ad198933a3fd3200b003bb2",
+        "small": "https://i.scdn.co/image/ab67616d000048513ad198933a3fd3200b003bb2"
+      },
+      "releaseDate": "2017-11-03",
+      "ytId": "5Wiio4KoGe8",
+      "addedAt": 1726690323671
+    },
+    {
+      "spotifyId": "663UJBmPsgBc1yYg7McfAr",
+      "ytId": "TUVcZfQe-Kw",
+      "songName": "Levitating (made popular by Dua Lipa ft. DaBaby) [vocal version]",
+      "artist": {
+        "name": "Party Tyme",
+        "spotifyId": "18BHcaFxDHqgfehv4g6vjC"
+      },
+      "album": {
+        "name": "Super Hits 37 - Party Tyme (Vocal Versions)",
+        "spotifyId": "6ctHQdlc7wVDKQLHAPgQnf"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2731f714a71df8e364d8e35d6fa",
+        "small": "https://i.scdn.co/image/ab67616d000048511f714a71df8e364d8e35d6fa"
+      },
+      "duration": 213,
+      "addedAt": 1726714075156
+    }
+  ],
+  "createdAt": "2024-09-15T02:09:25.000Z",
+  "addedAt": 1726366165801,
+  "isPinned": false,
+  "lastIdx": "",
+  "isLikedSongs": null
+},
+{
+  "_id": {
+    "$oid": "66e6425a91bf0b67a1c08139"
+  },
+  "name": "Chilling Mood",
+  "type": "playlist",
+  "tags": [],
+  "stationImgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPuBOOiUczfVz4SAKDTzHHKd3ABou2AtxKKA&s",
+  "description": "",
+  "isOwnedByUser": true,
+  "createdBy": {
+    "id": "66de2eb16260c20fa8d47f9f",
+    "fullName": "darr",
+    "imgUrl": null
+  },
+  "likedByUsers": [
+    "66e6557d91bf0b67a1c0813a",
+    "66e483750b88b926ed51d128",
+    "66eb26d4840ffc186c6373cd"
+  ],
+  "songs": [
+    {
+      "spotifyId": "2ctvdKmETyOzPb2GiJJT53",
+      "songName": "Breathe (In the Air)",
+      "artist": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        },
+        "href": "https://api.spotify.com/v1/artists/0k17h0D3J5VfsdmQ1iZtE9",
+        "id": "0k17h0D3J5VfsdmQ1iZtE9",
+        "name": "Pink Floyd",
+        "type": "artist",
+        "uri": "spotify:artist:0k17h0D3J5VfsdmQ1iZtE9"
+      },
+      "album": {
+        "name": "The Dark Side of the Moon",
+        "spotifyId": "4LH4d3cOWNNsVw41Gqt2kv"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273ea7caaff71dea1051d49b2fe",
+        "small": "https://i.scdn.co/image/ab67616d00004851ea7caaff71dea1051d49b2fe"
+      },
+      "duration": 169,
+      "addedAt": 1726756817061,
+      "ytId": "jcz0YxYl6Ac"
+    },
+    {
+      "spotifyId": "63OQupATfueTdZMWTxW03A",
+      "songName": "Karma Police",
+      "artist": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        },
+        "href": "https://api.spotify.com/v1/artists/4Z8W4fKeB5YxbusRsdQVPb",
+        "id": "4Z8W4fKeB5YxbusRsdQVPb",
+        "name": "Radiohead",
+        "type": "artist",
+        "uri": "spotify:artist:4Z8W4fKeB5YxbusRsdQVPb"
+      },
+      "album": {
+        "name": "OK Computer",
+        "spotifyId": "6dVIqQ8qmQ5GBnJ9shOYGE"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273c8b444df094279e70d0ed856",
+        "small": "https://i.scdn.co/image/ab67616d00004851c8b444df094279e70d0ed856"
+      },
+      "duration": 264,
+      "ytId": "1uYWYWPc9HU",
+      "addedAt": 1726672515435
+    },
+    {
+      "spotifyId": "698ItKASDavgwZ3WjaWjtz",
+      "ytId": "60ItHLz5WEA",
+      "songName": "Faded",
+      "artist": {
+        "name": "Alan Walker",
+        "spotifyId": "7vk5e3vY1uw9plTHJAMwjN"
+      },
+      "album": {
+        "name": "Different World",
+        "spotifyId": "3nzuGtN3nXARvvecier4K0"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273a108e07c661f9fc54de9c43a",
+        "small": "https://i.scdn.co/image/ab67616d00004851a108e07c661f9fc54de9c43a"
+      },
+      "duration": 212,
+      "addedAt": 1726710770763
+    },
+    {
+      "spotifyId": "1EvTnJ0l1Cct7q8QsQdckl",
+      "songName": "Fatoma",
+      "artist": {
+        "name": "Darksidevinyl",
+        "spotifyId": "7JgdmzLGGrt808y5C1STh0"
+      },
+      "album": {
+        "name": "Fatoma",
+        "spotifyId": "7L5eq0h23cjpkoBxDfzWlF"
+      },
+      "duration": 360,
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2736f08f387737bd7da41c00f4f",
+        "small": "https://i.scdn.co/image/ab67616d000048516f08f387737bd7da41c00f4f"
+      },
+      "releaseDate": "2023-11-24",
+      "ytId": "_i-Q2Tf5ZLQ",
+      "addedAt": 1726498113159
+    },
+    {
+      "spotifyId": "3EYOJ48Et32uATr9ZmLnAo",
+      "ytId": "3T1c7GkzRQQ",
+      "songName": "Roxanne",
+      "artist": {
+        "name": "The Police",
+        "spotifyId": "5NGO30tJxFlKixkPSgXcFE"
+      },
+      "album": {
+        "name": "Outlandos D'Amour - Remastered 2003",
+        "spotifyId": "1H9g6j4Wwj6wh6p8YHVtkf"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2732043dd3544a339547d04b436",
+        "small": "https://i.scdn.co/image/ab67616d000048512043dd3544a339547d04b436"
+      },
+      "duration": 191
+    },
+    {
+      "spotifyId": "0Utg7sirTPqrs6Cx0FbriQ",
+      "songName": "Chillin' It",
+      "artist": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
+        },
+        "href": "https://api.spotify.com/v1/artists/1mfDfLsMxYcOOZkzBxvSVW",
+        "id": "1mfDfLsMxYcOOZkzBxvSVW",
+        "name": "Cole Swindell",
+        "type": "artist",
+        "uri": "spotify:artist:1mfDfLsMxYcOOZkzBxvSVW"
+      },
+      "album": {
+        "name": "Cole Swindell",
+        "spotifyId": "2mlPEYhK1KwDD45CCCWxaH"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2734f239e3ce20b8e350244e84a",
+        "small": "https://i.scdn.co/image/ab67616d000048514f239e3ce20b8e350244e84a"
+      },
+      "duration": 196,
+      "ytId": "Mh-eN--JK8Q",
+      "addedAt": 1726672467357
+    },
+    {
+      "spotifyId": "5pGuUCGpycumIFUa0vJQyC",
+      "songName": "Tembo",
+      "artist": {
+        "name": "Pablo Fierro",
+        "spotifyId": "5N7gp2n04e1TJ6MaKyvrbI"
+      },
+      "album": {
+        "name": "Humanidad",
+        "spotifyId": "0qtCZwkShRkYRjIbOLjvu6"
+      },
+      "duration": 521,
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273cc36ef42e6358f446077023b",
+        "small": "https://i.scdn.co/image/ab67616d00004851cc36ef42e6358f446077023b"
+      },
+      "releaseDate": "2022-06-24",
+      "ytId": "v1YimZV2GJg",
+      "addedAt": 1726672521691
+    },
+    {
+      "spotifyId": "4VNBDHsI4hJz7ubwNf3F0R",
+      "songName": "Shadows",
+      "artist": {
+        "name": "Demayä",
+        "spotifyId": "0N2lDV24IPsStAeDuvzgC9"
+      },
+      "album": {
+        "name": "Shadows",
+        "spotifyId": "6fCG4O3WFzvE2HzFHIT5zF"
+      },
+      "duration": 395,
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2737f4672e610e87cb2ba663e64",
+        "small": "https://i.scdn.co/image/ab67616d000048517f4672e610e87cb2ba663e64"
+      },
+      "releaseDate": "2023-02-24",
+      "ytId": "EX3B_TRVeyA",
+      "addedAt": 1726686983818
+    },
+    {
+      "spotifyId": "480F1NHaaFyFH0nBntjVDa",
+      "ytId": "LpcayLUZ_HA",
+      "songName": "Closer (Originally Performed by The Chainsmokers ft. Halsey) - Instrumental Version",
+      "artist": {
+        "name": "KaraokePro",
+        "spotifyId": "2QQVBYuFqkbV1je2L9aV1Z"
+      },
+      "album": {
+        "name": "Closer (Originally Performed by The Chainsmokers ft. Halsey) [Instrumental Version]",
+        "spotifyId": "1GhalUIb3JtS5KuHL8qw1U"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b27360007848929c55d6356e8d8c",
+        "small": "https://i.scdn.co/image/ab67616d0000485160007848929c55d6356e8d8c"
+      },
+      "duration": 245,
+      "addedAt": 1726690277029
+    },
+    {
+      "spotifyId": "5Q0Nhxo0l2bP3pNjpGJwV1",
+      "songName": "Party In The U.S.A.",
+      "artist": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        },
+        "href": "https://api.spotify.com/v1/artists/5YGY8feqx7naU7z4HrwZM6",
+        "id": "5YGY8feqx7naU7z4HrwZM6",
+        "name": "Miley Cyrus",
+        "type": "artist",
+        "uri": "spotify:artist:5YGY8feqx7naU7z4HrwZM6"
+      },
+      "album": {
+        "name": "The Time Of Our Lives",
+        "spotifyId": "64aKkqxc3Ur2LYIKeS5osS"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273d6c3ad6a2a27471e1d5e8103",
+        "small": "https://i.scdn.co/image/ab67616d00004851d6c3ad6a2a27471e1d5e8103"
+      },
+      "duration": 202,
+      "ytId": "M11SvDtPBhA",
+      "addedAt": 1726681276010
+    },
+    {
+      "spotifyId": "1YokYILrMXhJPhr3isGpYr",
+      "ytId": "8UVNT4wvIGY",
+      "songName": "Somebody That I Used To Know (made popular by Gotye ft. Kimbra) [vocal version]",
+      "artist": {
+        "name": "Party Tyme",
+        "spotifyId": "18BHcaFxDHqgfehv4g6vjC"
+      },
+      "album": {
+        "name": "Pop Male Hits 7 - Party Tyme - Vocal Versions",
+        "spotifyId": "1AI7dhqDt6Es9usPhMVFSM"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273a7bdabf3285a11927a30b188",
+        "small": "https://i.scdn.co/image/ab67616d00004851a7bdabf3285a11927a30b188"
+      },
+      "duration": 246,
+      "addedAt": 1726701029154,
+      "addAt": 1726701029154
+    },
+    {
+      "spotifyId": "6xHI9KjUjYT0FPtGO8Mxa1",
+      "songName": "Hurricane",
+      "artist": {
+        "name": "Luke Combs",
+        "spotifyId": "718COspgdWOnwOFpJHRZHS"
+      },
+      "album": {
+        "name": "This One's for You",
+        "spotifyId": "1lhNch5NkOONvFhRPh8qaj"
+      },
+      "duration": 222,
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273b7578013decfa174e30dc298",
+        "small": "https://i.scdn.co/image/ab67616d00004851b7578013decfa174e30dc298"
+      },
+      "releaseDate": "2017-06-02",
+      "addedAt": 1726756503246,
+      "ytId": "BixwVsiDdZM"
+    }
+  ],
+  "createdAt": "2024-09-15T02:11:38.000Z",
+  "addedAt": 1726693458349,
+  "isPinned": false,
+  "lastIdx": 2,
+  "isLikedSongs": null
+},
+{
+  "_id": {
+    "$oid": "66e6557d91bf0b67a1c0813b"
+  },
+  "name": "Liked Songs",
+  "type": "playlist",
+  "tags": [],
+  "stationImgUrl": "https://misc.scdn.co/liked-songs/liked-songs-300.png",
+  "description": "",
+  "isOwnedByUser": true,
+  "createdBy": {
+    "id": "66e6557d91bf0b67a1c0813a",
+    "fullName": "ilan"
+  },
+  "likedByUsers": [],
+  "songs": [],
+  "createdAt": 1726371197272,
+  "addedAt": 1726371197272,
+  "isPinned": true,
+  "lastIdx": ""
+},
+{
+  "_id": {
+    "$oid": "66e83b4ffcd44b62bc98d5d8"
+  },
+  "name": "Liked Songs",
+  "type": "playlist",
+  "tags": [],
+  "stationImgUrl": "https://misc.scdn.co/liked-songs/liked-songs-300.png",
+  "description": "",
+  "isOwnedByUser": true,
+  "createdBy": {
+    "id": "66e83b4efcd44b62bc98d5d7",
+    "fullName": "tal"
+  },
+  "likedByUsers": [],
+  "songs": [
+    {
+      "spotifyId": "7tFiyTwD0nx5a1eklYtX2J",
+      "ytId": "fJ9rUzIMcZQ",
+      "songName": "Bohemian Rhapsody - Remastered 2011",
+      "artist": {
+        "name": "Queen",
+        "spotifyId": "1dfeR4HaWDbWqFHLkxsg1d"
+      },
+      "album": {
+        "name": "A Night At The Opera (Deluxe Remastered Version)",
+        "spotifyId": "6X9k3hSsvQck2OfKYdBbXr"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273ce4f1737bc8a646c8c4bd25a",
+        "small": "https://i.scdn.co/image/ab67616d00004851ce4f1737bc8a646c8c4bd25a"
+      },
+      "duration": 354,
+      "addedAt": 1726498418758
+    },
+    {
+      "spotifyId": "7J1uxwnxfQLu4APicE5Rnj",
+      "ytId": "Zi_XLOBDo_Y",
+      "songName": "Billie Jean",
+      "artist": {
+        "name": "Michael Jackson",
+        "spotifyId": "3fMbdgg4jU18AjLCKBhRSm"
+      },
+      "album": {
+        "name": "Thriller",
+        "spotifyId": "2ANVost0y2y52ema1E9xAZ"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273de437d960dda1ac0a3586d97",
+        "small": "https://i.scdn.co/image/ab67616d00004851de437d960dda1ac0a3586d97"
+      },
+      "duration": 294,
+      "addedAt": 1726498433831
+    }
+  ],
+  "createdAt": 1726495567124,
+  "addedAt": 1726495567124,
+  "isPinned": true,
+  "lastIdx": "",
+  "isLikedSongs": null
+},
+{
+  "_id": {
+    "$oid": "66e83b9afcd44b62bc98d5d9"
+  },
+  "name": "Shake It Off",
+  "type": "playlist",
+  "tags": [],
+  "stationImgUrl": "https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148",
+  "description": "",
+  "isOwnedByUser": true,
+  "createdBy": {
+    "id": "66de2eb16260c20fa8d47f9f",
+    "fullName": "darr",
+    "imgUrl": null
+  },
+  "likedByUsers": [],
+  "songs": [
+    {
+      "spotifyId": "5xTtaWoae3wi06K5WfVUUH",
+      "ytId": "nfWlot6h_JM",
+      "songName": "Shake It Off",
+      "artist": {
+        "name": "Taylor Swift",
+        "spotifyId": "06HL4z0CvFAxyc27GXpf02"
+      },
+      "album": {
+        "name": "1989",
+        "spotifyId": "2QJmrSgbdM35R67eoGQo4j"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148",
+        "small": "https://i.scdn.co/image/ab67616d000048519abdf14e6058bd3903686148"
+      },
+      "duration": 219,
+      "addedAt": 1726495642307
+    },
+    {
+      "spotifyId": "5Z01UMMf7V1o0MzF86s6WJ",
+      "ytId": "xFYQQPAOz7Y",
+      "songName": "Lose Yourself",
+      "artist": {
+        "name": "Eminem",
+        "spotifyId": "7dGJo4pcD2V6oG8kP0tJRR"
+      },
+      "album": {
+        "name": "Curtain Call: The Hits (Deluxe Edition)",
+        "spotifyId": "5qENHeCSlwWpEzb25peRmQ"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273eab40fc794b88b9d1e012578",
+        "small": "https://i.scdn.co/image/ab67616d00004851eab40fc794b88b9d1e012578"
+      },
+      "duration": 326
+    },
+    {
+      "spotifyId": "5Q0Nhxo0l2bP3pNjpGJwV1",
+      "songName": "Party In The U.S.A.",
+      "artist": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        },
+        "href": "https://api.spotify.com/v1/artists/5YGY8feqx7naU7z4HrwZM6",
+        "id": "5YGY8feqx7naU7z4HrwZM6",
+        "name": "Miley Cyrus",
+        "type": "artist",
+        "uri": "spotify:artist:5YGY8feqx7naU7z4HrwZM6"
+      },
+      "album": {
+        "name": "The Time Of Our Lives",
+        "spotifyId": "64aKkqxc3Ur2LYIKeS5osS"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273d6c3ad6a2a27471e1d5e8103",
+        "small": "https://i.scdn.co/image/ab67616d00004851d6c3ad6a2a27471e1d5e8103"
+      },
+      "duration": 202,
+      "ytId": "M11SvDtPBhA",
+      "addedAt": 1726681276010
+    },
+    {
+      "spotifyId": "3EYOJ48Et32uATr9ZmLnAo",
+      "ytId": "3T1c7GkzRQQ",
+      "songName": "Roxanne",
+      "artist": {
+        "name": "The Police",
+        "spotifyId": "5NGO30tJxFlKixkPSgXcFE"
+      },
+      "album": {
+        "name": "Outlandos D'Amour - Remastered 2003",
+        "spotifyId": "1H9g6j4Wwj6wh6p8YHVtkf"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2732043dd3544a339547d04b436",
+        "small": "https://i.scdn.co/image/ab67616d000048512043dd3544a339547d04b436"
+      },
+      "duration": 191,
+      "addedAt": 1726697808784
+    },
+    {
+      "spotifyId": "480F1NHaaFyFH0nBntjVDa",
+      "ytId": "0zGcUoRlhmw",
+      "songName": "Closer (Originally Performed by The Chainsmokers ft. Halsey) - Instrumental Version",
+      "artist": {
+        "name": "KaraokePro",
+        "spotifyId": "2QQVBYuFqkbV1je2L9aV1Z"
+      },
+      "album": {
+        "name": "Closer (Originally Performed by The Chainsmokers ft. Halsey) [Instrumental Version]",
+        "spotifyId": "1GhalUIb3JtS5KuHL8qw1U"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b27360007848929c55d6356e8d8c",
+        "small": "https://i.scdn.co/image/ab67616d0000485160007848929c55d6356e8d8c"
+      },
+      "duration": 245
+    },
+    {
+      "spotifyId": "62PaSfnXSMyLshYJrlTuL3",
+      "songName": "Hello",
+      "artist": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        },
+        "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+        "id": "4dpARuHxo51G3z768sgnrY",
+        "name": "Adele",
+        "type": "artist",
+        "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+      },
+      "album": {
+        "name": "25",
+        "spotifyId": "3AvPX1B1HiFROvYjLb5Qwi"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b27347ce408fb4926d69da6713c2",
+        "small": "https://i.scdn.co/image/ab67616d0000485147ce408fb4926d69da6713c2"
+      },
+      "duration": 295,
+      "ytId": "YQHsXMglC9A",
+      "addedAt": 1726699933117
+    },
+    {
+      "spotifyId": "7qwt4xUIqQWCu1DJf96g2k",
+      "songName": "Hello?",
+      "artist": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        },
+        "href": "https://api.spotify.com/v1/artists/3l0CmX0FuQjFxr8SK7Vqag",
+        "id": "3l0CmX0FuQjFxr8SK7Vqag",
+        "name": "Clairo",
+        "type": "artist",
+        "uri": "spotify:artist:3l0CmX0FuQjFxr8SK7Vqag"
+      },
+      "album": {
+        "name": "diary 001",
+        "spotifyId": "3NEDQmYF1roygFssVEwkwv"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273bf94e27360806b5aa5025f93",
+        "small": "https://i.scdn.co/image/ab67616d00004851bf94e27360806b5aa5025f93"
+      },
+      "duration": 135,
+      "ytId": "QkeehQ8D_VM",
+      "addedAt": 1726699937836
+    },
+    {
+      "spotifyId": "1zwMYTA5nlNjZxYrvBB2pV",
+      "ytId": "hLQl3WQQoQ0",
+      "songName": "Someone Like You",
+      "artist": {
+        "name": "Adele",
+        "spotifyId": "4dpARuHxo51G3z768sgnrY"
+      },
+      "album": {
+        "name": "21",
+        "spotifyId": "0Lg1uZvI312TPqxNWShFXL"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2732118bf9b198b05a95ded6300",
+        "small": "https://i.scdn.co/image/ab67616d000048512118bf9b198b05a95ded6300"
+      },
+      "duration": 285
+    },
+    {
+      "spotifyId": "663UJBmPsgBc1yYg7McfAr",
+      "ytId": "TUVcZfQe-Kw",
+      "songName": "Levitating (made popular by Dua Lipa ft. DaBaby) [vocal version]",
+      "artist": {
+        "name": "Party Tyme",
+        "spotifyId": "18BHcaFxDHqgfehv4g6vjC"
+      },
+      "album": {
+        "name": "Super Hits 37 - Party Tyme (Vocal Versions)",
+        "spotifyId": "6ctHQdlc7wVDKQLHAPgQnf"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2731f714a71df8e364d8e35d6fa",
+        "small": "https://i.scdn.co/image/ab67616d000048511f714a71df8e364d8e35d6fa"
+      },
+      "duration": 213,
+      "addedAt": 1726713958886
+    },
+    {
+      "spotifyId": "34gCuhDGsG4bRPIf9bb02f",
+      "ytId": "lp-EO5I60KA",
+      "songName": "Thinking out Loud",
+      "artist": {
+        "name": "Ed Sheeran",
+        "spotifyId": "6eUKZXaKkcviH0Ku9w2n3V"
+      },
+      "album": {
+        "name": "x (Deluxe Edition)",
+        "spotifyId": "1xn54DMo2qIqBuMqHtUsFd"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b27313b3e37318a0c247b550bccd",
+        "small": "https://i.scdn.co/image/ab67616d0000485113b3e37318a0c247b550bccd"
+      },
+      "duration": 281,
+      "addedAt": 1726714838679
+    }
+  ],
+  "createdAt": "2024-09-16T14:07:22.000Z",
+  "addedAt": 1726495642307,
+  "isPinned": false,
+  "lastIdx": "",
+  "isLikedSongs": null
+},
+{
+  "_id": {
+    "$oid": "66e83c1afcd44b62bc98d5da"
+  },
+  "name": "Bad Romance",
+  "type": "playlist",
+  "tags": [],
+  "stationImgUrl": "https://i.scdn.co/image/ab67616d0000b2735c9890c0456a3719eeecd8aa",
+  "description": "",
+  "isOwnedByUser": true,
+  "createdBy": {
+    "id": "66de2eb16260c20fa8d47f9f",
+    "fullName": "darr",
+    "imgUrl": null
+  },
+  "likedByUsers": [
+    "66e83b4efcd44b62bc98d5d7",
+    "66eb3e64840ffc186c6373d3"
+  ],
+  "songs": [
+    {
+      "spotifyId": "2hKdd3qO7cWr2Jo0Bcs0MA",
+      "songName": "Drops of Jupiter (Tell Me)",
+      "artist": {
+        "name": "Train",
+        "spotifyId": "3FUY2gzHeIiaesXtOAdB7A"
+      },
+      "album": {
+        "name": "Drops Of Jupiter",
+        "spotifyId": "6j6Zgm7vzAZegr48UppFVT"
+      },
+      "duration": 259,
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273a65df73c4011b6a9357c89f0",
+        "small": "https://i.scdn.co/image/ab67616d00004851a65df73c4011b6a9357c89f0"
+      },
+      "releaseDate": "2001-03-27",
+      "ytId": "7Xf-Lesrkuc",
+      "addedAt": 1726516605371
+    },
+    {
+      "spotifyId": "4jDmJ51x1o9NZB5Nxxc7gY",
+      "songName": "Careless Whisper",
+      "artist": {
+        "name": "George Michael",
+        "spotifyId": "19ra5tSw0tWufvUp8GotLo"
+      },
+      "album": {
+        "name": "Ladies And Gentlemen... The Best Of George Michael",
+        "spotifyId": "3coLNlyStg9h7f8CZ103Rl"
+      },
+      "duration": 300,
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b27364c19b24ce947ffa363f8f96",
+        "small": "https://i.scdn.co/image/ab67616d0000485164c19b24ce947ffa363f8f96"
+      },
+      "releaseDate": "1998-11-09",
+      "ytId": "izGwDsrQ1eQ",
+      "addedAt": 1726603007268
+    },
+    {
+      "spotifyId": "4EhkMUdkAVAsfsjbWU6PPr",
+      "songName": "Manic Monday",
+      "artist": {
+        "name": "The Bangles",
+        "spotifyId": "51l0uqRxGaczYr4271pVIC"
+      },
+      "album": {
+        "name": "Different Light",
+        "spotifyId": "6Od7VaXGjJXnSjqVcClRmB"
+      },
+      "duration": 184,
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2737aa1185818db499b687b6ba7",
+        "small": "https://i.scdn.co/image/ab67616d000048517aa1185818db499b687b6ba7"
+      },
+      "releaseDate": "1985-06-06",
+      "ytId": "SsmVgoXDq2w",
+      "addedAt": 1726607205031
+    },
+    {
+      "spotifyId": "5Q0Nhxo0l2bP3pNjpGJwV1",
+      "songName": "Party In The U.S.A.",
+      "artist": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        },
+        "href": "https://api.spotify.com/v1/artists/5YGY8feqx7naU7z4HrwZM6",
+        "id": "5YGY8feqx7naU7z4HrwZM6",
+        "name": "Miley Cyrus",
+        "type": "artist",
+        "uri": "spotify:artist:5YGY8feqx7naU7z4HrwZM6"
+      },
+      "album": {
+        "name": "The Time Of Our Lives",
+        "spotifyId": "64aKkqxc3Ur2LYIKeS5osS"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273d6c3ad6a2a27471e1d5e8103",
+        "small": "https://i.scdn.co/image/ab67616d00004851d6c3ad6a2a27471e1d5e8103"
+      },
+      "duration": 202,
+      "ytId": "M11SvDtPBhA",
+      "addedAt": 1726681276010
+    },
+    {
+      "spotifyId": "4SSzBIcyIq7rRItmEsT74P",
+      "ytId": "kJQP7kiw5Fk",
+      "songName": "Despacito (Remix) [made popular by Luis Fonsi & Daddy Yankee ft. Justin Bieber] [vocal version]",
+      "artist": {
+        "name": "Party Tyme",
+        "spotifyId": "18BHcaFxDHqgfehv4g6vjC"
+      },
+      "album": {
+        "name": "Pop Party Pack 8 - Party Tyme - Vocal Versions",
+        "spotifyId": "5zY0NJegRsc1DzLMSgOGQQ"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2737baaa8cb53b689654262a52d",
+        "small": "https://i.scdn.co/image/ab67616d000048517baaa8cb53b689654262a52d"
+      },
+      "duration": 228
+    },
+    {
+      "spotifyId": "3sl4dcqSwxHVnLfqwF2jly",
+      "songName": "Hello (feat. Dragonette)",
+      "artist": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl"
+        },
+        "href": "https://api.spotify.com/v1/artists/1bj5GrcLom5gZFF5t949Xl",
+        "id": "1bj5GrcLom5gZFF5t949Xl",
+        "name": "Martin Solveig",
+        "type": "artist",
+        "uri": "spotify:artist:1bj5GrcLom5gZFF5t949Xl"
+      },
+      "album": {
+        "name": "Hello",
+        "spotifyId": "1Jbwq1BswM8apm7pjRZKq8"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2732ab64fd86c12f2ba7df9c446",
+        "small": "https://i.scdn.co/image/ab67616d000048512ab64fd86c12f2ba7df9c446"
+      },
+      "duration": 191,
+      "ytId": "LnET4RKXx5k",
+      "addedAt": 1726692441850
+    },
+    {
+      "spotifyId": "1EvTnJ0l1Cct7q8QsQdckl",
+      "songName": "Fatoma",
+      "artist": {
+        "name": "Darksidevinyl",
+        "spotifyId": "7JgdmzLGGrt808y5C1STh0"
+      },
+      "album": {
+        "name": "Fatoma",
+        "spotifyId": "7L5eq0h23cjpkoBxDfzWlF"
+      },
+      "duration": 360,
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2736f08f387737bd7da41c00f4f",
+        "small": "https://i.scdn.co/image/ab67616d000048516f08f387737bd7da41c00f4f"
+      },
+      "releaseDate": "2023-11-24",
+      "ytId": "_i-Q2Tf5ZLQ",
+      "addedAt": 1726693831733
+    },
+    {
+      "spotifyId": "7tFiyTwD0nx5a1eklYtX2J",
+      "ytId": "fJ9rUzIMcZQ",
+      "songName": "Bohemian Rhapsody - Remastered 2011",
+      "artist": {
+        "name": "Queen",
+        "spotifyId": "1dfeR4HaWDbWqFHLkxsg1d"
+      },
+      "album": {
+        "name": "A Night At The Opera (Deluxe Remastered Version)",
+        "spotifyId": "6X9k3hSsvQck2OfKYdBbXr"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273ce4f1737bc8a646c8c4bd25a",
+        "small": "https://i.scdn.co/image/ab67616d00004851ce4f1737bc8a646c8c4bd25a"
+      },
+      "duration": 354,
+      "addedAt": 1726698358210
+    },
+    {
+      "spotifyId": "5RUHCOyy7SdDYibenkTJny",
+      "songName": "Fergalicious (made popular by Fergie ft. Will.i.am) [backing version]",
+      "artist": {
+        "name": "Party Tyme",
+        "spotifyId": "18BHcaFxDHqgfehv4g6vjC"
+      },
+      "album": {
+        "name": "Pop Female Hits 28 - Party Tyme - Backing Versions",
+        "spotifyId": "2YcCFkrYZawk3VaK9CnHza"
+      },
+      "duration": 292,
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273b64580b0184ef3fa43b704d8",
+        "small": "https://i.scdn.co/image/ab67616d00004851b64580b0184ef3fa43b704d8"
+      },
+      "releaseDate": "2023-10-20",
+      "ytId": "5T0utQ-XWGY",
+      "addedAt": 1726699290298
+    },
+    {
+      "spotifyId": "480F1NHaaFyFH0nBntjVDa",
+      "ytId": "0zGcUoRlhmw",
+      "songName": "Closer (Originally Performed by The Chainsmokers ft. Halsey) - Instrumental Version",
+      "artist": {
+        "name": "KaraokePro",
+        "spotifyId": "2QQVBYuFqkbV1je2L9aV1Z"
+      },
+      "album": {
+        "name": "Closer (Originally Performed by The Chainsmokers ft. Halsey) [Instrumental Version]",
+        "spotifyId": "1GhalUIb3JtS5KuHL8qw1U"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b27360007848929c55d6356e8d8c",
+        "small": "https://i.scdn.co/image/ab67616d0000485160007848929c55d6356e8d8c"
+      },
+      "duration": 245
+    }
+  ],
+  "createdAt": "2024-09-16T14:09:30.000Z",
+  "addedAt": 1726693835303,
+  "isPinned": false,
+  "lastIdx": "",
+  "isLikedSongs": null
+},
+{
+  "_id": {
+    "$oid": "66e8466b2f113f1d14d47e45"
+  },
+  "name": "Bohemian Rhapsody - Remastered 2011",
+  "type": "playlist",
+  "tags": [],
+  "stationImgUrl": "https://i.scdn.co/image/ab67616d0000b273ce4f1737bc8a646c8c4bd25a",
+  "description": "",
+  "isOwnedByUser": true,
+  "createdBy": {
+    "id": "66e83b4efcd44b62bc98d5d7",
+    "fullName": "tal"
+  },
+  "likedByUsers": [],
+  "songs": [
+    {
+      "spotifyId": "7tFiyTwD0nx5a1eklYtX2J",
+      "ytId": "fJ9rUzIMcZQ",
+      "songName": "Bohemian Rhapsody - Remastered 2011",
+      "artist": {
+        "name": "Queen",
+        "spotifyId": "1dfeR4HaWDbWqFHLkxsg1d"
+      },
+      "album": {
+        "name": "A Night At The Opera (Deluxe Remastered Version)",
+        "spotifyId": "6X9k3hSsvQck2OfKYdBbXr"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273ce4f1737bc8a646c8c4bd25a",
+        "small": "https://i.scdn.co/image/ab67616d00004851ce4f1737bc8a646c8c4bd25a"
+      },
+      "duration": 354,
+      "addedAt": 1726498411002
+    }
+  ],
+  "createdAt": 1726498411002,
+  "addedAt": 1726498411002,
+  "isPinned": false,
+  "lastIdx": ""
+},
+{
+  "_id": {
+    "$oid": "66e846712f113f1d14d47e46"
+  },
+  "name": "Bohemian Rhapsody - Remastered 2011",
+  "type": "playlist",
+  "tags": [],
+  "stationImgUrl": "https://i.scdn.co/image/ab67616d0000b273ce4f1737bc8a646c8c4bd25a",
+  "description": "",
+  "isOwnedByUser": true,
+  "createdBy": {
+    "id": "66e83b4efcd44b62bc98d5d7",
+    "fullName": "tal"
+  },
+  "likedByUsers": [],
+  "songs": [
+    {
+      "spotifyId": "7tFiyTwD0nx5a1eklYtX2J",
+      "ytId": "fJ9rUzIMcZQ",
+      "songName": "Bohemian Rhapsody - Remastered 2011",
+      "artist": {
+        "name": "Queen",
+        "spotifyId": "1dfeR4HaWDbWqFHLkxsg1d"
+      },
+      "album": {
+        "name": "A Night At The Opera (Deluxe Remastered Version)",
+        "spotifyId": "6X9k3hSsvQck2OfKYdBbXr"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273ce4f1737bc8a646c8c4bd25a",
+        "small": "https://i.scdn.co/image/ab67616d00004851ce4f1737bc8a646c8c4bd25a"
+      },
+      "duration": 354,
+      "addedAt": 1726498417262
+    },
+    {
+      "spotifyId": "254bXAqt3zP6P50BdQvEsq",
+      "songName": "Everywhere - 2017 Remaster",
+      "artist": {
+        "name": "Fleetwood Mac",
+        "spotifyId": "08GQAI4eElDnROBrJRGE0X"
+      },
+      "album": {
+        "name": "Tango In the Night (Deluxe Edition)",
+        "spotifyId": "4AsXQ17Arq1cUVoa9dKJ3F"
+      },
+      "duration": 226,
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273aaba065944cd82a6f15c86b6",
+        "small": "https://i.scdn.co/image/ab67616d00004851aaba065944cd82a6f15c86b6"
+      },
+      "releaseDate": "1987-04-13",
+      "ytId": "gsq3RCIOGEk",
+      "addedAt": 1726669673207
+    },
+    {
+      "spotifyId": "3VYrW02CQhbkYAe4rpG297",
+      "songName": "The Show Must Go On - Remastered 2011",
+      "artist": {
+        "name": "Queen",
+        "spotifyId": "1dfeR4HaWDbWqFHLkxsg1d"
+      },
+      "album": {
+        "name": "Innuendo",
+        "spotifyId": "3jYy7yGNCysTHE8MKrIF1k"
+      },
+      "duration": 277,
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273d1ab23495138ff8444c24b34",
+        "small": "https://i.scdn.co/image/ab67616d00004851d1ab23495138ff8444c24b34"
+      },
+      "releaseDate": "1991-02-04",
+      "ytId": "huc7IL7b8S8",
+      "addedAt": 1726669680981
+    }
+  ],
+  "createdAt": "2024-09-16T14:53:37.000Z",
+  "addedAt": 1726669696209,
+  "isPinned": false,
+  "lastIdx": 11,
+  "isLikedSongs": null
+},
+{
+  "_id": {
+    "$oid": "66e846792f113f1d14d47e47"
+  },
+  "name": "Shape of You",
+  "type": "playlist",
+  "tags": [],
+  "stationImgUrl": "https://i.scdn.co/image/ab67616d0000b273ba5db46f4b838ef6027e6f96",
+  "description": "",
+  "isOwnedByUser": true,
+  "createdBy": {
+    "id": "66e83b4efcd44b62bc98d5d7",
+    "fullName": "tal"
+  },
+  "likedByUsers": [],
+  "songs": [
+    {
+      "spotifyId": "7qiZfU4dY1lWllzX7mPBI3",
+      "ytId": "JGwWNGJdvx8",
+      "songName": "Shape of You",
+      "artist": {
+        "name": "Ed Sheeran",
+        "spotifyId": "6eUKZXaKkcviH0Ku9w2n3V"
+      },
+      "album": {
+        "name": "÷ (Deluxe)",
+        "spotifyId": "3T4tUhGYeRNVUGevb0wThu"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273ba5db46f4b838ef6027e6f96",
+        "small": "https://i.scdn.co/image/ab67616d00004851ba5db46f4b838ef6027e6f96"
+      },
+      "duration": 233,
+      "addedAt": 1726498425677
+    },
+    {
+      "spotifyId": "2pJZ1v8HezrAoZ0Fhzby92",
+      "songName": "What Do I Know?",
+      "artist": {
+        "name": "Ed Sheeran",
+        "spotifyId": "6eUKZXaKkcviH0Ku9w2n3V"
+      },
+      "album": {
+        "name": "÷ (Deluxe)",
+        "spotifyId": "3T4tUhGYeRNVUGevb0wThu"
+      },
+      "duration": 237,
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273ba5db46f4b838ef6027e6f96",
+        "small": "https://i.scdn.co/image/ab67616d00004851ba5db46f4b838ef6027e6f96"
+      },
+      "releaseDate": "2017-03-03",
+      "ytId": "6B9J3lEyffA",
+      "addedAt": 1726667695635
+    },
+    {
+      "spotifyId": "54ipXppHLA8U4yqpOFTUhr",
+      "songName": "Bones",
+      "artist": {
+        "name": "Imagine Dragons",
+        "spotifyId": "53XhwfbYqKCa1cC15pYq2q"
+      },
+      "album": {
+        "name": "Mercury - Acts 1 & 2",
+        "spotifyId": "6yiXkzHvC0OTmhfDQOEWtS"
+      },
+      "duration": 165,
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273fc915b69600dce2991a61f13",
+        "small": "https://i.scdn.co/image/ab67616d00004851fc915b69600dce2991a61f13"
+      },
+      "releaseDate": "2022-07-01",
+      "ytId": "TO-_3tck2tg",
+      "addedAt": 1726667700464
+    },
+    {
+      "spotifyId": "6VObnIkLVruX4UVyxWhlqm",
+      "songName": "Skyfall",
+      "artist": {
+        "name": "Adele",
+        "spotifyId": "4dpARuHxo51G3z768sgnrY"
+      },
+      "album": {
+        "name": "Skyfall",
+        "spotifyId": "6TwN6Lq9glwnG8kNp6chHY"
+      },
+      "duration": 286,
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2732737be35cc5245eef495be90",
+        "small": "https://i.scdn.co/image/ab67616d000048512737be35cc5245eef495be90"
+      },
+      "releaseDate": "2012-10-04",
+      "ytId": "DeumyOzKqgI",
+      "addedAt": 1726667703402
+    }
+  ],
+  "createdAt": "2024-09-16T14:53:45.000Z",
+  "addedAt": 1726498425677,
+  "isPinned": false,
+  "lastIdx": "",
+  "isLikedSongs": null
+},
+{
+  "_id": {
+    "$oid": "66e846842f113f1d14d47e48"
+  },
+  "name": "Billie Jean",
+  "type": "playlist",
+  "tags": [],
+  "stationImgUrl": "https://i.scdn.co/image/ab67616d0000b273de437d960dda1ac0a3586d97",
+  "description": "",
+  "isOwnedByUser": true,
+  "createdBy": {
+    "id": "66e83b4efcd44b62bc98d5d7",
+    "fullName": "tal"
+  },
+  "likedByUsers": [],
+  "songs": [
+    {
+      "spotifyId": "7J1uxwnxfQLu4APicE5Rnj",
+      "ytId": "Zi_XLOBDo_Y",
+      "songName": "Billie Jean",
+      "artist": {
+        "name": "Michael Jackson",
+        "spotifyId": "3fMbdgg4jU18AjLCKBhRSm"
+      },
+      "album": {
+        "name": "Thriller",
+        "spotifyId": "2ANVost0y2y52ema1E9xAZ"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273de437d960dda1ac0a3586d97",
+        "small": "https://i.scdn.co/image/ab67616d00004851de437d960dda1ac0a3586d97"
+      },
+      "duration": 294
+    }
+  ],
+  "createdAt": 1726498436442,
+  "addedAt": 1726498436442,
+  "isPinned": false,
+  "lastIdx": ""
+},
+{
+  "_id": {
+    "$oid": "66e847e72f113f1d14d47e4b"
+  },
+  "name": "Shape of You!!",
+  "type": "playlist",
+  "tags": [],
+  "stationImgUrl": "https://i.scdn.co/image/ab67616d0000b273ba5db46f4b838ef6027e6f96",
+  "description": "",
+  "isOwnedByUser": true,
+  "createdBy": {
+    "id": "66de2eb16260c20fa8d47f9f",
+    "fullName": "darr",
+    "imgUrl": null
+  },
+  "likedByUsers": [
+    "66eb3e64840ffc186c6373d3"
+  ],
+  "songs": [
+    {
+      "spotifyId": "1EvTnJ0l1Cct7q8QsQdckl",
+      "songName": "Fatoma",
+      "artist": {
+        "name": "Darksidevinyl",
+        "spotifyId": "7JgdmzLGGrt808y5C1STh0"
+      },
+      "album": {
+        "name": "Fatoma",
+        "spotifyId": "7L5eq0h23cjpkoBxDfzWlF"
+      },
+      "duration": 360,
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2736f08f387737bd7da41c00f4f",
+        "small": "https://i.scdn.co/image/ab67616d000048516f08f387737bd7da41c00f4f"
+      },
+      "releaseDate": "2023-11-24",
+      "ytId": "_i-Q2Tf5ZLQ",
+      "addedAt": 1726693888919
+    },
+    {
+      "spotifyId": "4SSzBIcyIq7rRItmEsT74P",
+      "ytId": "kJQP7kiw5Fk",
+      "songName": "Despacito (Remix) [made popular by Luis Fonsi & Daddy Yankee ft. Justin Bieber] [vocal version]",
+      "artist": {
+        "name": "Party Tyme",
+        "spotifyId": "18BHcaFxDHqgfehv4g6vjC"
+      },
+      "album": {
+        "name": "Pop Party Pack 8 - Party Tyme - Vocal Versions",
+        "spotifyId": "5zY0NJegRsc1DzLMSgOGQQ"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2737baaa8cb53b689654262a52d",
+        "small": "https://i.scdn.co/image/ab67616d000048517baaa8cb53b689654262a52d"
+      },
+      "duration": 228
+    },
+    {
+      "spotifyId": "20F1iMxxW0hzEWQ4nKgjEM",
+      "songName": "Mama Dear - Luca Saporito 'Supersapiens' Remix",
+      "artist": {
+        "name": "Drega",
+        "spotifyId": "1Gj6W2RfGpl6ebJGle93VG"
+      },
+      "album": {
+        "name": "Mama Dear (Luca Saporito Remix)",
+        "spotifyId": "2iaCtqYKA2FeDhofEQ90ZA"
+      },
+      "duration": 439,
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2737b4d4fcb0b6c6cc4a4f20d92",
+        "small": "https://i.scdn.co/image/ab67616d000048517b4d4fcb0b6c6cc4a4f20d92"
+      },
+      "releaseDate": "2023-08-25",
+      "ytId": "x-hmm6sPWDM",
+      "addedAt": 1726694061177
+    },
+    {
+      "spotifyId": "7qiZfU4dY1lWllzX7mPBI3",
+      "ytId": "JGwWNGJdvx8",
+      "songName": "Shape of You",
+      "artist": {
+        "name": "Ed Sheeran",
+        "spotifyId": "6eUKZXaKkcviH0Ku9w2n3V"
+      },
+      "album": {
+        "name": "÷ (Deluxe)",
+        "spotifyId": "3T4tUhGYeRNVUGevb0wThu"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273ba5db46f4b838ef6027e6f96",
+        "small": "https://i.scdn.co/image/ab67616d00004851ba5db46f4b838ef6027e6f96"
+      },
+      "duration": 233,
+      "addedAt": 1726498791692
+    },
+    {
+      "spotifyId": "2ctvdKmETyOzPb2GiJJT53",
+      "songName": "Breathe (In the Air)",
+      "artist": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        },
+        "href": "https://api.spotify.com/v1/artists/0k17h0D3J5VfsdmQ1iZtE9",
+        "id": "0k17h0D3J5VfsdmQ1iZtE9",
+        "name": "Pink Floyd",
+        "type": "artist",
+        "uri": "spotify:artist:0k17h0D3J5VfsdmQ1iZtE9"
+      },
+      "album": {
+        "name": "The Dark Side of the Moon",
+        "spotifyId": "4LH4d3cOWNNsVw41Gqt2kv"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273ea7caaff71dea1051d49b2fe",
+        "small": "https://i.scdn.co/image/ab67616d00004851ea7caaff71dea1051d49b2fe"
+      },
+      "duration": 169,
+      "addedAt": 1726756817061,
+      "ytId": "jcz0YxYl6Ac"
+    }
+  ],
+  "createdAt": "2024-09-16T14:59:51.000Z",
+  "addedAt": 1726693894315,
+  "isPinned": false,
+  "lastIdx": "",
+  "isLikedSongs": null
+},
+{
+  "_id": {
+    "$oid": "66e87cc92f113f1d14d47e4d"
+  },
+  "name": "Shake It Off",
+  "type": "playlist",
+  "tags": [],
+  "stationImgUrl": "https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148",
+  "description": "",
+  "isOwnedByUser": true,
+  "createdBy": {
+    "id": "66de2eb16260c20fa8d47f9f",
+    "fullName": "darr",
+    "imgUrl": null
+  },
+  "likedByUsers": [],
+  "songs": [
+    {
+      "spotifyId": "5xTtaWoae3wi06K5WfVUUH",
+      "ytId": "nfWlot6h_JM",
+      "songName": "Shake It Off",
+      "artist": {
+        "name": "Taylor Swift",
+        "spotifyId": "06HL4z0CvFAxyc27GXpf02"
+      },
+      "album": {
+        "name": "1989",
+        "spotifyId": "2QJmrSgbdM35R67eoGQo4j"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2739abdf14e6058bd3903686148",
+        "small": "https://i.scdn.co/image/ab67616d000048519abdf14e6058bd3903686148"
+      },
+      "duration": 219,
+      "addedAt": 1726512329447
+    },
+    {
+      "spotifyId": "5Z01UMMf7V1o0MzF86s6WJ",
+      "ytId": "xFYQQPAOz7Y",
+      "songName": "Lose Yourself",
+      "artist": {
+        "name": "Eminem",
+        "spotifyId": "7dGJo4pcD2V6oG8kP0tJRR"
+      },
+      "album": {
+        "name": "Curtain Call: The Hits (Deluxe Edition)",
+        "spotifyId": "5qENHeCSlwWpEzb25peRmQ"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273eab40fc794b88b9d1e012578",
+        "small": "https://i.scdn.co/image/ab67616d00004851eab40fc794b88b9d1e012578"
+      },
+      "duration": 326
+    },
+    {
+      "spotifyId": "5Q0Nhxo0l2bP3pNjpGJwV1",
+      "songName": "Party In The U.S.A.",
+      "artist": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        },
+        "href": "https://api.spotify.com/v1/artists/5YGY8feqx7naU7z4HrwZM6",
+        "id": "5YGY8feqx7naU7z4HrwZM6",
+        "name": "Miley Cyrus",
+        "type": "artist",
+        "uri": "spotify:artist:5YGY8feqx7naU7z4HrwZM6"
+      },
+      "album": {
+        "name": "The Time Of Our Lives",
+        "spotifyId": "64aKkqxc3Ur2LYIKeS5osS"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273d6c3ad6a2a27471e1d5e8103",
+        "small": "https://i.scdn.co/image/ab67616d00004851d6c3ad6a2a27471e1d5e8103"
+      },
+      "duration": 202,
+      "ytId": "M11SvDtPBhA",
+      "addedAt": 1726681276010
+    },
+    {
+      "spotifyId": "480F1NHaaFyFH0nBntjVDa",
+      "ytId": "0zGcUoRlhmw",
+      "songName": "Closer (Originally Performed by The Chainsmokers ft. Halsey) - Instrumental Version",
+      "artist": {
+        "name": "KaraokePro",
+        "spotifyId": "2QQVBYuFqkbV1je2L9aV1Z"
+      },
+      "album": {
+        "name": "Closer (Originally Performed by The Chainsmokers ft. Halsey) [Instrumental Version]",
+        "spotifyId": "1GhalUIb3JtS5KuHL8qw1U"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b27360007848929c55d6356e8d8c",
+        "small": "https://i.scdn.co/image/ab67616d0000485160007848929c55d6356e8d8c"
+      },
+      "duration": 245
+    },
+    {
+      "spotifyId": "1zwMYTA5nlNjZxYrvBB2pV",
+      "ytId": "hLQl3WQQoQ0",
+      "songName": "Someone Like You",
+      "artist": {
+        "name": "Adele",
+        "spotifyId": "4dpARuHxo51G3z768sgnrY"
+      },
+      "album": {
+        "name": "21",
+        "spotifyId": "0Lg1uZvI312TPqxNWShFXL"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2732118bf9b198b05a95ded6300",
+        "small": "https://i.scdn.co/image/ab67616d000048512118bf9b198b05a95ded6300"
+      },
+      "duration": 285
+    }
+  ],
+  "createdAt": 1726512329447,
+  "addedAt": 1726512329447,
+  "isPinned": false,
+  "lastIdx": "",
+  "isLikedSongs": null
+},
+{
+  "_id": {
+    "$oid": "66eb0107840ffc186c6373c7"
+  },
+  "name": "Liked Songs",
+  "type": "playlist",
+  "tags": [],
+  "stationImgUrl": "https://misc.scdn.co/liked-songs/liked-songs-300.png",
+  "description": "",
+  "isOwnedByUser": true,
+  "createdBy": {
+    "id": "66eb0107840ffc186c6373c6",
+    "fullName": "shoshi"
+  },
+  "likedByUsers": [],
+  "songs": [],
+  "createdAt": 1726677255187,
+  "addedAt": 1726677255187,
+  "isPinned": true,
+  "lastIdx": ""
+},
+{
+  "_id": {
+    "$oid": "66eb0f04840ffc186c6373c9"
+  },
+  "name": "Liked Songs",
+  "type": "playlist",
+  "tags": [],
+  "stationImgUrl": "https://misc.scdn.co/liked-songs/liked-songs-300.png",
+  "description": "",
+  "isOwnedByUser": true,
+  "createdBy": {
+    "id": "66eb0f04840ffc186c6373c8",
+    "fullName": "om"
+  },
+  "likedByUsers": [],
+  "songs": [],
+  "createdAt": 1726680836725,
+  "addedAt": 1726680836725,
+  "isPinned": true,
+  "lastIdx": ""
+},
+{
+  "_id": {
+    "$oid": "66eb1087840ffc186c6373ca"
+  },
+  "name": "Party In The U.S.A.",
+  "type": "playlist",
+  "tags": [],
+  "stationImgUrl": "https://i.scdn.co/image/ab67616d0000b273d6c3ad6a2a27471e1d5e8103",
+  "description": "",
+  "isOwnedByUser": true,
+  "createdBy": {
+    "id": "66de2eb16260c20fa8d47f9f",
+    "fullName": "darr",
+    "imgUrl": null
+  },
+  "likedByUsers": [],
+  "songs": [
+    {
+      "spotifyId": "5Q0Nhxo0l2bP3pNjpGJwV1",
+      "songName": "Party In The U.S.A.",
+      "artist": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        },
+        "href": "https://api.spotify.com/v1/artists/5YGY8feqx7naU7z4HrwZM6",
+        "id": "5YGY8feqx7naU7z4HrwZM6",
+        "name": "Miley Cyrus",
+        "type": "artist",
+        "uri": "spotify:artist:5YGY8feqx7naU7z4HrwZM6"
+      },
+      "album": {
+        "name": "The Time Of Our Lives",
+        "spotifyId": "64aKkqxc3Ur2LYIKeS5osS"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273d6c3ad6a2a27471e1d5e8103",
+        "small": "https://i.scdn.co/image/ab67616d00004851d6c3ad6a2a27471e1d5e8103"
+      },
+      "duration": 202,
+      "ytId": "M11SvDtPBhA",
+      "addedAt": 1726681223277
+    },
+    {
+      "spotifyId": "2hrUO4drrO63i7FYbCLBl2",
+      "songName": "Rockabye (feat. Sean Paul & Anne-Marie)",
+      "artist": {
+        "name": "Clean Bandit",
+        "spotifyId": "6MDME20pz9RveH9rEXvrOM"
+      },
+      "album": {
+        "name": "What Is Love? (Deluxe Edition)",
+        "spotifyId": "1MvF4ulZKH7SaDQs9rE5nc"
+      },
+      "duration": 251,
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b27337fb0680110fbb107740de5d",
+        "small": "https://i.scdn.co/image/ab67616d0000485137fb0680110fbb107740de5d"
+      },
+      "releaseDate": "2018-11-30",
+      "ytId": "papuvlVeZg8",
+      "addedAt": 1726681234929
+    },
+    {
+      "spotifyId": "25ZttbpeUKDOm3aghD2oBJ",
+      "songName": "I Kissed A Girl",
+      "artist": {
+        "name": "Katy Perry",
+        "spotifyId": "6jJ0s89eD6GaHleKKya26X"
+      },
+      "album": {
+        "name": "One Of The Boys",
+        "spotifyId": "1vFFZPioAu0vrJRcGoyGX8"
+      },
+      "duration": 179,
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b27331cc26681b0164332fa26634",
+        "small": "https://i.scdn.co/image/ab67616d0000485131cc26681b0164332fa26634"
+      },
+      "releaseDate": "2008",
+      "ytId": "tAp9BKosZXs",
+      "addedAt": 1726681238809
+    },
+    {
+      "spotifyId": "0GROiXm03OrMC5ltXLhGIu",
+      "songName": "The Party & The After Party",
+      "artist": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        "href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
+        "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+        "name": "The Weeknd",
+        "type": "artist",
+        "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+      },
+      "album": {
+        "name": "House Of Balloons - Original",
+        "spotifyId": "7zCODUHkfuRxsUjtuzNqbd"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273274b406a7e18acebcf743079",
+        "small": "https://i.scdn.co/image/ab67616d00004851274b406a7e18acebcf743079"
+      },
+      "duration": 459,
+      "ytId": "yI-zb_aP0So",
+      "addedAt": 1726681246652
+    },
+    {
+      "spotifyId": "5mqPg2dyqb1gBNyg9ycGcT",
+      "songName": "Party And Bullshit",
+      "artist": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb"
+        },
+        "href": "https://api.spotify.com/v1/artists/5me0Irg2ANcsgc93uaYrpb",
+        "id": "5me0Irg2ANcsgc93uaYrpb",
+        "name": "The Notorious B.I.G.",
+        "type": "artist",
+        "uri": "spotify:artist:5me0Irg2ANcsgc93uaYrpb"
+      },
+      "album": {
+        "name": "Whos The Man ? Soundtrack",
+        "spotifyId": "2lka9gSjkghBBSjktHnN6o"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273248667da8d589ce025f1ba56",
+        "small": "https://i.scdn.co/image/ab67616d00004851248667da8d589ce025f1ba56"
+      },
+      "duration": 219,
+      "ytId": "rEaPDNgUPLE",
+      "addedAt": 1726681248439
+    },
+    {
+      "spotifyId": "4SSzBIcyIq7rRItmEsT74P",
+      "ytId": "kJQP7kiw5Fk",
+      "songName": "Despacito (Remix) [made popular by Luis Fonsi & Daddy Yankee ft. Justin Bieber] [vocal version]",
+      "artist": {
+        "name": "Party Tyme",
+        "spotifyId": "18BHcaFxDHqgfehv4g6vjC"
+      },
+      "album": {
+        "name": "Pop Party Pack 8 - Party Tyme - Vocal Versions",
+        "spotifyId": "5zY0NJegRsc1DzLMSgOGQQ"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2737baaa8cb53b689654262a52d",
+        "small": "https://i.scdn.co/image/ab67616d000048517baaa8cb53b689654262a52d"
+      },
+      "duration": 228
+    },
+    {
+      "spotifyId": "73KAidtqbDftZjy8AD0H04",
+      "songName": "High Road (feat. Jessie Murph)",
+      "artist": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+        },
+        "href": "https://api.spotify.com/v1/artists/1Tie3AZgLQZqYEp8Fv4zOZ",
+        "id": "1Tie3AZgLQZqYEp8Fv4zOZ",
+        "name": "Koe Wetzel",
+        "type": "artist",
+        "uri": "spotify:artist:1Tie3AZgLQZqYEp8Fv4zOZ"
+      },
+      "album": {
+        "name": "High Road (feat. Jessie Murph)",
+        "spotifyId": "62NSHNGNQC2hXZKNuvF6pi"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2732c44d76ea64d1b5876b44eb3",
+        "small": "https://i.scdn.co/image/ab67616d000048512c44d76ea64d1b5876b44eb3"
+      },
+      "duration": 179,
+      "ytId": "UyAKpowkUDA",
+      "addedAt": 1726701057878
+    },
+    {
+      "spotifyId": "2ctvdKmETyOzPb2GiJJT53",
+      "songName": "Breathe (In the Air)",
+      "artist": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+        },
+        "href": "https://api.spotify.com/v1/artists/0k17h0D3J5VfsdmQ1iZtE9",
+        "id": "0k17h0D3J5VfsdmQ1iZtE9",
+        "name": "Pink Floyd",
+        "type": "artist",
+        "uri": "spotify:artist:0k17h0D3J5VfsdmQ1iZtE9"
+      },
+      "album": {
+        "name": "The Dark Side of the Moon",
+        "spotifyId": "4LH4d3cOWNNsVw41Gqt2kv"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273ea7caaff71dea1051d49b2fe",
+        "small": "https://i.scdn.co/image/ab67616d00004851ea7caaff71dea1051d49b2fe"
+      },
+      "duration": 169,
+      "addedAt": 1726756817061,
+      "ytId": "jcz0YxYl6Ac"
+    }
+  ],
+  "createdAt": "2024-09-18T17:40:23.000Z",
+  "addedAt": 1726681223277,
+  "isPinned": false,
+  "lastIdx": "",
+  "isLikedSongs": null
+},
+{
+  "_id": {
+    "$oid": "66eb26d4840ffc186c6373ce"
+  },
+  "name": "Liked Songs",
+  "type": "playlist",
+  "tags": [],
+  "stationImgUrl": "https://misc.scdn.co/liked-songs/liked-songs-300.png",
+  "description": "",
+  "isOwnedByUser": true,
+  "createdBy": {
+    "id": "66eb26d4840ffc186c6373cd",
+    "fullName": "a"
+  },
+  "likedByUsers": [],
+  "songs": [],
+  "createdAt": 1726686932588,
+  "addedAt": 1726686932588,
+  "isPinned": true,
+  "lastIdx": ""
+},
+{
+  "_id": {
+    "$oid": "66eb2bb3840ffc186c6373d0"
+  },
+  "name": "Liked Songs",
+  "type": "playlist",
+  "tags": [],
+  "stationImgUrl": "https://misc.scdn.co/liked-songs/liked-songs-300.png",
+  "description": "",
+  "isOwnedByUser": true,
+  "createdBy": {
+    "id": "66eb2bb2840ffc186c6373cf",
+    "fullName": "b"
+  },
+  "likedByUsers": [],
+  "songs": [
+    {
+      "spotifyId": "7J1uxwnxfQLu4APicE5Rnj",
+      "ytId": "Zi_XLOBDo_Y",
+      "songName": "Billie Jean",
+      "artist": {
+        "name": "Michael Jackson",
+        "spotifyId": "3fMbdgg4jU18AjLCKBhRSm"
+      },
+      "album": {
+        "name": "Thriller",
+        "spotifyId": "2ANVost0y2y52ema1E9xAZ"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273de437d960dda1ac0a3586d97",
+        "small": "https://i.scdn.co/image/ab67616d00004851de437d960dda1ac0a3586d97"
+      },
+      "duration": 294,
+      "addedAt": 1726688209889
+    },
+    {
+      "spotifyId": "2xHxKGGGQjudyLpAQrHRHU",
+      "ytId": "r7qovpFAGrQ",
+      "songName": "Old Town Road (Remix) [made popular by Lil Nas X ft. Billy Ray Cyrus] [vocal version]",
+      "artist": {
+        "name": "Party Tyme",
+        "spotifyId": "18BHcaFxDHqgfehv4g6vjC"
+      },
+      "album": {
+        "name": "Pop Party Pack 9 - Party Tyme (Vocal Versions)",
+        "spotifyId": "0UFjrTvhneQA4wzpTCniE7"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273a89ef85d131c98d076a47673",
+        "small": "https://i.scdn.co/image/ab67616d00004851a89ef85d131c98d076a47673"
+      },
+      "duration": 157,
+      "addedAt": 1726688257872
+    },
+    {
+      "spotifyId": "7ygpwy2qP3NbrxVkHvUhXY",
+      "ytId": "vU05Eksc_iM",
+      "songName": "Wonderwall - Remastered",
+      "artist": {
+        "name": "Oasis",
+        "spotifyId": "2DaxqgrOhkeH0fpeiQq2f4"
+      },
+      "album": {
+        "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
+        "spotifyId": "6tOe4eAF8xNhEkl9WyvsE4"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2737a4c8c59851c88f6794c3cbf",
+        "small": "https://i.scdn.co/image/ab67616d000048517a4c8c59851c88f6794c3cbf"
+      },
+      "duration": 258,
+      "addedAt": 1726688308341
+    }
+  ],
+  "createdAt": 1726688178982,
+  "addedAt": 1726688178982,
+  "isPinned": true,
+  "lastIdx": "",
+  "isLikedSongs": null
+},
+{
+  "_id": {
+    "$oid": "66eb2bda840ffc186c6373d1"
+  },
+  "name": "Wonderwall - Remastered",
+  "type": "playlist",
+  "tags": [],
+  "stationImgUrl": "https://i.scdn.co/image/ab67616d0000b2737a4c8c59851c88f6794c3cbf",
+  "description": "",
+  "isOwnedByUser": true,
+  "createdBy": {
+    "id": "66eb2bb2840ffc186c6373cf",
+    "fullName": "b"
+  },
+  "likedByUsers": [],
+  "songs": [
+    {
+      "spotifyId": "7ygpwy2qP3NbrxVkHvUhXY",
+      "ytId": "vU05Eksc_iM",
+      "songName": "Wonderwall - Remastered",
+      "artist": {
+        "name": "Oasis",
+        "spotifyId": "2DaxqgrOhkeH0fpeiQq2f4"
+      },
+      "album": {
+        "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
+        "spotifyId": "6tOe4eAF8xNhEkl9WyvsE4"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2737a4c8c59851c88f6794c3cbf",
+        "small": "https://i.scdn.co/image/ab67616d000048517a4c8c59851c88f6794c3cbf"
+      },
+      "duration": 258,
+      "addedAt": 1726688218673
+    }
+  ],
+  "createdAt": 1726688218673,
+  "addedAt": 1726688218673,
+  "isPinned": false,
+  "lastIdx": ""
+},
+{
+  "_id": {
+    "$oid": "66eb2c39840ffc186c6373d2"
+  },
+  "name": "Wonderwall - Remastered",
+  "type": "playlist",
+  "tags": [],
+  "stationImgUrl": "https://i.scdn.co/image/ab67616d0000b2737a4c8c59851c88f6794c3cbf",
+  "description": "",
+  "isOwnedByUser": true,
+  "createdBy": {
+    "id": "66eb2bb2840ffc186c6373cf",
+    "fullName": "b"
+  },
+  "likedByUsers": [],
+  "songs": [
+    {
+      "spotifyId": "7ygpwy2qP3NbrxVkHvUhXY",
+      "ytId": "vU05Eksc_iM",
+      "songName": "Wonderwall - Remastered",
+      "artist": {
+        "name": "Oasis",
+        "spotifyId": "2DaxqgrOhkeH0fpeiQq2f4"
+      },
+      "album": {
+        "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
+        "spotifyId": "6tOe4eAF8xNhEkl9WyvsE4"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b2737a4c8c59851c88f6794c3cbf",
+        "small": "https://i.scdn.co/image/ab67616d000048517a4c8c59851c88f6794c3cbf"
+      },
+      "duration": 258,
+      "addedAt": 1726688218673
+    }
+  ],
+  "createdAt": 1726688313757,
+  "addedAt": 1726688313757,
+  "isPinned": false,
+  "lastIdx": ""
+},
+{
+  "_id": {
+    "$oid": "66eb3e64840ffc186c6373d4"
+  },
+  "name": "Liked Songs",
+  "type": "playlist",
+  "tags": [],
+  "stationImgUrl": "https://i.scdn.co/image/ab67616d0000b27396fa88fb1789be437d5cb4b6",
+  "description": "",
+  "isOwnedByUser": true,
+  "createdBy": {
+    "id": "66eb3e64840ffc186c6373d3",
+    "fullName": "omri"
+  },
+  "likedByUsers": [],
+  "songs": [
+    {
+      "spotifyId": "4xdBrk0nFZaP54vvZj0yx7",
+      "songName": "HOT TO GO!",
+      "artist": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        },
+        "href": "https://api.spotify.com/v1/artists/7GlBOeep6PqTfFi59PTUUN",
+        "id": "7GlBOeep6PqTfFi59PTUUN",
+        "name": "Chappell Roan",
+        "type": "artist",
+        "uri": "spotify:artist:7GlBOeep6PqTfFi59PTUUN"
+      },
+      "album": {
+        "name": "The Rise and Fall of a Midwest Princess",
+        "spotifyId": "0EiI8ylL0FmWWpgHVTsZjZ"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b27396fa88fb1789be437d5cb4b6",
+        "small": "https://i.scdn.co/image/ab67616d0000485196fa88fb1789be437d5cb4b6"
+      },
+      "duration": 184,
+      "ytId": "xaPNR-_Cfn0",
+      "addedAt": 1726693716869
+    }
+  ],
+  "createdAt": "2024-09-18T20:56:04.000Z",
+  "addedAt": 1726714854474,
+  "isPinned": true,
+  "lastIdx": 1,
+  "isLikedSongs": null
+},
+{
+  "_id": {
+    "$oid": "66eb8d7e840ffc186c6373d5"
+  },
+  "name": "Take on Me",
+  "type": "playlist",
+  "tags": [],
+  "stationImgUrl": "https://i.scdn.co/image/ab67616d0000b273e8dd4db47e7177c63b0b7d53",
+  "description": "",
+  "isOwnedByUser": true,
+  "createdBy": {
+    "id": "66de2eb16260c20fa8d47f9f",
+    "fullName": "darr",
+    "imgUrl": null
+  },
+  "likedByUsers": [],
+  "songs": [
+    {
+      "spotifyId": "2WfaOiMkCvy7F5fcp2zZ8L",
+      "ytId": "djV11Xbc914",
+      "songName": "Take on Me",
+      "artist": {
+        "name": "a-ha",
+        "spotifyId": "2jzc5TC5TVFLXQlBNiIUzE"
+      },
+      "album": {
+        "name": "Hunting High and Low",
+        "spotifyId": "1ER3B6zev5JEAaqhnyyfbf"
+      },
+      "imgUrl": {
+        "big": "https://i.scdn.co/image/ab67616d0000b273e8dd4db47e7177c63b0b7d53",
+        "small": "https://i.scdn.co/image/ab67616d00004851e8dd4db47e7177c63b0b7d53"
+      },
+      "duration": 225,
+      "addedAt": 1726713214507
+    }
+  ],
+  "createdAt": 1726713214507,
+  "addedAt": 1726713214507,
+  "isPinned": false,
+  "lastIdx": ""
 }]
