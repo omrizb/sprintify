@@ -1,6 +1,3 @@
-Coding Academy - production ready server
-//Still editing....
-
 Super recommended to open on a desktop as well!
 
 Link to final project on Render:
