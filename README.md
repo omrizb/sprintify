@@ -1,7 +1,6 @@
 This project was developed as the final assignment for the Coding Academy course
 
-<video src="https://github.com/user-attachments/assets/cec570ae-4a25-469e-b370-84e1b65196a6" height="200px" controls>
-</video>
+https://github.com/user-attachments/assets/18854a43-bcf7-4436-a7fc-296b570689f5
 
 🔗 **Project Links:**  
 ➡ Live Project: [Sprintify on Render](https://sprintify.onrender.com/)  
