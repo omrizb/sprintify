@@ -1,8 +1,10 @@
-This project was developed as the final assignment for the Coding Academy course.
+This project was developed as the final assignment for the Coding Academy course
+
+https://github.com/user-attachments/assets/cec570ae-4a25-469e-b370-84e1b65196a6
 
 🔗 **Project Links:**  
-Live Project: [Sprintify on Render](https://sprintify.onrender.com/)  
-Frontend Repository: [Sprintify Frontend on GitHub](https://github.com/omrizb/sprintify-frontend)
+➡ Live Project: [Sprintify on Render](https://sprintify.onrender.com/)  
+➡ Frontend Repository: [Sprintify Frontend on GitHub](https://github.com/omrizb/sprintify-frontend)
 
 🎯 **Objective:**  
 Sprintify is a clone of Spotify, designed to mimic its core functionalities and user interface.  
