@@ -13,7 +13,8 @@ Use of Spotify API for album, playlist and other track related information
 Use of YouTube API for streaming the tracks
 ![image](https://github.com/user-attachments/assets/4fff3359-0789-41b6-b496-92f8245851ac)
 ![image](https://github.com/user-attachments/assets/91e474f4-31d7-4d62-94b3-b9d95162c2fb)
-![image](https://github.com/user-attachments/assets/7d7d58d0-819e-42d9-8add-43a66a7e1510)
+![image](https://github.com/user-attachments/assets/d2a87e03-d9f1-46d7-b91f-f0b82d3be1d3)
+
 
 
 
