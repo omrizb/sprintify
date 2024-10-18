@@ -1,6 +1,9 @@
 This project was developed as the final assignment for the Coding Academy course
 
-<img src="https://github.com/user-attachments/assets/cec570ae-4a25-469e-b370-84e1b65196a6" alt="Image" height="200px">
+<video src="https://github.com/user-attachments/assets/cec570ae-4a25-469e-b370-84e1b65196a6" height="200px" controls>
+    Your browser does not support the video tag.
+</video>
+
 
 
 🔗 **Project Links:**  
