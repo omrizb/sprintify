@@ -1,7 +1,5 @@
 This project was developed as the final assignment for the Coding Academy course
 
-<img src="https://github.com/user-attachments/assets/440f7f82-7f31-41f9-bc09-46fd9ca55943" alt="Sprintify screenshot" width="400px">
-
 https://github.com/user-attachments/assets/a8e0d85a-8c47-4c4d-841f-96e1ce6875b1
 
 🔗 **Project Links:**  
