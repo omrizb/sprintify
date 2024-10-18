@@ -1,4 +1,4 @@
-This project was developed as the final assignment for the Coding Academy course
+**This project was developed as the final assignment for the Coding Academy course**
 
 https://github.com/user-attachments/assets/a8e0d85a-8c47-4c4d-841f-96e1ce6875b1
 
