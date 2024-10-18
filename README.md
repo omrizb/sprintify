@@ -1,33 +1,26 @@
-This was the final project of the Coding Academy Course.
+This project was developed as the final assignment for the Coding Academy course.
 
-Link to final project on Render:  
-[https://sprintify.onrender.com/](https://sprintify.onrender.com/)
+Project Links:
+Live Project: Sprintify on Render
+Frontend Repository: Sprintify Frontend on GitHub
+Objective:
+Sprintify is a clone of Spotify, designed to mimic its core functionalities and user interface. The project was built with Node.js, React, Redux, and other modern web technologies to create a pixel-perfect Spotify-like application.
 
-Link to frontEnd:  
-[https://github.com/omrizb/sprintify-frontend](https://github.com/omrizb/sprintify-frontend)  
-Purpose: To clone the famous Spotify.
+Note: For the best experience and to enjoy all the features, please access the application on a desktop device.
 
-Important: To enjoy all features this app has to offer, please open on desktop.
-
-Use of Spotify API for album, playlist, and other track-related information  
-Use of YouTube API for streaming the tracks
-
-<img src="https://github.com/user-attachments/assets/4fff3359-0789-41b6-b496-92f8245851ac" alt="Image 1" height="100px">
-<img src="https://github.com/user-attachments/assets/91e474f4-31d7-4d62-94b3-b9d95162c2fb" alt="Image 2" height="100px">
-<img src="https://github.com/user-attachments/assets/d2a87e03-d9f1-46d7-b91f-f0b82d3be1d3" alt="Image 3" height="100px">
-
-Node, React, Redux, and more to create a Spotify pixel-perfect Frontend.
-
-<img src="https://github.com/user-attachments/assets/f4080e4a-aced-4ebd-aa0f-dd1ff4d451f9" alt="Image 4" height="100px">
-<img src="https://github.com/user-attachments/assets/457b894d-9345-4c31-b921-ea6aee58ded8" alt="Image 5" height="100px">
-
-MongoDB for data collection  
-WebSockets for mutual listening and station editing between different users.
-
-### Features:
-1. Mutual listening and editing - WebSockets
-2. Drag and drop
-3. Filters
-4. Search
-5. Smart dropdown menus
-6. AND MANY MORE...
+API Integration:
+Spotify API: Utilized for retrieving album, playlist, and track-related information.
+YouTube API: Integrated for streaming tracks directly in the application.
+<img src="https://github.com/user-attachments/assets/4fff3359-0789-41b6-b496-92f8245851ac" alt="Image 1" height="50px"> <img src="https://github.com/user-attachments/assets/91e474f4-31d7-4d62-94b3-b9d95162c2fb" alt="Image 2" height="50px"> <img src="https://github.com/user-attachments/assets/d2a87e03-d9f1-46d7-b91f-f0b82d3be1d3" alt="Image 3" height="50px">
+Technologies Used:
+Frontend: React, Redux, HTML, CSS
+Backend: Node.js, Express, MongoDB
+Additional Technologies: WebSockets for real-time communication and mutual listening between users, drag-and-drop functionalities, search filters, and smart dropdown menus.
+<img src="https://github.com/user-attachments/assets/f4080e4a-aced-4ebd-aa0f-dd1ff4d451f9" alt="Image 4" height="50px"> <img src="https://github.com/user-attachments/assets/457b894d-9345-4c31-b921-ea6aee58ded8" alt="Image 5" height="50px">
+Key Features:
+Mutual Listening and Editing: Real-time WebSocket-based interaction.
+Drag and Drop: Enhanced usability for creating and managing playlists.
+Advanced Filters: Refine searches based on custom criteria.
+Search Functionality: Easily find songs, albums, or playlists.
+Smart Dropdown Menus: Dynamic menus that adapt to user interactions.
+...and many more
