@@ -1,8 +1,11 @@
 This project was developed as the final assignment for the Coding Academy course
 
-https://github.com/user-attachments/assets/18854a43-bcf7-4436-a7fc-296b570689f5
+<video width="400" controls>
+  <source src="https://github.com/user-attachments/assets/18854a43-bcf7-4436-a7fc-296b570689f5" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
-![Sprintify screenshot](https://github.com/user-attachments/assets/440f7f82-7f31-41f9-bc09-46fd9ca55943)
+<img src="https://github.com/user-attachments/assets/440f7f82-7f31-41f9-bc09-46fd9ca55943" alt="Sprintify screenshot" width="400px">
 
 🔗 **Project Links:**  
 ➡ Live Project: [Sprintify on Render](https://sprintify.onrender.com/)  
