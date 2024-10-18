@@ -2,6 +2,8 @@ This project was developed as the final assignment for the Coding Academy course
 
 https://github.com/user-attachments/assets/18854a43-bcf7-4436-a7fc-296b570689f5
 
+![Sprintify screenshot](https://github.com/user-attachments/assets/440f7f82-7f31-41f9-bc09-46fd9ca55943)
+
 🔗 **Project Links:**  
 ➡ Live Project: [Sprintify on Render](https://sprintify.onrender.com/)  
 ➡ Frontend Repository: [Sprintify Frontend on GitHub](https://github.com/omrizb/sprintify-frontend)
