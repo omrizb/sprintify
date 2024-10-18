@@ -11,9 +11,10 @@ Important:  to enjoy all features this app has to offer please open on desktop
 
 Use of Spotify API for album, playlist and other track related information
 Use of YouTube API for streaming the tracks
-
-![image](https://github.com/user-attachments/assets/75cbfd70-613e-4304-878b-cdda4409a1d5)
 <img src="https://github.com/user-attachments/assets/75cbfd70-613e-4304-878b-cdda4409a1d5" alt="Image description" width="100">
+<img src="[https://github.com/user-attachments/assets/75cbfd70-613e-4304-878b-cdda4409a1d5](https://github.com/user-attachments/assets/17ea3df0-db75-4fa2-b4dd-2fca1a6b7064)" alt="Image description" width="100">
+
+
 
 
 
