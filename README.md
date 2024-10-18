@@ -5,15 +5,6 @@ This project was developed as the final assignment for the Coding Academy course
   Your browser does not support the video tag.
 </video>
 
-
-
-
-
-
-
-https://github.com/user-attachments/assets/40fed659-40c2-4099-9580-fac8d04a7a43
-
-
 <img src="https://github.com/user-attachments/assets/440f7f82-7f31-41f9-bc09-46fd9ca55943" alt="Sprintify screenshot" width="400px">
 
 🔗 **Project Links:**  
