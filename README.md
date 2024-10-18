@@ -16,13 +16,10 @@ Use of YouTube API for streaming the tracks
 ![image](https://github.com/user-attachments/assets/d2a87e03-d9f1-46d7-b91f-f0b82d3be1d3)
 
 
-
-
-
-
-
-
 Node, React, Redux and more to creat a Spotify-pixel perfect Front
+
+![image](https://github.com/user-attachments/assets/f4080e4a-aced-4ebd-aa0f-dd1ff4d451f9)
+
 MongoDB for data collection
 Web Sockets for mutual listening and station editing between different users
 
